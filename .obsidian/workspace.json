@@ -1,0 +1,316 @@
+{
+  "main": {
+    "id": "a0986e1148a6e73d",
+    "type": "split",
+    "children": [
+      {
+        "id": "42831e1836e452d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9ff889164d796bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer_Science/CS08_DataStructure/Data_Types/Composite Data Type CDT 复合类型.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff48abe67a275de0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer_Science/CS08_DataStructure/Data_Types/Composite Data Type CDT 复合类型.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a27b533c649c0417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer_Science/CS80_Algorithm/Basic Concept/Time Complexity 时间复杂度.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e9048b1153c6c04",
+    "type": "split",
+    "children": [
+      {
+        "id": "041ab1cc87bf0bfb",
+        "type": "tabs",
+        "dimension": 52.422480620155035,
+        "children": [
+          {
+            "id": "9098a7017c5db8c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00d2556b8396b01a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b84df6824884370",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b3562fbb1576bd26",
+        "type": "tabs",
+        "dimension": 47.577519379844965,
+        "children": [
+          {
+            "id": "f0ffd0b87d13b7cb",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "8257e7f3ad27077c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "65ff02c75848b07a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff91887cd55e33b2",
+        "type": "tabs",
+        "dimension": 32.55813953488372,
+        "children": [
+          {
+            "id": "3022d8617f88a7f4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "49d7fa2f84d5e2a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "2db997c8bf301771",
+            "type": "leaf",
+            "state": {
+              "type": "Sets-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "42ab4640ba0ff415",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "409e42db9b8cdc35",
+        "type": "tabs",
+        "dimension": 29.26356589147287,
+        "children": [
+          {
+            "id": "5e9f3c9fcc5161b3",
+            "type": "leaf",
+            "state": {
+              "type": "keyboard-shortcuts-visualization",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e027f33da264d7e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "698b462fcb67854c",
+        "type": "tabs",
+        "dimension": 38.17829457364341,
+        "children": [
+          {
+            "id": "953272869da72e21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "218851bf14a7744f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6bf417d53370b8f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 480.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "vscode-editor:新建代码文件": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "file-tree-alternative:File Tree Alternative Plugin": true,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-importer:Open Importer": false,
+      "dbfolder:创建一个新数据库表": false,
+      "publish:发布更改": false
+    }
+  },
+  "active": "42ab4640ba0ff415",
+  "lastOpenFiles": [
+    "Computer_Science/CS80_Algorithm/Basic Concept/Time Complexity 时间复杂度.md",
+    "Computer_Science/CS80_Algorithm/Basic Concept/Algorithm Basic 算法基础.md",
+    "Computer_Science/CS80_Algorithm/Basic Concept/Space–Time Trade Off 时空权衡.md",
+    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/Pasted image 20240416125832.png",
+    "Computer_Science/CS08_DataStructure/Data_Types/Composite Data Type CDT 复合类型.md",
+    "Computer_Science/CS08_DataStructure/Data_Types/attachment/DATASTRUCT.png",
+    "Computer_Science/CS08_DataStructure/Data_Types/attachment/Pasted image 20240416123800.png",
+    "Computer_Science/CS80_Algorithm/Strategy/Dynamic Programming 动态规划.md",
+    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/数据结构.png",
+    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/找零与贪心算法.png",
+    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/扑克牌算法.png",
+    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/字典步骤5.png",
+    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/字典步骤4.png",
+    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/字典步骤3.png",
+    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/字典步骤2.png",
+    "Computer_Science/CS80_Algorithm/Basic Concept/attachment",
+    "Computer_Science/CS08_DataStructure/Data_Types/Loop and Array in C 从C理解数组和连续内存.md",
+    "Computer_Science/CS08_DataStructure/Data_Types/Abstract data type ADT 抽象类型.md",
+    "Template/Algorithm模板.md",
+    "Template/Data Structure模板.md",
+    "Computer_Science/CS01_LeetCode",
+    "Computer_Science/CS00_Language/C语言/C 字符串.md",
+    "Computer_Science/CS00_Language/C语言/C 指针.md",
+    "Computer_Science/CS00_Language/C语言/C 语言基础.md",
+    "Computer_Science/CS00_Language/C语言/C 头文件.md",
+    "Computer_Science/CS00_Language/C语言/C 函数.md",
+    "Computer_Science/CS00_Language/C语言/C 数组.md",
+    "Computer_Science/CS00_Language/C语言/C 结构体.md",
+    "Computer_Science/CS00_Language/计算机语言的基本概念.md",
+    "Computer_Science/CS00_Language/C语言/attachment",
+    "C语言的字符串.md",
+    "Personal/Key Wallet.md",
+    "Computer_Science/CS80_Algorithm/Sorting",
+    "Computer_Science/CS08_DataStructure/Data_Types/Binary Heap 堆结构.md",
+    "Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Design Pattern 设计模式.md",
+    "Personal/Key Information/Air Canada.md",
+    "Personal/Untitled database.md",
+    "Personal/Key Information.md",
+    "Personal/Key Information/SIN.md",
+    "Sets/Collections/Key Information",
+    "Sets/Collections",
+    "Sets",
+    "Computer_Science/CS00_Language/C++",
+    "Computer_Science/CS00_Language/Java",
+    "Computer_Science/CS00_Language/Python",
+    "未命名.canvas"
+  ]
+}

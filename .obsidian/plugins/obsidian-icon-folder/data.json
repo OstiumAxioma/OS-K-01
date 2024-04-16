@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiLeetcode",
+      "SiCodio",
+      "SiKeepassxc",
+      "OcKey24",
+      "OcTerminal24"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "CS04_ObjectOrientedDesign": {
+    "iconName": "FarObjectGroup",
+    "iconColor": "#f55151"
+  },
+  "CS08_DataStructure": {
+    "iconName": "OcGitMergeQueue16",
+    "iconColor": "#5b88f1"
+  },
+  "Computer_Science/CS04_ObjectOrientedDesign": "SiDask",
+  "Computer_Science/CS08_DataStructure": "SiGraphql",
+  "Computer_Science/CS80_Algorithm": "OcCommandPalette16",
+  "Template": "OcProjectTemplate24",
+  "Excalidraw": "OcDiamond24",
+  "Computer_Science": "OcTerminal24",
+  "Computer_Science/CS00_Language": "SiCodio",
+  "Computer_Science/CS01_LeetCode": "SiLeetcode"
+}

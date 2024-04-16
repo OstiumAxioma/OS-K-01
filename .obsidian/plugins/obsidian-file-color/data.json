@@ -1,0 +1,22 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "3tr4-LfCFiUqKzUtl4IEq",
+      "name": "珊瑚粉",
+      "value": "#ff6666"
+    },
+    {
+      "id": "fKc0QZMquCTFFs91TlGBS",
+      "name": "群青",
+      "value": "#68dcf3"
+    },
+    {
+      "id": "F-nah5W9pLTbX7JPjQEtq",
+      "name": "Green",
+      "value": "#4dfe59"
+    }
+  ],
+  "fileColors": []
+}

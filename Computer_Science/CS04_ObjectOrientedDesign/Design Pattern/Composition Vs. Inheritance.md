@@ -1,0 +1,1 @@
+This module introduces the student to the concepts of software architecture and code reuse. The different approaches to code reuse (composition vs. inheritance) is explored, and best-practices for avoiding common pitfalls with inheritance are presented.

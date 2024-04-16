@@ -1,0 +1,386 @@
+{
+  "widgets": [],
+  "components": [
+    {
+      "id": "a1020170-de74-4a1e-bff6-22ea38ce9964",
+      "type": "markdown",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-04-16T18:51:17.409Z",
+      "updateAt": "2024-04-16T18:51:23.503Z",
+      "backgroundStyle": "card",
+      "maxHeight": 300,
+      "contentAlign": "left",
+      "markdownsSource": "file",
+      "markdownValue": ""
+    },
+    {
+      "id": "b65e33cd-6034-4626-be49-18b2655e4891",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-04-16T16:19:35.967Z",
+      "updateAt": "2024-04-16T16:42:18.545Z",
+      "backgroundStyle": "none",
+      "viewType": "gallary",
+      "datasource": {
+        "filter": {
+          "conditions": [
+            {
+              "value": "Computer_Science/CS08_DataStructure/Data_Types",
+              "operator": "contains",
+              "property": "${file.path}",
+              "id": "50ccc281-384e-4fe6-ba0b-281dc9efb103"
+            },
+            {
+              "value": "#计算机/数据结构/抽象类型",
+              "operator": "contains",
+              "property": "${file.tags}",
+              "id": "bed0aa16-f50f-45cd-97f7-ba1ba7931943"
+            }
+          ]
+        },
+        "dataLimit": 50,
+        "storage": {
+          "location": "Computer_Science/CS08_DataStructure/Data_Types"
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "properties": [
+        {
+          "id": "fef076d7-ec5f-403a-8fb1-590e0f97b1f3",
+          "name": "${file.ctime}",
+          "isShow": true,
+          "defaultValue": "",
+          "type": "datetime"
+        },
+        {
+          "id": "74a515d9-8b2e-4188-a126-2b715e2de64e",
+          "name": "${file.tags}",
+          "isShow": true,
+          "defaultValue": [],
+          "type": "multiSelect"
+        },
+        {
+          "id": "035b034d-6738-4e7d-89bc-0f2ebabfe671",
+          "name": "${file.size}",
+          "isShow": true,
+          "defaultValue": 0,
+          "type": "number"
+        }
+      ],
+      "templates": [
+        {
+          "id": "a7817db5-aaf5-467e-bfac-6d8426135353",
+          "path": "Template/Data Structure模板.md",
+          "name": "Data Structure模板.md",
+          "type": "normal"
+        }
+      ],
+      "viewOptions": {
+        "openPageIn": "tab",
+        "itemSize": "gallary-small",
+        "cover": {
+          "type": "pageFirstImage",
+          "value": "",
+          "fit": "contains"
+        }
+      }
+    },
+    {
+      "id": "b8b47e98-f027-4ad2-b466-84f40b241ab6",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-04-16T15:22:03.307Z",
+      "updateAt": "2024-04-16T15:23:21.792Z",
+      "backgroundStyle": "none",
+      "viewType": "gallary",
+      "datasource": {
+        "filter": {
+          "conditions": [
+            {
+              "value": "#计算机/数据结构/复合类型",
+              "operator": "contains",
+              "property": "${file.tags}",
+              "id": "347e3833-8dda-425d-8d83-526e2ac58137"
+            }
+          ]
+        },
+        "dataLimit": 50,
+        "storage": {
+          "location": "Computer_Science/CS08_DataStructure/Data_Types"
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "properties": [
+        {
+          "id": "5473e857-fb79-43d7-adb8-8e49da716610",
+          "name": "${file.tags}",
+          "isShow": true,
+          "defaultValue": [],
+          "type": "multiSelect"
+        },
+        {
+          "id": "b45f396c-3c58-42e7-9880-6bd35b295fa3",
+          "name": "${file.size}",
+          "isShow": true,
+          "defaultValue": 0,
+          "type": "number"
+        },
+        {
+          "id": "881911d9-5dbb-420c-ba6c-5528953624f1",
+          "name": "${file.ctime}",
+          "isShow": true,
+          "defaultValue": "",
+          "type": "datetime"
+        }
+      ],
+      "templates": [],
+      "viewOptions": {
+        "openPageIn": "tab",
+        "itemSize": "gallary-small",
+        "cover": {
+          "type": "pageFirstImage",
+          "value": "",
+          "fit": "contains"
+        }
+      }
+    },
+    {
+      "id": "b1d18911-82da-4750-8198-125aa27c2ec6",
+      "type": "count",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-04-15T18:15:10.811Z",
+      "updateAt": "2024-04-15T18:15:43.741Z",
+      "backgroundStyle": "card",
+      "contentPrefix": "",
+      "contentSuffix": "",
+      "countType": "number",
+      "query": {
+        "valueType": "query",
+        "value": 100,
+        "filter": {
+          "conditions": [
+            {
+              "value": "#个人",
+              "operator": "contains",
+              "property": "${file.tags}",
+              "id": "fca94dab-d17b-46dc-909b-8e39e440aa73"
+            }
+          ]
+        }
+      },
+      "totalQuery": {
+        "valueType": "constant",
+        "value": 100,
+        "filter": {
+          "conditions": []
+        }
+      }
+    },
+    {
+      "id": "bf0a9380-8dd0-41f0-9884-de43ae5e7125",
+      "type": "chart",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-04-15T18:12:06.757Z",
+      "updateAt": "2024-04-15T18:13:14.972Z",
+      "chartType": "doughnut",
+      "backgroundStyle": "card",
+      "maxHeight": 314,
+      "labelProperty": "tags",
+      "labelFormat": "$none",
+      "valueProperty": "$file_count",
+      "filter": {
+        "conditions": []
+      },
+      "chartColorSet": [],
+      "chartLabelPosition": "hidden",
+      "title": "个人信息统计"
+    },
+    {
+      "id": "93eb8322-8f70-4bbd-b1e8-0670cc1ee60e",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-04-15T18:08:52.679Z",
+      "updateAt": "2024-04-15T19:42:47.013Z",
+      "backgroundStyle": "none",
+      "viewType": "table",
+      "datasource": {
+        "filter": {
+          "conditions": [
+            {
+              "value": "Personal/Key Information",
+              "operator": "contains",
+              "property": "${file.path}",
+              "id": "7de86c7e-28d8-40a9-a65d-62165eb99850"
+            }
+          ]
+        },
+        "dataLimit": 50,
+        "storage": {
+          "location": ""
+        },
+        "sort": {
+          "orders": []
+        }
+      },
+      "properties": [
+        {
+          "id": "b20840f9-efeb-45dc-bb63-7d525fec16f9",
+          "name": "${file.tags}",
+          "isShow": true,
+          "defaultValue": [],
+          "type": "multiSelect"
+        },
+        {
+          "id": "177d5a54-18fa-4331-ae14-a50555cd3c89",
+          "name": "ID",
+          "isShow": true,
+          "defaultValue": "",
+          "type": "text"
+        },
+        {
+          "id": "0a2d460d-daac-475f-88fd-a0891a116e97",
+          "name": "Password",
+          "isShow": true,
+          "defaultValue": "",
+          "type": "text"
+        },
+        {
+          "id": "f1f6cb4a-2122-43b6-a394-1a20e326e125",
+          "name": "Account Number",
+          "isShow": true,
+          "defaultValue": 0,
+          "type": "number"
+        },
+        {
+          "id": "99b910ce-b81a-40b2-a94d-d50568a58ebe",
+          "name": "Start Date",
+          "isShow": true,
+          "defaultValue": "",
+          "type": "datetime"
+        },
+        {
+          "id": "34f627e1-ece9-4a3f-8080-041113488da8",
+          "name": "Email",
+          "isShow": true,
+          "defaultValue": "",
+          "type": "text"
+        }
+      ],
+      "templates": [],
+      "viewOptions": {
+        "openPageIn": "tab",
+        "itemSize": "gallary-small",
+        "cover": {
+          "type": "pageFirstImage",
+          "value": "",
+          "fit": "contains"
+        },
+        "headColumnWidth": "306"
+      }
+    },
+    {
+      "id": "097d52f5-ad0b-41aa-8b4b-8b57ef499cff",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-04-15T18:08:14.625Z",
+      "updateAt": "2024-04-15T18:08:52.679Z",
+      "backgroundStyle": "none",
+      "widgets": [],
+      "components": [
+        {
+          "componentId": "93eb8322-8f70-4bbd-b1e8-0670cc1ee60e"
+        }
+      ],
+      "layoutType": "tab"
+    },
+    {
+      "id": "745dd4fd-799d-4264-a5b1-ea72b013e86d",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-04-15T18:11:34.951Z",
+      "updateAt": "2024-04-15T18:15:03.038Z",
+      "backgroundStyle": "none",
+      "widgets": [],
+      "components": [
+        {
+          "componentId": "bf0a9380-8dd0-41f0-9884-de43ae5e7125"
+        },
+        {
+          "componentId": "b1d18911-82da-4750-8198-125aa27c2ec6"
+        }
+      ],
+      "layoutType": "column"
+    },
+    {
+      "id": "e11db396-efbf-4903-b5b4-1bd8c24c3d89",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-04-16T15:21:53.757Z",
+      "updateAt": "2024-04-16T15:22:03.307Z",
+      "backgroundStyle": "none",
+      "widgets": [],
+      "components": [
+        {
+          "componentId": "b8b47e98-f027-4ad2-b466-84f40b241ab6"
+        }
+      ],
+      "layoutType": "column"
+    },
+    {
+      "id": "5fda6b78-cb5d-4f65-86f6-5286d0d7c636",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-04-16T16:19:29.209Z",
+      "updateAt": "2024-04-16T16:21:27.301Z",
+      "backgroundStyle": "none",
+      "widgets": [],
+      "components": [
+        {
+          "componentId": "b65e33cd-6034-4626-be49-18b2655e4891"
+        }
+      ],
+      "layoutType": "tab"
+    },
+    {
+      "id": "1ca5239a-33af-4112-b483-3acd6ee0bd7c",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-04-16T18:48:17.030Z",
+      "updateAt": "2024-04-16T18:51:17.409Z",
+      "backgroundStyle": "none",
+      "widgets": [],
+      "components": [
+        {
+          "componentId": "a1020170-de74-4a1e-bff6-22ea38ce9964"
+        }
+      ],
+      "layoutType": "verticalTab"
+    }
+  ]
+}

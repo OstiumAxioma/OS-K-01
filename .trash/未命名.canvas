@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b6161065461bc0d5","x":-400,"y":-220,"width":400,"height":400,"color":"2","type":"file","file":"Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Design Pattern 设计模式.md"},
+		{"id":"6a2fceefa7b2b2e9","x":180,"y":180,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"5b5d4f92d1da390b","fromNode":"6a2fceefa7b2b2e9","fromSide":"top","toNode":"b6161065461bc0d5","toSide":"right"}
+	]
+}

@@ -1,0 +1,501 @@
+{
+  "workspaces": {
+    "Workbench": {
+      "main": {
+        "id": "a0986e1148a6e73d",
+        "type": "split",
+        "children": [
+          {
+            "id": "db91258f55c4c15a",
+            "type": "tabs",
+            "dimension": 62.41418764302059,
+            "children": [
+              {
+                "id": "5fc52b07e4447a8b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CS04_ObjectOrientedDesign/Design Pattern/Design Pattern 设计模式.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "55c6aa1ea65ff744",
+            "type": "tabs",
+            "dimension": 37.5858123569794,
+            "children": [
+              {
+                "id": "44efc50abee4084d",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2024-04-01 17.53.46.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8e9048b1153c6c04",
+        "type": "split",
+        "children": [
+          {
+            "id": "041ab1cc87bf0bfb",
+            "type": "tabs",
+            "dimension": 34.17231364956437,
+            "children": [
+              {
+                "id": "9098a7017c5db8c1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "00d2556b8396b01a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1b84df6824884370",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f7d6aedac088eb82",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "c2683f402ee13379",
+            "type": "tabs",
+            "dimension": 44.43368828654405,
+            "children": [
+              {
+                "id": "8257e7f3ad27077c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2024-04-01 17.53.46.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "b3562fbb1576bd26",
+            "type": "tabs",
+            "dimension": 21.39399806389158,
+            "children": [
+              {
+                "id": "f0ffd0b87d13b7cb",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "65ff02c75848b07a",
+        "type": "split",
+        "children": [
+          {
+            "id": "ff91887cd55e33b2",
+            "type": "tabs",
+            "dimension": 32.17054263565892,
+            "children": [
+              {
+                "id": "5e027f33da264d7e",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e9af04ad8f8cc4da",
+                "type": "leaf",
+                "state": {
+                  "type": "translator-view",
+                  "state": {
+                    "language_from": "zh",
+                    "language_to": null,
+                    "translation_service": "openai_translator",
+                    "auto_translate": false,
+                    "apply_glossary": false,
+                    "view_mode": 0,
+                    "filter_mode": 0,
+                    "show_attribution": false,
+                    "top_buttons": [
+                      "change-service",
+                      "automatic-translation",
+                      "change-layout",
+                      "apply-filter",
+                      "open-settings"
+                    ],
+                    "left_buttons": [
+                      "paste",
+                      "clear"
+                    ],
+                    "right_buttons": [
+                      "copy"
+                    ]
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "698b462fcb67854c",
+            "type": "tabs",
+            "dimension": 67.82945736434108,
+            "children": [
+              {
+                "id": "953272869da72e21",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2024-04-01 17.53.46.excalidraw.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "218851bf14a7744f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Excalidraw/Drawing 2024-04-01 17.53.46.excalidraw.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e6bf417d53370b8f",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 383.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "file-tree-alternative:File Tree Alternative Plugin": false,
+          "translate:Open translation view": false
+        }
+      },
+      "active": "9098a7017c5db8c1",
+      "mtime": "2024-04-01T18:15:40-07:00"
+    },
+    "LinkSort": {
+      "main": {
+        "id": "a0986e1148a6e73d",
+        "type": "split",
+        "children": [
+          {
+            "id": "42831e1836e452d0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e9ff889164d796bf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Computer_Science/CS00_Language/C语言/C 结构体.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8e9048b1153c6c04",
+        "type": "split",
+        "children": [
+          {
+            "id": "041ab1cc87bf0bfb",
+            "type": "tabs",
+            "dimension": 52.422480620155035,
+            "children": [
+              {
+                "id": "9098a7017c5db8c1",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "00d2556b8396b01a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#计算机/include",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1b84df6824884370",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "b3562fbb1576bd26",
+            "type": "tabs",
+            "dimension": 47.577519379844965,
+            "children": [
+              {
+                "id": "f0ffd0b87d13b7cb",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8257e7f3ad27077c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 309.5
+      },
+      "right": {
+        "id": "65ff02c75848b07a",
+        "type": "split",
+        "children": [
+          {
+            "id": "ff91887cd55e33b2",
+            "type": "tabs",
+            "dimension": 32.55813953488372,
+            "children": [
+              {
+                "id": "3022d8617f88a7f4",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "49d7fa2f84d5e2a3",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {}
+                }
+              },
+              {
+                "id": "2db997c8bf301771",
+                "type": "leaf",
+                "state": {
+                  "type": "Sets-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "42ab4640ba0ff415",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "409e42db9b8cdc35",
+            "type": "tabs",
+            "dimension": 26.16279069767442,
+            "children": [
+              {
+                "id": "5e9f3c9fcc5161b3",
+                "type": "leaf",
+                "state": {
+                  "type": "keyboard-shortcuts-visualization",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5e027f33da264d7e",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "698b462fcb67854c",
+            "type": "tabs",
+            "dimension": 41.27906976744186,
+            "children": [
+              {
+                "id": "953272869da72e21",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "218851bf14a7744f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e6bf417d53370b8f",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 480.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:查看关系图谱": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "vscode-editor:新建代码文件": false,
+          "switcher:打开快速切换": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "workspaces:管理工作区布局": false,
+          "file-tree-alternative:File Tree Alternative Plugin": true,
+          "markdown-table-editor:Open Markdown Table Editor": false,
+          "obsidian-importer:Open Importer": false,
+          "dbfolder:创建一个新数据库表": false,
+          "publish:发布更改": false
+        }
+      },
+      "active": "42ab4640ba0ff415",
+      "mtime": "2024-04-15T21:11:04-07:00"
+    }
+  },
+  "active": "LinkSort"
+}

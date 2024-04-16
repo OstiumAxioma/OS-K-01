@@ -1,0 +1,111 @@
+{
+  "callouts": {
+    "custom": [],
+    "settings": {
+      "warning": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 31, 31"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 31, 31"
+          }
+        }
+      ],
+      "attention": [
+        {
+          "changes": {
+            "icon": "lucide-alert-circle"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 71, 51"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 71, 51"
+          }
+        }
+      ],
+      "caution": [
+        {
+          "changes": {
+            "icon": "lucide-badge-alert"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 132, 56"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 132, 56"
+          }
+        }
+      ],
+      "formula": [
+        {
+          "changes": {
+            "icon": "lucide-atom"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "198, 208, 245"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "198, 208, 245"
+          }
+        }
+      ],
+      "important": [
+        {
+          "changes": {
+            "icon": "lucide-book-open-check",
+            "color": "254, 160, 98"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}
