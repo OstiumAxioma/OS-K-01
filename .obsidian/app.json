@@ -1,10 +1,4 @@
 {
-  "strictLineBreaks": true,
-  "vimMode": false,
-  "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./attachment",
-  "showUnsupportedFiles": true,
-  "trashOption": "local",
-  "readableLineLength": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "readableLineLength": true
 }

@@ -1,12 +1,1 @@
-{
-  "accentColor": "",
-  "monospaceFontFamily": "Fira Code",
-  "cssTheme": "AnuPpuccin",
-  "theme": "obsidian",
-  "nativeMenus": false,
-  "baseFontSize": 14,
-  "enabledCssSnippets": [
-    "metadata-icon-auto-gen",
-    "Image Align"
-  ]
-}
+{}

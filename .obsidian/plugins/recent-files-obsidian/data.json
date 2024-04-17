@@ -1,120 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Algorithm Basic 算法基础",
-      "path": "Computer_Science/CS80_Algorithm/Basic Concept/Algorithm Basic 算法基础.md"
-    },
-    {
       "basename": "Time Complexity 时间复杂度",
       "path": "Computer_Science/CS80_Algorithm/Basic Concept/Time Complexity 时间复杂度.md"
     },
     {
-      "basename": "Space–Time Trade Off 时空权衡",
-      "path": "Computer_Science/CS80_Algorithm/Basic Concept/Space–Time Trade Off 时空权衡.md"
-    },
-    {
-      "basename": "Composite Data Type CDT 复合类型",
-      "path": "Computer_Science/CS08_DataStructure/Data_Types/Composite Data Type CDT 复合类型.md"
-    },
-    {
-      "basename": "Dynamic Programming 动态规划",
-      "path": "Computer_Science/CS80_Algorithm/Strategy/Dynamic Programming 动态规划.md"
-    },
-    {
-      "basename": "字典步骤1",
-      "path": "Computer_Science/CS80_Algorithm/Basic Concept/attachment/字典步骤1.png"
-    },
-    {
-      "basename": "Loop and Array in C 从C理解数组和连续内存",
-      "path": "Computer_Science/CS08_DataStructure/Data_Types/Loop and Array in C 从C理解数组和连续内存.md"
-    },
-    {
-      "basename": "Abstract data type ADT 抽象类型",
-      "path": "Computer_Science/CS08_DataStructure/Data_Types/Abstract data type ADT 抽象类型.md"
-    },
-    {
-      "basename": "Algorithm模板",
-      "path": "Template/Algorithm模板.md"
-    },
-    {
-      "basename": "Data Structure模板",
-      "path": "Template/Data Structure模板.md"
-    },
-    {
-      "basename": "C 字符串",
-      "path": "Computer_Science/CS00_Language/C语言/C 字符串.md"
-    },
-    {
-      "basename": "C 指针",
-      "path": "Computer_Science/CS00_Language/C语言/C 指针.md"
-    },
-    {
-      "basename": "C 语言基础",
-      "path": "Computer_Science/CS00_Language/C语言/C 语言基础.md"
-    },
-    {
-      "basename": "C 头文件",
-      "path": "Computer_Science/CS00_Language/C语言/C 头文件.md"
-    },
-    {
-      "basename": "C 函数",
-      "path": "Computer_Science/CS00_Language/C语言/C 函数.md"
-    },
-    {
-      "basename": "C 数组",
-      "path": "Computer_Science/CS00_Language/C语言/C 数组.md"
-    },
-    {
-      "basename": "C 结构体",
-      "path": "Computer_Science/CS00_Language/C语言/C 结构体.md"
-    },
-    {
-      "basename": "计算机语言的基本概念",
-      "path": "Computer_Science/CS00_Language/计算机语言的基本概念.md"
-    },
-    {
-      "basename": "Binary Heap 堆结构",
-      "path": "Computer_Science/CS08_DataStructure/Data_Types/Binary Heap 堆结构.md"
-    },
-    {
-      "basename": "Design Pattern 设计模式",
-      "path": "Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Design Pattern 设计模式.md"
-    },
-    {
-      "basename": "数组示意图_2",
-      "path": "Computer_Science/CS08_DataStructure/Data_Types/attachment/数组示意图_2.png"
-    },
-    {
-      "basename": "数组示意图_1",
-      "path": "Computer_Science/CS08_DataStructure/Data_Types/attachment/数组示意图_1.png"
-    },
-    {
-      "basename": "数组示意图_3",
-      "path": "Computer_Science/CS08_DataStructure/Data_Types/attachment/数组示意图_3.png"
-    },
-    {
-      "basename": "数组示意图_4",
-      "path": "Computer_Science/CS08_DataStructure/Data_Types/attachment/数组示意图_4.png"
-    },
-    {
-      "basename": "Composition Vs. Inheritance",
-      "path": "Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Composition Vs. Inheritance.md"
-    },
-    {
-      "basename": "动态规划思路图解",
-      "path": "Computer_Science/CS80_Algorithm/Strategy/attachment/动态规划思路图解.png"
-    },
-    {
-      "basename": "无后效性示意图",
-      "path": "Computer_Science/CS80_Algorithm/Strategy/attachment/无后效性示意图.png"
-    },
-    {
-      "basename": "Learning Template",
-      "path": "Template/Learning Template.md"
-    },
-    {
-      "basename": "DesignPattern.excalidraw",
-      "path": "Excalidraw/DesignPattern.excalidraw.md"
+      "basename": "Algorithm Basic 算法基础",
+      "path": "Computer_Science/CS80_Algorithm/Basic Concept/Algorithm Basic 算法基础.md"
     }
   ],
   "omittedPaths": [],

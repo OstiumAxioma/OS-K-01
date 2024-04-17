@@ -11,8 +11,13 @@
             "id": "a27b533c649c0417",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Computer_Science/CS80_Algorithm/Basic Concept/Time Complexity 时间复杂度.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -82,10 +87,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer_Science/CS80_Algorithm/Basic Concept/Time Complexity 时间复杂度.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Computer_Science/CS80_Algorithm/Basic Concept/Time Complexity 时间复杂度.md"
+              }
             }
           },
           {
@@ -173,6 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer_Science/CS80_Algorithm/Basic Concept/Time Complexity 时间复杂度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer_Science/CS80_Algorithm/Basic Concept/Time Complexity 时间复杂度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,6 +245,7 @@
   },
   "active": "a27b533c649c0417",
   "lastOpenFiles": [
+    "Computer_Science/CS80_Algorithm/Basic Concept/Algorithm Basic 算法基础.md",
     "Computer_Science/CS80_Algorithm/Basic Concept/attachment/计算渐进上界.png",
     "Computer_Science/CS80_Algorithm/Basic Concept/attachment/数据结构.png",
     "Computer_Science/CS80_Algorithm/Basic Concept/attachment/找零与贪心算法.png",
@@ -243,13 +256,11 @@
     "Computer_Science/CS80_Algorithm/Basic Concept/attachment/字典步骤2.png",
     "Computer_Science/CS80_Algorithm/Basic Concept/attachment/字典步骤1.png",
     "Computer_Science/CS80_Algorithm/Basic Concept/attachment/复杂度级别关系.png",
-    "Computer_Science/CS80_Algorithm/Strategy/attachment/重叠子问题示意图.png",
     "Computer_Science/CS80_Algorithm/Strategy/Dynamic Programming 动态规划.md",
     "Computer_Science/CS80_Algorithm/Strategy/attachment",
     "Computer_Science/CS80_Algorithm/Basic Concept/Time Complexity 时间复杂度.md",
     "Computer_Science/CS80_Algorithm/Basic Concept/Space–Time Trade Off 时空权衡.md",
     "Computer_Science/CS80_Algorithm/Basic Concept/attachment",
-    "Computer_Science/CS80_Algorithm/Basic Concept/Algorithm Basic 算法基础.md",
     "Computer_Science/CS80_Algorithm/Strategy",
     "Computer_Science/CS80_Algorithm/Sorting",
     "Computer_Science/CS80_Algorithm/Basic Concept",
