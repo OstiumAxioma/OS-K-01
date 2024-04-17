@@ -8,46 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9ff889164d796bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer_Science/CS08_DataStructure/Data_Types/Composite Data Type CDT 复合类型.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff48abe67a275de0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer_Science/CS08_DataStructure/Data_Types/Composite Data Type CDT 复合类型.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a27b533c649c0417",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer_Science/CS80_Algorithm/Basic Concept/Time Complexity 时间复杂度.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "409e42db9b8cdc35",
@@ -192,8 +160,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "698b462fcb67854c",
@@ -264,16 +231,9 @@
       "publish:发布更改": false
     }
   },
-  "active": "42ab4640ba0ff415",
+  "active": "a27b533c649c0417",
   "lastOpenFiles": [
-    "Computer_Science/CS80_Algorithm/Basic Concept/Time Complexity 时间复杂度.md",
-    "Computer_Science/CS80_Algorithm/Basic Concept/Algorithm Basic 算法基础.md",
-    "Computer_Science/CS80_Algorithm/Basic Concept/Space–Time Trade Off 时空权衡.md",
-    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/Pasted image 20240416125832.png",
-    "Computer_Science/CS08_DataStructure/Data_Types/Composite Data Type CDT 复合类型.md",
-    "Computer_Science/CS08_DataStructure/Data_Types/attachment/DATASTRUCT.png",
-    "Computer_Science/CS08_DataStructure/Data_Types/attachment/Pasted image 20240416123800.png",
-    "Computer_Science/CS80_Algorithm/Strategy/Dynamic Programming 动态规划.md",
+    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/计算渐进上界.png",
     "Computer_Science/CS80_Algorithm/Basic Concept/attachment/数据结构.png",
     "Computer_Science/CS80_Algorithm/Basic Concept/attachment/找零与贪心算法.png",
     "Computer_Science/CS80_Algorithm/Basic Concept/attachment/扑克牌算法.png",
@@ -281,36 +241,44 @@
     "Computer_Science/CS80_Algorithm/Basic Concept/attachment/字典步骤4.png",
     "Computer_Science/CS80_Algorithm/Basic Concept/attachment/字典步骤3.png",
     "Computer_Science/CS80_Algorithm/Basic Concept/attachment/字典步骤2.png",
+    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/字典步骤1.png",
+    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/复杂度级别关系.png",
+    "Computer_Science/CS80_Algorithm/Strategy/attachment/重叠子问题示意图.png",
+    "Computer_Science/CS80_Algorithm/Strategy/Dynamic Programming 动态规划.md",
+    "Computer_Science/CS80_Algorithm/Strategy/attachment",
+    "Computer_Science/CS80_Algorithm/Basic Concept/Time Complexity 时间复杂度.md",
+    "Computer_Science/CS80_Algorithm/Basic Concept/Space–Time Trade Off 时空权衡.md",
     "Computer_Science/CS80_Algorithm/Basic Concept/attachment",
+    "Computer_Science/CS80_Algorithm/Basic Concept/Algorithm Basic 算法基础.md",
+    "Computer_Science/CS80_Algorithm/Strategy",
+    "Computer_Science/CS80_Algorithm/Sorting",
+    "Computer_Science/CS80_Algorithm/Basic Concept",
+    "Computer_Science/CS80_Algorithm",
     "Computer_Science/CS08_DataStructure/Data_Types/Loop and Array in C 从C理解数组和连续内存.md",
+    "Computer_Science/CS08_DataStructure/Data_Types/Composite Data Type CDT 复合类型.md",
+    "Computer_Science/CS08_DataStructure/Data_Types/Binary Heap 堆结构.md",
+    "Computer_Science/CS08_DataStructure/Data_Types/attachment",
     "Computer_Science/CS08_DataStructure/Data_Types/Abstract data type ADT 抽象类型.md",
-    "Template/Algorithm模板.md",
-    "Template/Data Structure模板.md",
-    "Computer_Science/CS01_LeetCode",
-    "Computer_Science/CS00_Language/C语言/C 字符串.md",
-    "Computer_Science/CS00_Language/C语言/C 指针.md",
+    "Computer_Science/CS08_DataStructure/Data_Types",
+    "Computer_Science/CS08_DataStructure/Computer_Composition",
+    "Computer_Science/CS08_DataStructure",
+    "Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Composition Vs. Inheritance.md",
+    "Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Design Pattern 设计模式.md",
     "Computer_Science/CS00_Language/C语言/C 语言基础.md",
+    "Computer_Science/CS00_Language/C语言/C 结构体.md",
+    "Computer_Science/CS00_Language/C语言/C 指针.md",
+    "Computer_Science/CS00_Language/C语言/C 数组.md",
+    "Computer_Science/CS00_Language/C语言/C 字符串.md",
     "Computer_Science/CS00_Language/C语言/C 头文件.md",
     "Computer_Science/CS00_Language/C语言/C 函数.md",
-    "Computer_Science/CS00_Language/C语言/C 数组.md",
-    "Computer_Science/CS00_Language/C语言/C 结构体.md",
     "Computer_Science/CS00_Language/计算机语言的基本概念.md",
-    "Computer_Science/CS00_Language/C语言/attachment",
+    "Template/Data Structure模板.md",
+    "Template/Algorithm模板.md",
+    "Template/Learning Template.md",
+    "Excalidraw/DesignPattern.excalidraw.md",
     "C语言的字符串.md",
     "Personal/Key Wallet.md",
-    "Computer_Science/CS80_Algorithm/Sorting",
-    "Computer_Science/CS08_DataStructure/Data_Types/Binary Heap 堆结构.md",
-    "Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Design Pattern 设计模式.md",
     "Personal/Key Information/Air Canada.md",
-    "Personal/Untitled database.md",
-    "Personal/Key Information.md",
-    "Personal/Key Information/SIN.md",
-    "Sets/Collections/Key Information",
-    "Sets/Collections",
-    "Sets",
-    "Computer_Science/CS00_Language/C++",
-    "Computer_Science/CS00_Language/Java",
-    "Computer_Science/CS00_Language/Python",
     "未命名.canvas"
   ]
 }

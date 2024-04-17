@@ -1,6 +1,9 @@
 {
   "callouts": {
-    "custom": [],
+    "custom": [
+      "Definition",
+      "Equation"
+    ],
     "settings": {
       "warning": [
         {
@@ -97,6 +100,78 @@
           "changes": {
             "icon": "lucide-book-open-check",
             "color": "254, 160, 98"
+          }
+        }
+      ],
+      "Definition": [
+        {
+          "changes": {
+            "icon": "lucide-flag-triangle-right",
+            "color": "255, 77, 139"
+          }
+        }
+      ],
+      "question": [
+        {
+          "changes": {
+            "icon": "lucide-message-square-dashed"
+          }
+        }
+      ],
+      "faq": [
+        {
+          "changes": {
+            "icon": "lucide-axe"
+          }
+        }
+      ],
+      "success": [
+        {
+          "changes": {
+            "icon": "lucide-trophy"
+          }
+        }
+      ],
+      "check": [
+        {
+          "changes": {
+            "icon": "lucide-check-circle-2"
+          }
+        }
+      ],
+      "abstract": [
+        {
+          "changes": {
+            "icon": "lucide-book-text"
+          }
+        }
+      ],
+      "tldr": [
+        {
+          "changes": {
+            "icon": "lucide-list-todo"
+          }
+        }
+      ],
+      "hint": [
+        {
+          "changes": {
+            "icon": "lucide-badge-help"
+          }
+        }
+      ],
+      "todo": [
+        {
+          "changes": {
+            "icon": "lucide-check-square-2"
+          }
+        }
+      ],
+      "Equation": [
+        {
+          "changes": {
+            "icon": "lucide-sigma-square",
+            "color": "254, 67, 123"
           }
         }
       ]
