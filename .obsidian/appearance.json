@@ -1,1 +1,9 @@
-{}
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "metadata-icon-auto-gen",
+    "Image Align"
+  ]
+}
