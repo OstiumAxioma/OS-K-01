@@ -174,12 +174,27 @@
             "color": "254, 67, 123"
           }
         }
+      ],
+      "multi-column": [
+        {
+          "changes": {
+            "icon": "distribute-space-vertical"
+          }
+        }
+      ],
+      "error": [
+        {
+          "changes": {
+            "icon": "distribute-space-vertical",
+            "color": "255, 107, 171"
+          }
+        }
       ]
     }
   },
   "calloutDetection": {
     "obsidianFallbackForced": false,
-    "obsidian": true,
+    "obsidian": false,
     "theme": true,
     "snippet": true
   }

@@ -82,7 +82,7 @@ int main ()
    /* 使用指针访问值 */
    printf("*ip 变量的值: %d\\n", *ip );
 
-	 printf("*ip 指针变量的地址: %p\\n", &ip);
+   printf("*ip 指针变量的地址: %p\\n", &ip);
  
    return 0;
 }

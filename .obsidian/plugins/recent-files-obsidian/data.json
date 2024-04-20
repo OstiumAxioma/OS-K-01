@@ -1,16 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "Iteration and Recursion 迭代与递归",
-      "path": "Computer_Science/CS80_Algorithm/Basic Concept/Iteration and Recursion 迭代与递归.md"
+      "basename": "C 指针",
+      "path": "Computer_Science/CS00_Language/C语言/C 指针.md"
     },
     {
-      "basename": "Algorithm Basic 算法基础",
-      "path": "Computer_Science/CS80_Algorithm/Basic Concept/Algorithm Basic 算法基础.md"
+      "basename": "Dynamic Programming 动态规划",
+      "path": "Computer_Science/CS80_Algorithm/Strategy/Dynamic Programming 动态规划.md"
+    },
+    {
+      "basename": "Composite Data Type CDT 复合类型",
+      "path": "Computer_Science/CS08_DataStructure/Data_Types/Composite Data Type CDT 复合类型.md"
+    },
+    {
+      "basename": "Binary Heap 堆结构",
+      "path": "Computer_Science/CS08_DataStructure/Data_Types/Binary Heap 堆结构.md"
+    },
+    {
+      "basename": "Space Complexity 空间复杂度",
+      "path": "Computer_Science/CS80_Algorithm/Basic Concept/Space Complexity 空间复杂度.md"
+    },
+    {
+      "basename": "11. 盛最多水的容器",
+      "path": "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
+    },
+    {
+      "basename": "Pasted image 20240419183518",
+      "path": "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419183518.png"
+    },
+    {
+      "basename": "Pasted image 20240419184037",
+      "path": "Computer_Science/CS01_LeetCode/attachment/Pasted image 20240419184037.png"
+    },
+    {
+      "basename": "Pasted image 20240419140040",
+      "path": "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419140040.png"
+    },
+    {
+      "basename": "Pasted image 20240419134452",
+      "path": "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419134452.png"
+    },
+    {
+      "basename": "Pasted image 20240419133806",
+      "path": "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419133806.png"
+    },
+    {
+      "basename": "Pasted image 20240419133705",
+      "path": "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419133705.png"
+    },
+    {
+      "basename": "Greedy Algorithm贪心算法",
+      "path": "Computer_Science/CS80_Algorithm/Strategy/Greedy Algorithm贪心算法.md"
+    },
+    {
+      "basename": "找零与贪心算法",
+      "path": "Computer_Science/CS80_Algorithm/Basic Concept/attachment/找零与贪心算法.png"
+    },
+    {
+      "basename": "Divide and Conquer 分治",
+      "path": "Computer_Science/CS80_Algorithm/Strategy/Divide and Conquer 分治.md"
     },
     {
       "basename": "Time Complexity 时间复杂度",
       "path": "Computer_Science/CS80_Algorithm/Basic Concept/Time Complexity 时间复杂度.md"
+    },
+    {
+      "basename": "Iteration and Recursion 迭代与递归",
+      "path": "Computer_Science/CS80_Algorithm/Basic Concept/Iteration and Recursion 迭代与递归.md"
+    },
+    {
+      "basename": "Space–Time Trade Off 时空权衡",
+      "path": "Computer_Science/CS80_Algorithm/Basic Concept/Space–Time Trade Off 时空权衡.md"
+    },
+    {
+      "basename": "Algorithm Basic 算法基础",
+      "path": "Computer_Science/CS80_Algorithm/Basic Concept/Algorithm Basic 算法基础.md"
     }
   ],
   "omittedPaths": [],

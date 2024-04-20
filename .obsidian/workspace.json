@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Science/CS80_Algorithm/Basic Concept/Iteration and Recursion 迭代与递归.md",
+                "file": "Computer_Science/CS00_Language/C语言/C 指针.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer_Science/CS80_Algorithm/Basic Concept/Iteration and Recursion 迭代与递归.md"
+                "file": "Computer_Science/CS00_Language/C语言/C 指针.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Computer_Science/CS80_Algorithm/Basic Concept/Iteration and Recursion 迭代与递归.md"
+                "file": "Computer_Science/CS00_Language/C语言/C 指针.md"
               }
             }
           },
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer_Science/CS80_Algorithm/Basic Concept/Iteration and Recursion 迭代与递归.md",
+                "file": "Computer_Science/CS00_Language/C语言/C 指针.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer_Science/CS80_Algorithm/Basic Concept/Iteration and Recursion 迭代与递归.md",
+                "file": "Computer_Science/CS00_Language/C语言/C 指针.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,35 +245,39 @@
   },
   "active": "a27b533c649c0417",
   "lastOpenFiles": [
-    "Computer_Science/CS80_Algorithm/Basic Concept/Algorithm Basic 算法基础.md",
-    "Computer_Science/CS80_Algorithm/Basic Concept/Time Complexity 时间复杂度.md",
-    "Computer_Science/CS80_Algorithm/Basic Concept/Iteration and Recursion 迭代与递归.md",
-    "Pasted image 20240419133305.png",
-    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/计算渐进上界.png",
-    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/数据结构.png",
-    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/找零与贪心算法.png",
-    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/扑克牌算法.png",
-    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/字典步骤5.png",
-    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/字典步骤4.png",
-    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/字典步骤3.png",
-    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/字典步骤2.png",
-    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/字典步骤1.png",
     "Computer_Science/CS80_Algorithm/Strategy/Dynamic Programming 动态规划.md",
-    "Computer_Science/CS80_Algorithm/Strategy/attachment",
+    "Computer_Science/CS08_DataStructure/Data_Types/Composite Data Type CDT 复合类型.md",
+    "Computer_Science/CS08_DataStructure/Data_Types/Binary Heap 堆结构.md",
+    "Computer_Science/CS80_Algorithm/Basic Concept/Space Complexity 空间复杂度.md",
+    "Pasted image 20240419201036.png",
+    "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md",
+    "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419183518.png",
+    "Computer_Science/CS01_LeetCode/attachment",
+    "Computer_Science/CS01_LeetCode/attachment/Pasted image 20240419184037.png",
+    "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419140040.png",
+    "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419134452.png",
+    "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419133806.png",
+    "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419133705.png",
+    "Computer_Science/CS80_Algorithm/Strategy/Greedy Algorithm贪心算法.md",
+    "Computer_Science/CS80_Algorithm/Basic Concept/attachment/找零与贪心算法.png",
+    "Computer_Science/CS80_Algorithm/Strategy/Divide and Conquer 分治.md",
+    "Computer_Science/CS80_Algorithm/Basic Concept/Time Complexity 时间复杂度.md",
+    "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419145129.png",
+    "Computer_Science/CS80_Algorithm/Basic Concept/Iteration and Recursion 迭代与递归.md",
     "Computer_Science/CS80_Algorithm/Basic Concept/Space–Time Trade Off 时空权衡.md",
+    "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419141057.png",
+    "Computer_Science/CS80_Algorithm/Basic Concept/Algorithm Basic 算法基础.md",
+    "Computer_Science/CS80_Algorithm/Strategy/attachment",
     "Computer_Science/CS80_Algorithm/Basic Concept/attachment",
     "Computer_Science/CS80_Algorithm/Strategy",
     "Computer_Science/CS80_Algorithm/Sorting",
     "Computer_Science/CS80_Algorithm/Basic Concept",
     "Computer_Science/CS80_Algorithm",
     "Computer_Science/CS08_DataStructure/Data_Types/Loop and Array in C 从C理解数组和连续内存.md",
-    "Computer_Science/CS08_DataStructure/Data_Types/Composite Data Type CDT 复合类型.md",
-    "Computer_Science/CS08_DataStructure/Data_Types/Binary Heap 堆结构.md",
     "Computer_Science/CS08_DataStructure/Data_Types/attachment",
     "Computer_Science/CS08_DataStructure/Data_Types/Abstract data type ADT 抽象类型.md",
     "Computer_Science/CS08_DataStructure/Data_Types",
     "Computer_Science/CS08_DataStructure/Computer_Composition",
-    "Computer_Science/CS08_DataStructure",
     "Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Composition Vs. Inheritance.md",
     "Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Design Pattern 设计模式.md",
     "Computer_Science/CS00_Language/C语言/C 语言基础.md",
@@ -286,10 +290,6 @@
     "Computer_Science/CS00_Language/计算机语言的基本概念.md",
     "Template/Data Structure模板.md",
     "Template/Algorithm模板.md",
-    "Template/Learning Template.md",
-    "Excalidraw/DesignPattern.excalidraw.md",
-    "C语言的字符串.md",
-    "Personal/Key Wallet.md",
     "未命名.canvas"
   ]
 }
