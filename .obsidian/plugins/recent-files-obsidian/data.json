@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Link List 链表",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md"
+    },
+    {
+      "basename": "Binary Tree 二叉树",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
+    },
+    {
+      "basename": "Binary Heap 堆结构",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Heap 堆结构.md"
+    },
+    {
+      "basename": "23. 合并 K 个升序链表",
+      "path": "Computer_Science/CS01_LeetCode/23. 合并 K 个升序链表.md"
+    },
+    {
       "basename": "11. 盛最多水的容器",
       "path": "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
     },
@@ -22,7 +38,7 @@
     },
     {
       "basename": "Change-making problem 零钱兑换",
-      "path": "Computer_Science/CS80_Algorithm/02_Strategy/Change-making problem 零钱兑换.md"
+      "path": "Computer_Science/CS80_Algorithm/04_AlgorithmCase/Change-making problem 零钱兑换.md"
     },
     {
       "basename": "Dynamic Programming 动态规划",
@@ -45,20 +61,12 @@
       "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/attachment/Pasted image 20240419201036.png"
     },
     {
-      "basename": "Binary Tree 二叉树",
-      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
-    },
-    {
       "basename": "C 指针",
       "path": "Computer_Science/CS00_Language/C语言/C 指针.md"
     },
     {
       "basename": "Composite Data Type CDT 复合类型",
       "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Composite Data Type CDT 复合类型.md"
-    },
-    {
-      "basename": "Binary Heap 堆结构",
-      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Heap 堆结构.md"
     },
     {
       "basename": "Space Complexity 空间复杂度",
