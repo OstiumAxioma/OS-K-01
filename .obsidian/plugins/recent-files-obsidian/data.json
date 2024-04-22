@@ -1,32 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "C 指针",
-      "path": "Computer_Science/CS00_Language/C语言/C 指针.md"
+      "basename": "Greedy Algorithm贪心算法",
+      "path": "Computer_Science/CS80_Algorithm/02_Strategy/Greedy Algorithm贪心算法.md"
     },
     {
       "basename": "Dynamic Programming 动态规划",
-      "path": "Computer_Science/CS80_Algorithm/Strategy/Dynamic Programming 动态规划.md"
+      "path": "Computer_Science/CS80_Algorithm/02_Strategy/Dynamic Programming 动态规划.md"
     },
     {
-      "basename": "Composite Data Type CDT 复合类型",
-      "path": "Computer_Science/CS08_DataStructure/Data_Types/Composite Data Type CDT 复合类型.md"
+      "basename": "Leetcode模板",
+      "path": "Template/Leetcode模板.md"
     },
     {
-      "basename": "Binary Heap 堆结构",
-      "path": "Computer_Science/CS08_DataStructure/Data_Types/Binary Heap 堆结构.md"
+      "basename": "Algorithm模板",
+      "path": "Template/Algorithm模板.md"
     },
     {
-      "basename": "Space Complexity 空间复杂度",
-      "path": "Computer_Science/CS80_Algorithm/Basic Concept/Space Complexity 空间复杂度.md"
+      "basename": "Data Structure模板",
+      "path": "Template/Data Structure模板.md"
+    },
+    {
+      "basename": "Learning Template",
+      "path": "Template/Learning Template.md"
+    },
+    {
+      "basename": "Divide and Conquer 分治",
+      "path": "Computer_Science/CS80_Algorithm/02_Strategy/Divide and Conquer 分治.md"
     },
     {
       "basename": "11. 盛最多水的容器",
       "path": "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
     },
     {
+      "basename": "Pasted image 20240419201036",
+      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/attachment/Pasted image 20240419201036.png"
+    },
+    {
+      "basename": "Binary Tree 二叉树",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
+    },
+    {
+      "basename": "C 指针",
+      "path": "Computer_Science/CS00_Language/C语言/C 指针.md"
+    },
+    {
+      "basename": "Composite Data Type CDT 复合类型",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Composite Data Type CDT 复合类型.md"
+    },
+    {
+      "basename": "Binary Heap 堆结构",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Heap 堆结构.md"
+    },
+    {
+      "basename": "Space Complexity 空间复杂度",
+      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/Space Complexity 空间复杂度.md"
+    },
+    {
       "basename": "Pasted image 20240419183518",
-      "path": "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419183518.png"
+      "path": "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419183518.png"
     },
     {
       "basename": "Pasted image 20240419184037",
@@ -34,47 +66,39 @@
     },
     {
       "basename": "Pasted image 20240419140040",
-      "path": "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419140040.png"
+      "path": "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419140040.png"
     },
     {
       "basename": "Pasted image 20240419134452",
-      "path": "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419134452.png"
+      "path": "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419134452.png"
     },
     {
       "basename": "Pasted image 20240419133806",
-      "path": "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419133806.png"
+      "path": "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419133806.png"
     },
     {
       "basename": "Pasted image 20240419133705",
-      "path": "Computer_Science/CS80_Algorithm/Strategy/attachment/Pasted image 20240419133705.png"
-    },
-    {
-      "basename": "Greedy Algorithm贪心算法",
-      "path": "Computer_Science/CS80_Algorithm/Strategy/Greedy Algorithm贪心算法.md"
+      "path": "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419133705.png"
     },
     {
       "basename": "找零与贪心算法",
-      "path": "Computer_Science/CS80_Algorithm/Basic Concept/attachment/找零与贪心算法.png"
-    },
-    {
-      "basename": "Divide and Conquer 分治",
-      "path": "Computer_Science/CS80_Algorithm/Strategy/Divide and Conquer 分治.md"
+      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/attachment/找零与贪心算法.png"
     },
     {
       "basename": "Time Complexity 时间复杂度",
-      "path": "Computer_Science/CS80_Algorithm/Basic Concept/Time Complexity 时间复杂度.md"
+      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md"
     },
     {
       "basename": "Iteration and Recursion 迭代与递归",
-      "path": "Computer_Science/CS80_Algorithm/Basic Concept/Iteration and Recursion 迭代与递归.md"
+      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md"
     },
     {
       "basename": "Space–Time Trade Off 时空权衡",
-      "path": "Computer_Science/CS80_Algorithm/Basic Concept/Space–Time Trade Off 时空权衡.md"
+      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/Space–Time Trade Off 时空权衡.md"
     },
     {
       "basename": "Algorithm Basic 算法基础",
-      "path": "Computer_Science/CS80_Algorithm/Basic Concept/Algorithm Basic 算法基础.md"
+      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md"
     }
   ],
   "omittedPaths": [],

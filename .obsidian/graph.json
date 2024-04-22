@@ -6,7 +6,29 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#计算机/算法/Leetcode  ",
+      "color": {
+        "a": 1,
+        "rgb": 14826222
+      }
+    },
+    {
+      "query": "tag:#计算机/算法/策略  ",
+      "color": {
+        "a": 1,
+        "rgb": 11001938
+      }
+    },
+    {
+      "query": "tag:#计算机/数据结构  ",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224449,
+  "scale": 1.0000000000000049,
   "close": true
 }
