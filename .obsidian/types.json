@@ -28,6 +28,7 @@
     "uid": "text",
     "SpaceComplexity": "multitext",
     "TimeComplexity": "multitext",
-    "Strategy": "multitext"
+    "Strategy": "multitext",
+    "Status": "checkbox"
   }
 }

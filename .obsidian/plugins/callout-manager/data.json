@@ -114,7 +114,8 @@
       "question": [
         {
           "changes": {
-            "icon": "lucide-message-square-dashed"
+            "icon": "question-mark-glyph",
+            "color": "113, 238, 68"
           }
         }
       ],
@@ -187,6 +188,20 @@
           "changes": {
             "icon": "distribute-space-vertical",
             "color": "255, 107, 171"
+          }
+        }
+      ],
+      "help": [
+        {
+          "changes": {
+            "icon": "lucide-helping-hand"
+          }
+        }
+      ],
+      "tip": [
+        {
+          "changes": {
+            "icon": "lucide-flame-kindling"
           }
         }
       ]

@@ -17,11 +17,14 @@ SpaceComplexity:
 ---
 ## 算法简介
 
-### 算法历史
 
-### 解决的问题
+> [!question] Title
+> Contents
 
 ### 解决思路
+
+> [!tip] Title
+> Contents
 
 ## 算法的实现
 
@@ -31,7 +34,15 @@ SpaceComplexity:
 
 ### 伪代码
 
+```c
+
+```
+
 ### 实现
+
+```c
+
+```
 
 ## 算法复杂度
 

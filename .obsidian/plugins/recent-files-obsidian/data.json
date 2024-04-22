@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Greedy Algorithm贪心算法",
-      "path": "Computer_Science/CS80_Algorithm/02_Strategy/Greedy Algorithm贪心算法.md"
+      "basename": "11. 盛最多水的容器",
+      "path": "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
     },
     {
-      "basename": "Dynamic Programming 动态规划",
-      "path": "Computer_Science/CS80_Algorithm/02_Strategy/Dynamic Programming 动态规划.md"
+      "basename": "Greedy Algorithm 贪心算法",
+      "path": "Computer_Science/CS80_Algorithm/02_Strategy/Greedy Algorithm 贪心算法.md"
     },
     {
       "basename": "Leetcode模板",
@@ -15,6 +15,18 @@
     {
       "basename": "Algorithm模板",
       "path": "Template/Algorithm模板.md"
+    },
+    {
+      "basename": "Strategy模板",
+      "path": "Template/Strategy模板.md"
+    },
+    {
+      "basename": "Change-making problem 零钱兑换",
+      "path": "Computer_Science/CS80_Algorithm/02_Strategy/Change-making problem 零钱兑换.md"
+    },
+    {
+      "basename": "Dynamic Programming 动态规划",
+      "path": "Computer_Science/CS80_Algorithm/02_Strategy/Dynamic Programming 动态规划.md"
     },
     {
       "basename": "Data Structure模板",
@@ -27,10 +39,6 @@
     {
       "basename": "Divide and Conquer 分治",
       "path": "Computer_Science/CS80_Algorithm/02_Strategy/Divide and Conquer 分治.md"
-    },
-    {
-      "basename": "11. 盛最多水的容器",
-      "path": "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
     },
     {
       "basename": "Pasted image 20240419201036",

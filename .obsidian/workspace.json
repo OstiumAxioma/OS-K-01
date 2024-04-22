@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Science/CS80_Algorithm/02_Strategy/Greedy Algorithm贪心算法.md",
+                "file": "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer_Science/CS80_Algorithm/02_Strategy/Greedy Algorithm贪心算法.md"
+                "file": "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Computer_Science/CS80_Algorithm/02_Strategy/Greedy Algorithm贪心算法.md"
+                "file": "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer_Science/CS80_Algorithm/02_Strategy/Greedy Algorithm贪心算法.md",
+                "file": "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer_Science/CS80_Algorithm/02_Strategy/Greedy Algorithm贪心算法.md",
+                "file": "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,18 +235,22 @@
       "publish:发布更改": false
     }
   },
-  "active": "9098a7017c5db8c1",
+  "active": "a4ba1fc76eafc887",
   "lastOpenFiles": [
-    "Computer_Science/CS80_Algorithm/04_AlgorithmCase",
-    "Computer_Science/CS80_Algorithm/02_Strategy/Dynamic Programming 动态规划.md",
-    "Computer_Science/CS80_Algorithm/02_Strategy/Greedy Algorithm贪心算法.md",
+    "Computer_Science/CS80_Algorithm/02_Strategy/Greedy Algorithm 贪心算法.md",
     "Template/Leetcode模板.md",
     "Template/Algorithm模板.md",
+    "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md",
+    "Template/Strategy模板.md",
+    "Computer_Science/CS80_Algorithm/02_Strategy/Change-making problem 零钱兑换.md",
+    "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240421214049.png",
+    "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240421213342.png",
+    "Computer_Science/CS80_Algorithm/04_AlgorithmCase",
+    "Computer_Science/CS80_Algorithm/02_Strategy/Dynamic Programming 动态规划.md",
     "Template/Data Structure模板.md",
     "Template/Learning Template.md",
     "未命名.md",
     "Computer_Science/CS80_Algorithm/02_Strategy/Divide and Conquer 分治.md",
-    "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md",
     "Computer_Science/CS80_Algorithm/01_BasicConcept/attachment/Pasted image 20240419201036.png",
     "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md",
     "Computer_Science/CS00_Language/C语言/C 指针.md",
@@ -262,10 +266,8 @@
     "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419133705.png",
     "Computer_Science/CS80_Algorithm/01_BasicConcept/attachment/找零与贪心算法.png",
     "Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md",
-    "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419145129.png",
     "Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md",
     "Computer_Science/CS80_Algorithm/01_BasicConcept/Space–Time Trade Off 时空权衡.md",
-    "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419141057.png",
     "Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md",
     "Computer_Science/CS80_Algorithm/02_Strategy/attachment",
     "Computer_Science/CS80_Algorithm/01_BasicConcept/attachment",
@@ -277,12 +279,9 @@
     "Computer_Science/CS08_DataStructure/02_DataTypes/attachment",
     "Computer_Science/CS08_DataStructure/02_DataTypes/Abstract data type ADT 抽象类型.md",
     "Computer_Science/CS08_DataStructure/02_DataTypes",
-    "Computer_Science/CS08_DataStructure/01_ComputerComposition",
     "Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Composition Vs. Inheritance.md",
     "Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Design Pattern 设计模式.md",
     "Computer_Science/CS00_Language/C语言/C 语言基础.md",
-    "Computer_Science/CS00_Language/C语言/C 结构体.md",
-    "Computer_Science/CS00_Language/C语言/C 数组.md",
     "未命名.canvas"
   ]
 }
