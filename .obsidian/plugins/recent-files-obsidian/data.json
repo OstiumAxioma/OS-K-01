@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "147. 对链表进行插入排序",
+      "path": "Computer_Science/CS01_LeetCode/147. 对链表进行插入排序.md"
+    },
+    {
+      "basename": "Insertion Sort 插入排序",
+      "path": "Computer_Science/CS80_Algorithm/03_Sorting/Insertion Sort 插入排序.md"
+    },
+    {
+      "basename": "Link List 链表",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md"
+    },
+    {
+      "basename": "Queue 队列",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Queue 队列.md"
+    },
+    {
       "basename": "109. 有序链表转换二叉搜索树",
       "path": "Computer_Science/CS01_LeetCode/109. 有序链表转换二叉搜索树.md"
     },
@@ -37,10 +53,6 @@
       "path": "Computer_Science/CS80_Algorithm/02_Strategy/Breadth-First 广度优先.md"
     },
     {
-      "basename": "Queue 队列",
-      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Queue 队列.md"
-    },
-    {
       "basename": "Divide and Conquer 分治",
       "path": "Computer_Science/CS80_Algorithm/02_Strategy/Divide and Conquer 分治.md"
     },
@@ -71,10 +83,6 @@
     {
       "basename": "Time Complexity 时间复杂度",
       "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md"
-    },
-    {
-      "basename": "Link List 链表",
-      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md"
     },
     {
       "basename": "Array 数组",
