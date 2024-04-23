@@ -1,13 +1,17 @@
 ---
-Date: 2024-04-01
+Date: 2024-01-17
 tags:
   - 计算机/算法
-  - 计算机
   - 计算机/算法/策略
-Type:
-  - Lecture
-Year:
-  - 2024 Spring
+  - 计算机
+Component:
+  - "[[C 指针]]"
+Stategy:
+  - "[[Dynamic Programming 动态规划]]"
+TimeComplexity:
+  - O(n)
+SpaceComplexity:
+  - O(n)
 ---
 > [!TODO]
 >By the end of this module, you should be able to:

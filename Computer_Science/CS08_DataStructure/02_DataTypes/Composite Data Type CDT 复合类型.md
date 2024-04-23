@@ -9,6 +9,7 @@ Type:
   - Lecture
 Year:
   - 2024 Spring
+Status: true
 ---
 # 复合类型
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md",
+                "file": "Computer_Science/CS01_LeetCode/109. 有序链表转换二叉搜索树.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md"
+                "file": "Computer_Science/CS01_LeetCode/109. 有序链表转换二叉搜索树.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md"
+                "file": "Computer_Science/CS01_LeetCode/109. 有序链表转换二叉搜索树.md"
               }
             }
           },
@@ -162,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "698b462fcb67854c",
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md",
+                "file": "Computer_Science/CS01_LeetCode/109. 有序链表转换二叉搜索树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md",
+                "file": "Computer_Science/CS01_LeetCode/109. 有序链表转换二叉搜索树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,57 +233,59 @@
       "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian-importer:Open Importer": false,
       "dbfolder:创建一个新数据库表": false,
-      "publish:发布更改": false
+      "publish:发布更改": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "a4ba1fc76eafc887",
   "lastOpenFiles": [
+    "Computer_Science/CS01_LeetCode/attachment/Pasted image 20240423085446.png",
+    "Computer_Science/CS01_LeetCode/98. 验证二叉搜索树.md",
+    "Computer_Science/CS01_LeetCode/109. 有序链表转换二叉搜索树.md",
     "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md",
-    "Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md",
-    "Computer_Science/CS80_Algorithm/01_BasicConcept/未命名.md",
-    "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Heap 堆结构.md",
-    "Computer_Science/CS01_LeetCode/23. 合并 K 个升序链表.md",
+    "Computer_Science/CS01_LeetCode/53. 最大子数组和.md",
     "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md",
+    "Computer_Science/CS01_LeetCode/23. 合并 K 个升序链表.md",
+    "Computer_Science/CS01_LeetCode/82. 删除排序链表中的重复元素 II.md",
+    "Computer_Science/CS01_LeetCode/attachment/Pasted image 20240423003807.png",
+    "Computer_Science/CS01_LeetCode/attachment/Pasted image 20240423003725.png",
+    "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Search Tree 二叉搜索树.md",
+    "Computer_Science/CS08_DataStructure/02_DataTypes/attachment/Pasted image 20240423000150.png",
+    "Computer_Science/CS08_DataStructure/02_DataTypes/attachment/Pasted image 20240422235635.png",
+    "Computer_Science/CS08_DataStructure/02_DataTypes/attachment/Pasted image 20240422235329.png",
+    "Computer_Science/CS08_DataStructure/02_DataTypes/attachment/Pasted image 20240422235137.png",
+    "Computer_Science/CS08_DataStructure/02_DataTypes/attachment/Pasted image 20240422234137.png",
+    "Computer_Science/CS08_DataStructure/02_DataTypes/attachment/Pasted image 20240422232203.png",
+    "Computer_Science/CS08_DataStructure/02_DataTypes/空间复杂度.md",
+    "Computer_Science/CS80_Algorithm/02_Strategy/Breadth-First 广度优先.md",
+    "Computer_Science/CS08_DataStructure/02_DataTypes/Queue 队列.md",
+    "Computer_Science/CS08_DataStructure/02_DataTypes/attachment/Pasted image 20240422233108.png",
+    "Computer_Science/CS08_DataStructure/02_DataTypes/attachment/Pasted image 20240422232700.png",
+    "Computer_Science/CS80_Algorithm/02_Strategy/Divide and Conquer 分治.md",
+    "Computer_Science/CS80_Algorithm/02_Strategy/Dynamic Programming 动态规划.md",
     "Computer_Science/CS80_Algorithm/02_Strategy/Greedy Algorithm 贪心算法.md",
     "Template/Leetcode模板.md",
-    "Template/Algorithm模板.md",
-    "Template/Strategy模板.md",
-    "Computer_Science/CS80_Algorithm/04_AlgorithmCase/Change-making problem 零钱兑换.md",
-    "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240421214049.png",
-    "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240421213342.png",
-    "Computer_Science/CS80_Algorithm/04_AlgorithmCase",
-    "Computer_Science/CS80_Algorithm/02_Strategy/Dynamic Programming 动态规划.md",
-    "Template/Data Structure模板.md",
-    "Template/Learning Template.md",
-    "未命名.md",
-    "Computer_Science/CS80_Algorithm/02_Strategy/Divide and Conquer 分治.md",
-    "Computer_Science/CS80_Algorithm/01_BasicConcept/attachment/Pasted image 20240419201036.png",
-    "Computer_Science/CS00_Language/C语言/C 指针.md",
-    "Computer_Science/CS08_DataStructure/02_DataTypes/Composite Data Type CDT 复合类型.md",
-    "Computer_Science/CS80_Algorithm/01_BasicConcept/Space Complexity 空间复杂度.md",
-    "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419183518.png",
-    "Computer_Science/CS01_LeetCode/attachment",
-    "Computer_Science/CS01_LeetCode/attachment/Pasted image 20240419184037.png",
-    "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419140040.png",
-    "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419134452.png",
-    "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419133806.png",
-    "Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419133705.png",
-    "Computer_Science/CS80_Algorithm/01_BasicConcept/attachment/找零与贪心算法.png",
-    "Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md",
-    "Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md",
-    "Computer_Science/CS80_Algorithm/01_BasicConcept/Space–Time Trade Off 时空权衡.md",
     "Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md",
+    "Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md",
+    "栈溢出.md",
+    "1,4,5],[1,3,4],[2,6.md",
+    "Template/Strategy模板.md",
+    "Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md",
+    "Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md",
+    "2024-04-23.md",
+    "Computer_Science/CS08_DataStructure/02_DataTypes/Array 数组.md",
+    "Computer_Science/CS80_Algorithm/01_BasicConcept/Space Complexity 空间复杂度.md",
+    "Computer_Science/CS08_DataStructure/01_ComputerComposition/attachment",
+    "Computer_Science/CS80_Algorithm/04_AlgorithmCase",
+    "Computer_Science/CS01_LeetCode/attachment",
     "Computer_Science/CS80_Algorithm/02_Strategy/attachment",
     "Computer_Science/CS80_Algorithm/01_BasicConcept/attachment",
     "Computer_Science/CS80_Algorithm/02_Strategy",
     "Computer_Science/CS80_Algorithm/03_Sorting",
     "Computer_Science/CS80_Algorithm/01_BasicConcept",
     "Computer_Science/CS80_Algorithm",
-    "Computer_Science/CS08_DataStructure/02_DataTypes/Loop and Array in C 从C理解数组和连续内存.md",
     "Computer_Science/CS08_DataStructure/02_DataTypes/attachment",
-    "Computer_Science/CS08_DataStructure/02_DataTypes/Abstract data type ADT 抽象类型.md",
-    "Computer_Science/CS08_DataStructure/02_DataTypes",
-    "Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Composition Vs. Inheritance.md",
     "未命名.canvas"
   ]
 }

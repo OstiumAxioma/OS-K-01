@@ -29,6 +29,7 @@
     "SpaceComplexity": "multitext",
     "TimeComplexity": "multitext",
     "Strategy": "multitext",
-    "Status": "checkbox"
+    "Status": "checkbox",
+    "Difficulty": "multitext"
   }
 }

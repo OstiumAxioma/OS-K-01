@@ -11,15 +11,16 @@ Strategy:
   - "[[双指针]]"
 Time_Complexity: O(n)
 Space_Complexity: O(nlogn)
+Status:
 ---
 # 题目名
 
 ## 题目描述
 
+> [!question] Title
+> Contents
 
-
-**说明**：
-![[|center|500]]
+**示例**：
 
 **输入**：
 **输出**：
@@ -82,7 +83,7 @@ int maxArea(int* height, int heightSize) {
 
 ## 复杂度分析
 
-- [[Time Complexity 时间复杂度]]：$O(N)$
+- [[Time Complexity 时间复杂度]]：$O(n)$
 - [[Space Complexity 空间复杂度]]：$O(1)$
 
 ## 其它解

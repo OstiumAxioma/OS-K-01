@@ -22,14 +22,14 @@
       "tabTitle": "",
       "maxWidthRatio": -1,
       "createAt": "2024-04-16T16:19:35.967Z",
-      "updateAt": "2024-04-16T16:42:18.545Z",
+      "updateAt": "2024-04-22T06:10:39.548Z",
       "backgroundStyle": "none",
       "viewType": "gallary",
       "datasource": {
         "filter": {
           "conditions": [
             {
-              "value": "Computer_Science/CS08_DataStructure/Data_Types",
+              "value": "Computer_Science/CS08_DataStructure/02_DataTypes",
               "operator": "contains",
               "property": "${file.path}",
               "id": "50ccc281-384e-4fe6-ba0b-281dc9efb103"

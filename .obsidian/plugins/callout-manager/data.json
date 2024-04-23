@@ -1,8 +1,8 @@
 {
   "callouts": {
     "custom": [
-      "Definition",
-      "Equation"
+      "equation",
+      "definition"
     ],
     "settings": {
       "warning": [
@@ -187,7 +187,7 @@
         {
           "changes": {
             "icon": "distribute-space-vertical",
-            "color": "255, 107, 171"
+            "color": "255, 46, 46"
           }
         }
       ],
@@ -204,12 +204,42 @@
             "icon": "lucide-flame-kindling"
           }
         }
+      ],
+      "bug": [
+        {
+          "changes": {
+            "color": "255, 15, 83"
+          }
+        }
+      ],
+      "equation": [
+        {
+          "changes": {
+            "icon": "lucide-sigma-square",
+            "color": "255, 92, 100"
+          }
+        }
+      ],
+      "definition": [
+        {
+          "changes": {
+            "icon": "lucide-flag-triangle-right",
+            "color": "255, 82, 142"
+          }
+        }
+      ],
+      "missing": [
+        {
+          "changes": {
+            "icon": "lucide-mouse-pointer-square-dashed"
+          }
+        }
       ]
     }
   },
   "calloutDetection": {
     "obsidianFallbackForced": false,
-    "obsidian": false,
+    "obsidian": true,
     "theme": true,
     "snippet": true
   }

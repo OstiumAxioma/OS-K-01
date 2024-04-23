@@ -1,24 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Link List 链表",
-      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md"
+      "basename": "109. 有序链表转换二叉搜索树",
+      "path": "Computer_Science/CS01_LeetCode/109. 有序链表转换二叉搜索树.md"
+    },
+    {
+      "basename": "98. 验证二叉搜索树",
+      "path": "Computer_Science/CS01_LeetCode/98. 验证二叉搜索树.md"
     },
     {
       "basename": "Binary Tree 二叉树",
       "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
     },
     {
-      "basename": "Binary Heap 堆结构",
-      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Heap 堆结构.md"
+      "basename": "53. 最大子数组和",
+      "path": "Computer_Science/CS01_LeetCode/53. 最大子数组和.md"
+    },
+    {
+      "basename": "11. 盛最多水的容器",
+      "path": "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
     },
     {
       "basename": "23. 合并 K 个升序链表",
       "path": "Computer_Science/CS01_LeetCode/23. 合并 K 个升序链表.md"
     },
     {
-      "basename": "11. 盛最多水的容器",
-      "path": "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
+      "basename": "82. 删除排序链表中的重复元素 II",
+      "path": "Computer_Science/CS01_LeetCode/82. 删除排序链表中的重复元素 II.md"
+    },
+    {
+      "basename": "Binary Search Tree 二叉搜索树",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Search Tree 二叉搜索树.md"
+    },
+    {
+      "basename": "Breadth-First 广度优先",
+      "path": "Computer_Science/CS80_Algorithm/02_Strategy/Breadth-First 广度优先.md"
+    },
+    {
+      "basename": "Queue 队列",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Queue 队列.md"
+    },
+    {
+      "basename": "Divide and Conquer 分治",
+      "path": "Computer_Science/CS80_Algorithm/02_Strategy/Divide and Conquer 分治.md"
+    },
+    {
+      "basename": "Dynamic Programming 动态规划",
+      "path": "Computer_Science/CS80_Algorithm/02_Strategy/Dynamic Programming 动态规划.md"
     },
     {
       "basename": "Greedy Algorithm 贪心算法",
@@ -29,32 +57,76 @@
       "path": "Template/Leetcode模板.md"
     },
     {
-      "basename": "Algorithm模板",
-      "path": "Template/Algorithm模板.md"
+      "basename": "Algorithm Basic 算法基础",
+      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md"
+    },
+    {
+      "basename": "Iteration and Recursion 迭代与递归",
+      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md"
     },
     {
       "basename": "Strategy模板",
       "path": "Template/Strategy模板.md"
     },
     {
-      "basename": "Change-making problem 零钱兑换",
-      "path": "Computer_Science/CS80_Algorithm/04_AlgorithmCase/Change-making problem 零钱兑换.md"
+      "basename": "Time Complexity 时间复杂度",
+      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md"
     },
     {
-      "basename": "Dynamic Programming 动态规划",
-      "path": "Computer_Science/CS80_Algorithm/02_Strategy/Dynamic Programming 动态规划.md"
+      "basename": "Link List 链表",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md"
+    },
+    {
+      "basename": "Array 数组",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Array 数组.md"
+    },
+    {
+      "basename": "Space Complexity 空间复杂度",
+      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/Space Complexity 空间复杂度.md"
     },
     {
       "basename": "Data Structure模板",
       "path": "Template/Data Structure模板.md"
     },
     {
+      "basename": "Space–Time Trade Off 时空权衡",
+      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/Space–Time Trade Off 时空权衡.md"
+    },
+    {
+      "basename": "Memory 内存",
+      "path": "Computer_Science/CS08_DataStructure/01_ComputerComposition/Memory 内存.md"
+    },
+    {
+      "basename": "Algorithm模板",
+      "path": "Template/Algorithm模板.md"
+    },
+    {
+      "basename": "Binary Heap 堆结构",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Heap 堆结构.md"
+    },
+    {
+      "basename": "C 数组",
+      "path": "Computer_Science/CS00_Language/C语言/C 数组.md"
+    },
+    {
+      "basename": "Computer Composition 计算机组成",
+      "path": "Computer_Science/CS08_DataStructure/01_ComputerComposition/Computer Composition 计算机组成.md"
+    },
+    {
+      "basename": "Abstract data type ADT 抽象类型",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Abstract data type ADT 抽象类型.md"
+    },
+    {
+      "basename": "Composite Data Type CDT 复合类型",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Composite Data Type CDT 复合类型.md"
+    },
+    {
       "basename": "Learning Template",
       "path": "Template/Learning Template.md"
     },
     {
-      "basename": "Divide and Conquer 分治",
-      "path": "Computer_Science/CS80_Algorithm/02_Strategy/Divide and Conquer 分治.md"
+      "basename": "Change-making problem 零钱兑换",
+      "path": "Computer_Science/CS80_Algorithm/04_AlgorithmCase/Change-making problem 零钱兑换.md"
     },
     {
       "basename": "Pasted image 20240419201036",
@@ -63,14 +135,6 @@
     {
       "basename": "C 指针",
       "path": "Computer_Science/CS00_Language/C语言/C 指针.md"
-    },
-    {
-      "basename": "Composite Data Type CDT 复合类型",
-      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Composite Data Type CDT 复合类型.md"
-    },
-    {
-      "basename": "Space Complexity 空间复杂度",
-      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/Space Complexity 空间复杂度.md"
     },
     {
       "basename": "Pasted image 20240419183518",
@@ -99,22 +163,6 @@
     {
       "basename": "找零与贪心算法",
       "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/attachment/找零与贪心算法.png"
-    },
-    {
-      "basename": "Time Complexity 时间复杂度",
-      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md"
-    },
-    {
-      "basename": "Iteration and Recursion 迭代与递归",
-      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md"
-    },
-    {
-      "basename": "Space–Time Trade Off 时空权衡",
-      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/Space–Time Trade Off 时空权衡.md"
-    },
-    {
-      "basename": "Algorithm Basic 算法基础",
-      "path": "Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md"
     }
   ],
   "omittedPaths": [],
