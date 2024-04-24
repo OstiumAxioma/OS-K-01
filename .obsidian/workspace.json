@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8c469db2a250ad3d",
+        "id": "83b519e6fc651980",
         "type": "tabs",
         "children": [
           {
-            "id": "a4ba1fc76eafc887",
+            "id": "41b309eb3b471ce4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Science/CS01_LeetCode/147. 对链表进行插入排序.md",
+                "file": "Computer_Science/CS01_LeetCode/98. 验证二叉搜索树.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer_Science/CS01_LeetCode/147. 对链表进行插入排序.md"
+                "file": "Computer_Science/CS01_LeetCode/98. 验证二叉搜索树.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Computer_Science/CS01_LeetCode/147. 对链表进行插入排序.md"
+                "file": "Computer_Science/CS01_LeetCode/98. 验证二叉搜索树.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer_Science/CS01_LeetCode/147. 对链表进行插入排序.md",
+                "file": "Computer_Science/CS01_LeetCode/98. 验证二叉搜索树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer_Science/CS01_LeetCode/147. 对链表进行插入排序.md",
+                "file": "Computer_Science/CS01_LeetCode/98. 验证二叉搜索树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,8 +238,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a4ba1fc76eafc887",
+  "active": "41b309eb3b471ce4",
   "lastOpenFiles": [
+    "Computer_Science/CS01_LeetCode/82. 删除排序链表中的重复元素 II.md",
+    "Computer_Science/CS01_LeetCode/53. 最大子数组和.md",
+    "Computer_Science/CS01_LeetCode/23. 合并 K 个升序链表.md",
+    "Home.md",
     "Computer_Science/CS01_LeetCode/attachment/Pasted image 20240423104524.png",
     "Computer_Science/CS01_LeetCode/147. 对链表进行插入排序.md",
     "Computer_Science/CS01_LeetCode/attachment/Insertion-sort-example-300px.gif",
@@ -251,10 +255,7 @@
     "Computer_Science/CS01_LeetCode/attachment/Pasted image 20240423085446.png",
     "Computer_Science/CS01_LeetCode/98. 验证二叉搜索树.md",
     "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md",
-    "Computer_Science/CS01_LeetCode/53. 最大子数组和.md",
     "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md",
-    "Computer_Science/CS01_LeetCode/23. 合并 K 个升序链表.md",
-    "Computer_Science/CS01_LeetCode/82. 删除排序链表中的重复元素 II.md",
     "Computer_Science/CS01_LeetCode/attachment/Pasted image 20240423003807.png",
     "Computer_Science/CS01_LeetCode/attachment/Pasted image 20240423003725.png",
     "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Search Tree 二叉搜索树.md",

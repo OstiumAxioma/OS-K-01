@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "98. 验证二叉搜索树",
+      "path": "Computer_Science/CS01_LeetCode/98. 验证二叉搜索树.md"
+    },
+    {
+      "basename": "82. 删除排序链表中的重复元素 II",
+      "path": "Computer_Science/CS01_LeetCode/82. 删除排序链表中的重复元素 II.md"
+    },
+    {
+      "basename": "53. 最大子数组和",
+      "path": "Computer_Science/CS01_LeetCode/53. 最大子数组和.md"
+    },
+    {
+      "basename": "23. 合并 K 个升序链表",
+      "path": "Computer_Science/CS01_LeetCode/23. 合并 K 个升序链表.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "147. 对链表进行插入排序",
       "path": "Computer_Science/CS01_LeetCode/147. 对链表进行插入排序.md"
     },
@@ -21,28 +41,12 @@
       "path": "Computer_Science/CS01_LeetCode/109. 有序链表转换二叉搜索树.md"
     },
     {
-      "basename": "98. 验证二叉搜索树",
-      "path": "Computer_Science/CS01_LeetCode/98. 验证二叉搜索树.md"
-    },
-    {
       "basename": "Binary Tree 二叉树",
       "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
     },
     {
-      "basename": "53. 最大子数组和",
-      "path": "Computer_Science/CS01_LeetCode/53. 最大子数组和.md"
-    },
-    {
       "basename": "11. 盛最多水的容器",
       "path": "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
-    },
-    {
-      "basename": "23. 合并 K 个升序链表",
-      "path": "Computer_Science/CS01_LeetCode/23. 合并 K 个升序链表.md"
-    },
-    {
-      "basename": "82. 删除排序链表中的重复元素 II",
-      "path": "Computer_Science/CS01_LeetCode/82. 删除排序链表中的重复元素 II.md"
     },
     {
       "basename": "Binary Search Tree 二叉搜索树",
