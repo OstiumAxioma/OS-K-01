@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "109. 有序链表转换二叉搜索树",
+      "path": "Computer_Science/CS01_LeetCode/109. 有序链表转换二叉搜索树.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "98. 验证二叉搜索树",
       "path": "Computer_Science/CS01_LeetCode/98. 验证二叉搜索树.md"
     },
@@ -17,10 +25,6 @@
       "path": "Computer_Science/CS01_LeetCode/23. 合并 K 个升序链表.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "147. 对链表进行插入排序",
       "path": "Computer_Science/CS01_LeetCode/147. 对链表进行插入排序.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Queue 队列",
       "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Queue 队列.md"
-    },
-    {
-      "basename": "109. 有序链表转换二叉搜索树",
-      "path": "Computer_Science/CS01_LeetCode/109. 有序链表转换二叉搜索树.md"
     },
     {
       "basename": "Binary Tree 二叉树",
