@@ -21,9 +21,9 @@
       "mode": "any"
     },
     {
-      "id": "obsidian-git:pull",
-      "icon": "download",
-      "name": "Git: Pull",
+      "id": "obsidian-git:fetch",
+      "icon": "download-cloud",
+      "name": "Git: fetch",
       "mode": "any"
     }
   ],
