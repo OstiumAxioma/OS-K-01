@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Binary Tree 二叉树",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
+    },
+    {
+      "basename": "Binary Search Tree 二叉搜索树",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Search Tree 二叉搜索树.md"
+    },
+    {
+      "basename": "Binary Heap 堆结构",
+      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Heap 堆结构.md"
+    },
+    {
+      "basename": "147. 对链表进行插入排序",
+      "path": "Computer_Science/CS01_LeetCode/147. 对链表进行插入排序.md"
+    },
+    {
+      "basename": "109. 有序链表转换二叉搜索树",
+      "path": "Computer_Science/CS01_LeetCode/109. 有序链表转换二叉搜索树.md"
+    },
+    {
       "basename": "98. 验证二叉搜索树",
       "path": "Computer_Science/CS01_LeetCode/98. 验证二叉搜索树.md"
     },
@@ -17,12 +41,8 @@
       "path": "Computer_Science/CS01_LeetCode/23. 合并 K 个升序链表.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "147. 对链表进行插入排序",
-      "path": "Computer_Science/CS01_LeetCode/147. 对链表进行插入排序.md"
+      "basename": "11. 盛最多水的容器",
+      "path": "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
     },
     {
       "basename": "Insertion Sort 插入排序",
@@ -35,22 +55,6 @@
     {
       "basename": "Queue 队列",
       "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Queue 队列.md"
-    },
-    {
-      "basename": "109. 有序链表转换二叉搜索树",
-      "path": "Computer_Science/CS01_LeetCode/109. 有序链表转换二叉搜索树.md"
-    },
-    {
-      "basename": "Binary Tree 二叉树",
-      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
-    },
-    {
-      "basename": "11. 盛最多水的容器",
-      "path": "Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
-    },
-    {
-      "basename": "Binary Search Tree 二叉搜索树",
-      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Search Tree 二叉搜索树.md"
     },
     {
       "basename": "Breadth-First 广度优先",
@@ -111,10 +115,6 @@
     {
       "basename": "Algorithm模板",
       "path": "Template/Algorithm模板.md"
-    },
-    {
-      "basename": "Binary Heap 堆结构",
-      "path": "Computer_Science/CS08_DataStructure/02_DataTypes/Binary Heap 堆结构.md"
     },
     {
       "basename": "C 数组",

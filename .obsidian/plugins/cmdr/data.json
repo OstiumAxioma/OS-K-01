@@ -19,6 +19,12 @@
       "icon": "git-commit",
       "name": "Git: Commit all changes",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-git:pull",
+      "icon": "download",
+      "name": "Git: Pull",
+      "mode": "any"
     }
   ],
   "pageHeader": [],
