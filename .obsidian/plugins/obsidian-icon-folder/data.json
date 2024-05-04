@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiOpengl",
+      "OcHome24",
       "OcDatabase16",
       "RiTerminalBoxFill",
-      "SiCmake",
-      "RaPerspectiveDiceThree",
-      "SiAutodesk"
+      "SiCmake"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,7 @@
   "02-Game_Developing": "RaPerspectiveDiceThree",
   "03-Modeling": "SiAutodesk",
   "04-Computer_Graphic": "SiCmake",
-  "05-DataBase": "OcDatabase16"
+  "05-DataBase": "OcDatabase16",
+  "Home.md": "OcHome24",
+  "04-Computer_Graphic/CG102_Pipline_OpenGL/OpenGL渲染管线.md": "SiOpengl"
 }

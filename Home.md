@@ -38,8 +38,8 @@ cellStyleRules:
     min: 10
     max: 999
 cellStyle:
-  minWidth: 15px
-  minHeight: 30px
+  minWidth: 8px
+  minHeight: 25px
 
 ```
 ```components

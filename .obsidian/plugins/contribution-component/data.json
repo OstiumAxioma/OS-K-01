@@ -8,8 +8,8 @@
       "tabTitle": "",
       "maxWidthRatio": -1,
       "createAt": "2024-05-04T02:08:49.830Z",
-      "updateAt": "2024-05-04T02:10:10.757Z",
-      "backgroundStyle": "card",
+      "updateAt": "2024-05-04T02:21:44.822Z",
+      "backgroundStyle": "none",
       "contentType": "page",
       "coverType": "pageFirstImage",
       "filter": {
@@ -28,7 +28,7 @@
           }
         ]
       },
-      "maxHeight": 300
+      "maxHeight": 200
     },
     {
       "id": "baa36419-ad5e-4c2a-8805-df892ac48d26",
@@ -37,7 +37,7 @@
       "tabTitle": "",
       "maxWidthRatio": -1,
       "createAt": "2024-05-04T02:07:31.832Z",
-      "updateAt": "2024-05-04T02:08:36.887Z",
+      "updateAt": "2024-05-04T02:24:04.108Z",
       "backgroundStyle": "none",
       "showDateIndicator": true,
       "showProgressIndicator": true,
@@ -437,18 +437,33 @@
       "tabTitle": "",
       "maxWidthRatio": -1,
       "createAt": "2024-05-04T02:04:12.771Z",
-      "updateAt": "2024-05-04T02:08:49.830Z",
+      "updateAt": "2024-05-04T02:23:30.504Z",
       "backgroundStyle": "none",
       "widgets": [],
       "components": [
         {
-          "componentId": "baa36419-ad5e-4c2a-8805-df892ac48d26"
+          "componentId": "baa36419-ad5e-4c2a-8805-df892ac48d26",
+          "widthRatio": 25.96276013143484
         },
         {
-          "componentId": "84860149-c586-4298-a1e8-ba32ebc62663"
+          "componentId": "84860149-c586-4298-a1e8-ba32ebc62663",
+          "widthRatio": 74.03723986856515
         }
       ],
       "layoutType": "column"
+    },
+    {
+      "id": "3f894dca-123b-4059-b800-5f5f2aa809b3",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-05-04T02:18:35.149Z",
+      "updateAt": "2024-05-04T02:20:28.271Z",
+      "backgroundStyle": "none",
+      "widgets": [],
+      "components": [],
+      "layoutType": "tab"
     }
   ]
 }

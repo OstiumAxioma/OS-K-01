@@ -1,8 +1,8 @@
 {
   "floating-toc-styles@@toggle-floating-toc-header-color": false,
   "floating-toc-styles@@enable-background-blur-dept": false,
-  "anuppuccin-theme-settings@@anp-custom-vault-toggle": false,
-  "anuppuccin-theme-settings@@anp-file-icons": true,
+  "anuppuccin-theme-settings@@anp-custom-vault-toggle": true,
+  "anuppuccin-theme-settings@@anp-file-icons": false,
   "anuppuccin-theme-settings@@anp-collapse-folders": false,
   "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": true,
@@ -24,5 +24,6 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-red",
-  "anuppuccin-theme-settings@@list-indent": 1
+  "anuppuccin-theme-settings@@list-indent": 1,
+  "anuppuccin-theme-settings@@anp-floating-header": true
 }
