@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "OcProjectTemplate24",
-      "SiLibreofficedraw",
-      "RiFormula",
-      "SiGraphql",
-      "FarObjectGroup"
+      "OcDatabase16",
+      "RiTerminalBoxFill",
+      "SiCmake",
+      "RaPerspectiveDiceThree",
+      "SiAutodesk"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,12 +36,16 @@
     "iconName": "OcGitMergeQueue16",
     "iconColor": "#5b88f1"
   },
-  "Computer_Science": "RiComputerLine",
-  "Computer_Science/CS00_Language": "RiTerminalBoxLine",
-  "Computer_Science/CS01_LeetCode": "SiLeetcode",
-  "Computer_Science/CS04_ObjectOrientedDesign": "FarObjectGroup",
-  "Computer_Science/CS08_DataStructure": "SiGraphql",
-  "Computer_Science/CS80_Algorithm": "RiFormula",
-  "Excalidraw": "SiLibreofficedraw",
-  "Template": "OcProjectTemplate24"
+  "01-Computer_Science": "RiTerminalBoxFill",
+  "01-Computer_Science/CS00_Language": "RiTerminalBoxLine",
+  "01-Computer_Science/CS01_LeetCode": "SiLeetcode",
+  "01-Computer_Science/CS04_ObjectOrientedDesign": "FarObjectGroup",
+  "01-Computer_Science/CS08_DataStructure": "SiGraphql",
+  "01-Computer_Science/CS80_Algorithm": "RiFormula",
+  "99-Template": "OcProjectTemplate24",
+  "98-Excalidraw": "OcNote16",
+  "02-Game_Developing": "RaPerspectiveDiceThree",
+  "03-Modeling": "SiAutodesk",
+  "04-Computer_Graphic": "SiCmake",
+  "05-DataBase": "OcDatabase16"
 }

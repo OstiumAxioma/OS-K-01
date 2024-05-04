@@ -2,6 +2,54 @@
   "widgets": [],
   "components": [
     {
+      "id": "84860149-c586-4298-a1e8-ba32ebc62663",
+      "type": "quote",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-05-04T02:08:49.830Z",
+      "updateAt": "2024-05-04T02:10:10.757Z",
+      "backgroundStyle": "card",
+      "contentType": "page",
+      "coverType": "pageFirstImage",
+      "filter": {
+        "conditions": [
+          {
+            "value": "99-Template",
+            "operator": "not_contains",
+            "property": "${file.path}",
+            "id": "d057787f-f64f-4bbf-a204-3bd620b5227c"
+          },
+          {
+            "value": "98-Excalidraw",
+            "operator": "not_contains",
+            "property": "${file.path}",
+            "id": "2b792249-1c41-4eea-9b21-e52ec611bb35"
+          }
+        ]
+      },
+      "maxHeight": 300
+    },
+    {
+      "id": "baa36419-ad5e-4c2a-8805-df892ac48d26",
+      "type": "dateProgress",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-05-04T02:07:31.832Z",
+      "updateAt": "2024-05-04T02:08:36.887Z",
+      "backgroundStyle": "none",
+      "showDateIndicator": true,
+      "showProgressIndicator": true,
+      "startDateTimeType": "$specifiedDateTime",
+      "endDateTimeType": "$specifiedDateTime",
+      "uiType": "bar",
+      "title": "BCPNP",
+      "startDateTime": "2024-03-19 00:00:00",
+      "endDateTime": "2024-12-30 00:00:00",
+      "fontColor": "#69ff77ff"
+    },
+    {
       "id": "a1020170-de74-4a1e-bff6-22ea38ce9964",
       "type": "markdown",
       "titleAlign": "center",
@@ -381,6 +429,26 @@
         }
       ],
       "layoutType": "verticalTab"
+    },
+    {
+      "id": "cfe74683-00ae-46ec-89e2-ff0d768f6e17",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-05-04T02:04:12.771Z",
+      "updateAt": "2024-05-04T02:08:49.830Z",
+      "backgroundStyle": "none",
+      "widgets": [],
+      "components": [
+        {
+          "componentId": "baa36419-ad5e-4c2a-8805-df892ac48d26"
+        },
+        {
+          "componentId": "84860149-c586-4298-a1e8-ba32ebc62663"
+        }
+      ],
+      "layoutType": "column"
     }
   ]
 }
