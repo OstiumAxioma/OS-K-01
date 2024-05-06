@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Computer_Science/CS00_Language/C++/C++ 函数.md",
+                "file": "02-Game_Developing/CS5540_GameProgramming/Level 0.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#计算机/算法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Computer_Science/CS00_Language/C++/C++ 函数.md"
+                "file": "02-Game_Developing/CS5540_GameProgramming/Level 0.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01-Computer_Science/CS00_Language/C++/C++ 函数.md"
+                "file": "02-Game_Developing/CS5540_GameProgramming/Level 0.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Computer_Science/CS00_Language/C++/C++ 函数.md",
+                "file": "02-Game_Developing/CS5540_GameProgramming/Level 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Computer_Science/CS00_Language/C++/C++ 函数.md",
+                "file": "02-Game_Developing/CS5540_GameProgramming/Level 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,8 +240,26 @@
   },
   "active": "142f4dfeffcb76d0",
   "lastOpenFiles": [
-    "01-Computer_Science/CS00_Language/C++/C++ 语句.md",
+    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240506005815.png",
+    "02-Game_Developing/CS5540_GameProgramming/attachment",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Inheritance 继承.md",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Interface 接口.md",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Polymorphism 多态.md",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/attachment/Pasted image 20240506004239.png",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/attachment/Pasted image 20240506003846.png",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Composition Vs. Inheritance 组成与继承.md",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Design Pattern 设计模式.md",
     "01-Computer_Science/CS00_Language/C++/C++ 函数.md",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/attachment/Pasted image 20240506002728.png",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/attachment",
+    "99-Template/Data Structure模板.md",
+    "99-Template/Algorithm模板.md",
+    "99-Template/Leetcode模板.md",
+    "99-Template/OOD 模板.md",
+    "01-Computer_Science/CS00_Language/C++/attachment/Pasted image 20240506000155.png",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept",
+    "01-Computer_Science/CS00_Language/C++/attachment/Pasted image 20240505235957.png",
+    "01-Computer_Science/CS00_Language/C++/C++ 语句.md",
     "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Memory 内存.md",
     "01-Computer_Science/CS00_Language/C++/现代C++基础.md",
     "01-Computer_Science/CS00_Language/C++/attachment/Pasted image 20240505234247.png",
@@ -251,7 +269,7 @@
     "01-Computer_Science/CS00_Language/C++/C++左值与右值.md",
     "01-Computer_Science/CS00_Language/C语言/C 语言基础.md",
     "01-Computer_Science/CS00_Language/Csharp/Csharp 入门.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 1.md",
+    "02-Game_Developing/CS5540_GameProgramming/Level 0.md",
     "01-Computer_Science/CS00_Language/C语言/C 字符串.md",
     "01-Computer_Science/CS00_Language/Csharp",
     "01-Computer_Science/CS00_Language/C语言/C 指针.md",
@@ -260,32 +278,14 @@
     "01-Computer_Science/CS00_Language/C语言/C 结构体.md",
     "01-Computer_Science/CS00_Language/C语言/C 函数.md",
     "01-Computer_Science/CS00_Language/计算机语言的基本概念.md",
-    "Home.md",
     "02-Game_Developing/CS5540_GameProgramming",
     "01-Computer_Science/CS00_Language/C++/attachment/Cpp开始编译.png",
     "01-Computer_Science/CS00_Language/C++/attachment",
-    "04-Computer_Graphic/CG102_Pipline_OpenGL/OpenGL渲染管线.md",
-    "99-Template/Tool Learning模板.md",
-    "01-Computer_Science/CS01_LeetCode/109. 有序链表转换二叉搜索树.md",
     "05-DataBase",
     "04-Computer_Graphic/CG102_Pipline_OpenGL",
     "04-Computer_Graphic/CG101_IntroductionCG",
     "04-Computer_Graphic",
-    "03-Modeling",
-    "02-Game_Developing",
-    "01-Computer_Science/CS04_ObjectOrientedDesign/Principle",
-    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Search Tree 二叉搜索树.md",
-    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Heap 堆结构.md",
-    "01-Computer_Science/CS01_LeetCode/147. 对链表进行插入排序.md",
-    "01-Computer_Science/CS01_LeetCode/98. 验证二叉搜索树.md",
-    "01-Computer_Science/CS01_LeetCode/82. 删除排序链表中的重复元素 II.md",
-    "01-Computer_Science/CS01_LeetCode/53. 最大子数组和.md",
     "01-Computer_Science/CS01_LeetCode/attachment/Pasted image 20240423104524.png",
-    "01-Computer_Science/CS01_LeetCode/attachment/Insertion-sort-example-300px.gif",
-    "01-Computer_Science/CS01_LeetCode/attachment/Pasted image 20240423104428.png",
-    "01-Computer_Science/CS01_LeetCode/attachment/Pasted image 20240423085446.png",
-    "01-Computer_Science/CS01_LeetCode/attachment/Pasted image 20240423003807.png",
-    "01-Computer_Science/CS01_LeetCode/attachment/Pasted image 20240423003725.png",
     "未命名.canvas"
   ]
 }

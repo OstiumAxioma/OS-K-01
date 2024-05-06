@@ -94,15 +94,14 @@ C语言函数的参数会出现在两个地方，分别是函数定义处和函�
 
 **形参（形式参数）**
 
-在函数定义中出现的参数可以看做是一个占位符，它没有数据，只能等到函数被调用时接收传递进来的数据，所以称为`形式参数`，简称**`形参`**。
+在函数定义中出现的参数可以看做是一个占位符，它没有数据，只能等到函数被调用时接收传递进来的数据，所以称为<font color="#ff0000">形式参数</font>，简称<font color="#ff0000">形参</font>
 
 **实参（实际参数）**
 
-函数被调用时给出的参数包含了实实在在的数据，会被函数内部的代码使用，所以称为`实际参数`，简称**`实参`**。
+函数被调用时给出的参数包含了实实在在的数据，会被函数内部的代码使用，所以称为<font color="#ff0000">实际参数</font>，简称<font color="#ff0000">实参</font>。
 
-<aside> 💡 形参和实参的功能是传递数据，发生函数调用时，实参的值会传递给形参
-
-</aside>
+> [!tip]
+> 形参和实参的功能是传递数据，发生函数调用时，实参的值会传递给形参
 
 ```cpp
 返回值类型 function(参数类型 形参) 
@@ -144,3 +143,149 @@ main()
 **指针传递：**
 
 形参为指向实参地址的指针，当对形参的指向操作时，就相当于对实参<mark class="hltr-red">本身</mark>进行的操作
+
+## 函数原型/前置声明
+
+一般使用函数前需要完全定义函数名称，形式参数，返回类型和函数体
+
+这种方法并不适用于大型项目的管理
+
+### 函数原型
+
+函数原型相当于一个简化过的函数声明，函数体位置不在函数定义中
+
+可以放在独立的文件内，需要时再调用（比如头文件header.h）
+
+由于其位置在程序执行的前部，所以也叫前置声明
+
+### 函数原型的声明方式
+
+函数原型的声明需要一下几个成分：
+
+1. 函数名
+2. 形式参数数量
+3. 顺序和类型
+4. 返回值类型
+
+函数原型并不是没有函数体而是被拆分开来
+
+下面是函数原型和传统函数调用的对比
+
+### 传统调用
+
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int CustomAdd(int a, int b)
+{
+	return a + b;
+}
+
+int main()
+{
+	int x = 0;
+	
+	x = CustomAdd(2, 3);
+
+	cout << x << endl;
+}
+```
+*调用函数的常规方式，定义函数体并在main函数中调用*
+### 函数原型
+
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int CustomAdd(int, int);
+
+int main()
+{
+	int x = 0;
+	
+	x = CustomAdd(2, 3);
+
+	cout << x << endl;
+}
+
+```
+*函数原型的调用简化了函数体*
+
+```cpp
+int CustomAdd(int a, int b)
+{
+	return a + b;
+}
+```
+*函数体（函数的实现implementation）被放在程序的后半部分，或者是其他的cpp文件中，而函数原型/前置声明被放在header文件中统一管理*
+
+### 编译器中创建函数声明对应的函数体
+
+在visual studio中，创建函数声明时序列栏会出现扳手图标🪛，点击后会自动在代码末尾创建空的函数定义（函数体）的框架方便编辑
+
+![[Pasted image 20240505235957.png|center]]
+## 函数重载
+函数重载是指编译器中出现两个函数名称相同，但是形参数量、类型、顺序都不同的函数的情况
+
+由于函数名称相同，编译器将使用另外一套逻辑来判断应该调用哪个函数。此时编译器会根据调用该函数的实际输入心事参数选择应该实现(implement)哪个函数的函数体
+
+这种一个函数多种形式的状态也被称为[[Polymorphism 多态]]，这是一个面向对象编程中的重要概念
+
+重载函数不考虑返回值类型，因此一般不另外定义返回值，如果返回值的类型和以前定义的函数重复了就会报错。下面是一个例子：
+
+```cpp
+void test(int a);
+void test(double a);
+
+int test(int a); //虽然定义了函数返回值int与void不一样，但是重载函数并不会考虑返回值
+//因此在编译器看来，函数int test(int a)和函数void test(int a)完全没有任何区别，因此会报错
+```
+
+![[Pasted image 20240506000155.png|center]]
+*当调用一个有重载的函数时，编译器会给出该函数的具体声明需要哪些参数*
+
+在下面这个例子中，可以看到两个sphereOverlap函数都在main函数中被同时调用，且编译器可以根据其形参的区别分辨出具体要使用哪个函数体来进行输出
+
+```cpp
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+bool sphereOverlap(int start, int end, double radius, string actorTag);
+void sphereOverlap(string location, double radius, string actorTag);
+
+int main()
+{
+	sphereOverlap(1, 2, 10.0f, "player");
+	sphereOverlap("1", 8.0f, "player");
+	return 0;
+}
+
+bool sphereOverlap(int start, int end, double radius, string actorTag)
+{
+	int distance = end - start;
+
+	if (actorTag == "player")
+	{
+		cout << "Cause Damage!" << endl;
+		return true;
+	}
+	return false;
+}
+
+void sphereOverlap(string location, double radius, string actorTag)
+{
+	double distance = radius + stod(location);//string转为double
+
+	cout << distance << endl;
+
+	if (actorTag == "player" && distance < 10.0f)
+	{
+		cout << "Cause Damage 2!" << endl;
+	}
+}
+```
