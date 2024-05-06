@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "CS5540_System.excalidraw",
+      "path": "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md"
+    },
+    {
+      "basename": "Level 1",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.md"
+    },
+    {
+      "basename": "Level Template",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level Template.md"
+    },
+    {
       "basename": "Level 0",
       "path": "02-Game_Developing/CS5540_GameProgramming/Level 0.md"
     },
     {
+      "basename": "C++ 变量与常量",
+      "path": "01-Computer_Science/CS00_Language/C++/C++ 变量与常量.md"
+    },
+    {
+      "basename": "现代C++基础",
+      "path": "01-Computer_Science/CS00_Language/C++/现代C++基础.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "C++ 结构体",
+      "path": "01-Computer_Science/CS00_Language/C++/C++ 结构体.md"
+    },
+    {
+      "basename": "C++ 函数",
+      "path": "01-Computer_Science/CS00_Language/C++/C++ 函数.md"
+    },
+    {
+      "basename": "C 指针",
+      "path": "01-Computer_Science/CS00_Language/C语言/C 指针.md"
+    },
+    {
+      "basename": "C++ 左值与右值",
+      "path": "01-Computer_Science/CS00_Language/C++/C++ 左值与右值.md"
+    },
+    {
+      "basename": "C++ 语句",
+      "path": "01-Computer_Science/CS00_Language/C++/C++ 语句.md"
+    },
+    {
       "basename": "Inheritance 继承",
       "path": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Inheritance 继承.md"
+    },
+    {
+      "basename": "Class and Object 面向对象基本元素-类与对象",
+      "path": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Class and Object 面向对象基本元素-类与对象.md"
     },
     {
       "basename": "Interface 接口",
@@ -25,10 +73,6 @@
       "path": "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Design Pattern 设计模式.md"
     },
     {
-      "basename": "C++ 函数",
-      "path": "01-Computer_Science/CS00_Language/C++/C++ 函数.md"
-    },
-    {
       "basename": "Data Structure模板",
       "path": "99-Template/Data Structure模板.md"
     },
@@ -45,24 +89,8 @@
       "path": "99-Template/OOD 模板.md"
     },
     {
-      "basename": "C++ 语句",
-      "path": "01-Computer_Science/CS00_Language/C++/C++ 语句.md"
-    },
-    {
       "basename": "Memory 内存",
       "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Memory 内存.md"
-    },
-    {
-      "basename": "现代C++基础",
-      "path": "01-Computer_Science/CS00_Language/C++/现代C++基础.md"
-    },
-    {
-      "basename": "C++ 变量与常量",
-      "path": "01-Computer_Science/CS00_Language/C++/C++ 变量与常量.md"
-    },
-    {
-      "basename": "C++左值与右值",
-      "path": "01-Computer_Science/CS00_Language/C++/C++左值与右值.md"
     },
     {
       "basename": "C 语言基础",
@@ -75,10 +103,6 @@
     {
       "basename": "C 字符串",
       "path": "01-Computer_Science/CS00_Language/C语言/C 字符串.md"
-    },
-    {
-      "basename": "C 指针",
-      "path": "01-Computer_Science/CS00_Language/C语言/C 指针.md"
     },
     {
       "basename": "C 头文件",
@@ -95,10 +119,6 @@
     {
       "basename": "C 函数",
       "path": "01-Computer_Science/CS00_Language/C语言/C 函数.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "OpenGL渲染管线",
@@ -175,30 +195,6 @@
     {
       "basename": "Algorithm Basic 算法基础",
       "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md"
-    },
-    {
-      "basename": "Iteration and Recursion 迭代与递归",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md"
-    },
-    {
-      "basename": "Strategy模板",
-      "path": "99-Template/Strategy模板.md"
-    },
-    {
-      "basename": "Time Complexity 时间复杂度",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md"
-    },
-    {
-      "basename": "Array 数组",
-      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Array 数组.md"
-    },
-    {
-      "basename": "Space Complexity 空间复杂度",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Space Complexity 空间复杂度.md"
-    },
-    {
-      "basename": "Space–Time Trade Off 时空权衡",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Space–Time Trade Off 时空权衡.md"
     }
   ],
   "omittedPaths": [],
