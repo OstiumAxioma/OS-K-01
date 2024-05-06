@@ -6,10 +6,8 @@ tags:
   - 计算机/编程语言
   - 计算机/编程语言/C
   - 计算机/函数
-Type:
-  - Lecture
-Year:
-  - 2024 Spring
+ToolSet: 
+KnowledgeLink: []
 ---
 函数是一组一起执行一个任务的语句。每个 C 程序都至少有一个函数，即主函数<mark class="hltr-cyan"> main()</mark> ，所有简单的程序都可以定义其他额外的函数。
 

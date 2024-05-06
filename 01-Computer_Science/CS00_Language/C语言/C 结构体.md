@@ -5,10 +5,8 @@ tags:
   - 计算机/数据结构
   - 计算机
   - 计算机/编程语言
-Type:
-  - Lecture
-Year:
-  - 2024 Spring
+ToolSet: 
+KnowledgeLink: []
 ---
 # C 结构体
 

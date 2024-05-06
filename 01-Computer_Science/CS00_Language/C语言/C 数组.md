@@ -4,10 +4,8 @@ tags:
   - 计算机/编程语言/C
   - 计算机/数据结构
   - 计算机/数据结构/复合类型
-Type:
-  - Lecture
-Year:
-  - 2024 Spring
+ToolSet: 
+KnowledgeLink: []
 ---
 ### **C 数组的组成**
 

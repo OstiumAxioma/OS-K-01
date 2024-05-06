@@ -4,10 +4,8 @@ tags:
   - 计算机/编程语言/C
   - 计算机
   - 计算机/编程语言
-Type:
-  - Lecture
-Year:
-  - 2024 Spring
+ToolSet: 
+KnowledgeLink: []
 ---
 ### **C 程序结构**
 
