@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "CS5540_System.excalidraw",
-      "path": "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md"
+      "basename": "Level 1 Introduction to Game",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1 Introduction to Game.md"
     },
     {
-      "basename": "Level 1",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.md"
+      "basename": "Level 0 Course Requirements",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 0 Course Requirements.md"
+    },
+    {
+      "basename": "VaultBrain",
+      "path": "VaultBrain.md"
+    },
+    {
+      "basename": "Cpp实现贪吃蛇",
+      "path": "02-Game_Developing/GAME102_Cpp_UE_Development/Cpp实现贪吃蛇.md"
     },
     {
       "basename": "Level Template",
       "path": "02-Game_Developing/CS5540_GameProgramming/Level Template.md"
     },
     {
-      "basename": "Level 0",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 0.md"
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "CS5540_System.excalidraw",
+      "path": "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md"
     },
     {
       "basename": "C++ 变量与常量",
@@ -23,10 +35,6 @@
     {
       "basename": "现代C++基础",
       "path": "01-Computer_Science/CS00_Language/C++/现代C++基础.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "C++ 结构体",
@@ -191,10 +199,6 @@
     {
       "basename": "Greedy Algorithm 贪心算法",
       "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/Greedy Algorithm 贪心算法.md"
-    },
-    {
-      "basename": "Algorithm Basic 算法基础",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md"
     }
   ],
   "omittedPaths": [],

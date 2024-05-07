@@ -3,5 +3,6 @@
   "readableLineLength": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./attachment",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "autoConvertHtml": false
 }

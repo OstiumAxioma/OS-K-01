@@ -5,7 +5,9 @@ tags:
   - 游戏开发/引擎
 ToolSet:
   - "[[现代C++基础]]"
+  - "[[C++ 结构体]]"
 KnowledgeLink:
+  - "[[Class and Object 面向对象基本元素-类与对象]]"
 ---
 ### 游戏开发的基本原则
 
