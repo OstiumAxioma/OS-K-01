@@ -884,7 +884,9 @@ class VaultChangeModal extends obsidian.Modal {
             let newName = inputEl.value;
             if (this.action === 'rename') {
                 // Manual Rename Handler For md Files
-                newName = newName + '.' + this.file.path.slice(this.file.path.lastIndexOf('.') + 1);
+                if (this.file.path.endsWith('.md')) {
+                    newName = newName + '.' + this.file.path.slice(this.file.path.lastIndexOf('.') + 1);
+                }
                 // Folder Note files to be updated
                 if (this.file instanceof obsidian.TFolder && this.plugin.settings.folderNote) {
                     let folderNoteFile = this.app.vault.getAbstractFileByPath(this.file.path + '/' + this.file.name + '.md');
@@ -3079,7 +3081,7 @@ const dragStarted = (params) => {
     // json to move file to folder
     e.dataTransfer.setData('application/json', JSON.stringify({ filePath: file.path }));
     let dragManager = plugin.app.dragManager;
-    const dragData = dragManager.dragFile(e.nativeEvent, file);
+    const dragData = dragManager.dragFile(e.nativeEvent, obsidianFile);
     dragManager.onDragStart(e.nativeEvent, dragData);
 };
 // --> AuxClick (Mouse Wheel Button Action)
@@ -3316,7 +3318,7 @@ function FileComponent(props) {
                             ? ' file-tree-files-fixed-with-search'
                             : ' file-tree-files-fixed'
                         : ''}` }, filesToList.map((file, index) => {
-                    return (React.createElement(g, { height: 19, key: index },
+                    return (React.createElement(g, { height: 22, key: index },
                         React.createElement(NavFile, { file: file, plugin: plugin })));
                 }))))))));
 }
@@ -3352,7 +3354,7 @@ const NavFile = (props) => {
     }, [hoverActive]);
     const FileIcon = reactExports.useMemo(() => getFileIcon({
         file,
-    }), [plugin.settings.iconBeforeFileName]);
+    }), [plugin.settings.iconBeforeFileName, file]);
     const fileDisplayName = reactExports.useMemo(() => {
         return plugin.settings.showFileNameAsFullPath ? getFileNameAndExtension(file.path).fileName : file.basename;
     }, [plugin.settings.showFileNameAsFullPath, file.path]);
@@ -3439,7 +3441,7 @@ function Tree(props) {
         props.onDoubleClick();
     };
     // --> Icon
-    const Icon = reactExports.useMemo(() => getFolderIcon(props.plugin, props.children, open), [open, props.children]);
+    const Icon = reactExports.useMemo(() => getFolderIcon(props.plugin, props.children, open), [open, props.children, props.plugin.settings.folderIcon]);
     // --> Folder Count Map
     const folderCount = folderFileCountMap$1[props.folder.path];
     // --> Drag and Drop Actions
@@ -4001,7 +4003,7 @@ function MainTreeComponent(props) {
             }));
             localStorage.setItem(plugin.keys.focusedFolder, focusedFolder$1.path);
         }
-    }, [focusedFolder$1]);
+    }, [focusedFolder$1, excludedFolders$1]);
     const setInitialFocusedFolder = () => {
         let localFocusedFolder = localStorage.getItem(plugin.keys.focusedFolder);
         if (localFocusedFolder) {

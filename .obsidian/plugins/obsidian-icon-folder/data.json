@@ -26,7 +26,10 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "debugMode": false
   },
   "CS04_ObjectOrientedDesign": {
     "iconName": "FarObjectGroup",

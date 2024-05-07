@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Level 2 Csharp and Unity Graphic",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 2 Csharp and Unity Graphic.md"
+      "basename": "Binary Tree 二叉树",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
+    },
+    {
+      "basename": "VaultBrain",
+      "path": "VaultBrain.md"
+    },
+    {
+      "basename": "向量",
+      "path": "04-Computer_Graphic/CG101_IntroductionCG/向量.md"
+    },
+    {
+      "basename": "Level 1.2 Csharp and Unity Graphic",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.2 Csharp and Unity Graphic.md"
+    },
+    {
+      "basename": "Level 1.1 Introduction to Game",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.1 Introduction to Game.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "CS5540_System.excalidraw",
@@ -17,16 +37,8 @@
       "path": "02-Game_Developing/CS5540_GameProgramming/Level Template.md"
     },
     {
-      "basename": "Level 1 Introduction to Game",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1 Introduction to Game.md"
-    },
-    {
       "basename": "Level 0 Course Requirements",
       "path": "02-Game_Developing/CS5540_GameProgramming/Level 0 Course Requirements.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "109. 有序链表转换二叉搜索树",
@@ -63,10 +75,6 @@
     {
       "basename": "Queue 队列",
       "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Queue 队列.md"
-    },
-    {
-      "basename": "Binary Tree 二叉树",
-      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
     },
     {
       "basename": "11. 盛最多水的容器",
@@ -191,10 +199,6 @@
     {
       "basename": "Pasted image 20240419133705",
       "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419133705.png"
-    },
-    {
-      "basename": "找零与贪心算法",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/attachment/找零与贪心算法.png"
     }
   ],
   "omittedPaths": [],

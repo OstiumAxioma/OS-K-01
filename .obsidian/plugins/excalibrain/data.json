@@ -90,7 +90,7 @@
   "autoOpenCentralDocument": true,
   "toggleEmbedTogglesAutoOpen": true,
   "showInferredNodes": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "showURLNodes": true,
   "showVirtualNodes": true,
   "showFolderNodes": true,
@@ -231,7 +231,8 @@
     "folder:01-Computer_Science",
     "folder:01-Computer_Science/CS08_DataStructure/01_ComputerComposition",
     "folder:01-Computer_Science/CS08_DataStructure",
-    "folder:01-Computer_Science/CS08_DataStructure/02_DataTypes"
+    "folder:01-Computer_Science/CS08_DataStructure/02_DataTypes",
+    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

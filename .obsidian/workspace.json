@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "52d450fd12277607",
+        "id": "43a195923bed3250",
         "type": "tabs",
         "children": [
           {
-            "id": "59f94db6007f5699",
+            "id": "a3704b8212ff4eeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/Level 2 Csharp and Unity Graphic.md",
+                "file": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/Level 2 Csharp and Unity Graphic.md"
+                "file": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
               }
             }
           }
@@ -125,7 +125,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/Level 2 Csharp and Unity Graphic.md"
+                "file": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/Level 2 Csharp and Unity Graphic.md",
+                "file": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/Level 2 Csharp and Unity Graphic.md",
+                "file": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:查看关系图谱": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "vscode-editor:新建代码文件": false,
       "switcher:打开快速切换": false,
       "canvas:新建白板": false,
@@ -228,26 +227,28 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false,
-      "file-tree-alternative:File Tree Alternative Plugin": true,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian-importer:Open Importer": false,
       "dbfolder:创建一个新数据库表": false,
-      "publish:发布更改": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "59f94db6007f5699",
+  "active": "a3704b8212ff4eeb",
   "lastOpenFiles": [
+    "VaultBrain.md",
+    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md",
+    "04-Computer_Graphic/CG101_IntroductionCG/向量.md",
+    "02-Game_Developing/CS5540_GameProgramming/Level 1.2 Csharp and Unity Graphic.md",
+    "02-Game_Developing/CS5540_GameProgramming/Level 1.1 Introduction to Game.md",
+    "Home.md",
     "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 2 Csharp and Unity Graphic.md",
     "02-Game_Developing/CS5540_GameProgramming/未命名.md",
     "02-Game_Developing/GAME102_Cpp_UE_Development/Cpp实现贪吃蛇.md",
     "02-Game_Developing/CS5540_GameProgramming/Level Template.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 1 Introduction to Game.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 0 Course Requirements.md",
-    "Home.md",
-    "VaultBrain.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
@@ -283,8 +284,6 @@
     "01-Computer_Science/CS00_Language/C++/现代C++基础.md",
     "01-Computer_Science/CS00_Language/C++/C++ 语句.md",
     "01-Computer_Science/CS00_Language/C++/C++ 结构体.md",
-    "01-Computer_Science/CS00_Language/C++/C++ 左值与右值.md",
-    "01-Computer_Science/CS00_Language/C++/C++ 变量与常量.md",
     "未命名.canvas"
   ]
 }

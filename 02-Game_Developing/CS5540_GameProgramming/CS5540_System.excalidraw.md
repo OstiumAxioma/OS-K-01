@@ -39,7 +39,7 @@ Play Test ^PfOHkLdk
 Implement ^pVyDNrJm
 
 # Element Links
-AYKbjkq5: [[Level 1 Introduction to Game#Development Stages]]
+AYKbjkq5: [[Level 1.1 Introduction to Game#Development Stages]]
 
 %%
 # Drawing

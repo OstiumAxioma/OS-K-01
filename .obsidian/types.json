@@ -30,6 +30,7 @@
     "TimeComplexity": "multitext",
     "Strategy": "multitext",
     "Status": "checkbox",
-    "Difficulty": "multitext"
+    "Difficulty": "multitext",
+    "excalidraw-export-embed-scene": "checkbox"
   }
 }
