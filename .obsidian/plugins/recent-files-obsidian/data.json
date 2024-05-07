@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Level 1 Introduction to Game",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1 Introduction to Game.md"
+      "basename": "Level 2 Csharp and Unity Graphic",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 2 Csharp and Unity Graphic.md"
     },
     {
-      "basename": "Level 0 Course Requirements",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 0 Course Requirements.md"
-    },
-    {
-      "basename": "VaultBrain",
-      "path": "VaultBrain.md"
+      "basename": "CS5540_System.excalidraw",
+      "path": "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md"
     },
     {
       "basename": "Cpp实现贪吃蛇",
@@ -21,120 +17,16 @@
       "path": "02-Game_Developing/CS5540_GameProgramming/Level Template.md"
     },
     {
+      "basename": "Level 1 Introduction to Game",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1 Introduction to Game.md"
+    },
+    {
+      "basename": "Level 0 Course Requirements",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 0 Course Requirements.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
-    },
-    {
-      "basename": "CS5540_System.excalidraw",
-      "path": "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md"
-    },
-    {
-      "basename": "C++ 变量与常量",
-      "path": "01-Computer_Science/CS00_Language/C++/C++ 变量与常量.md"
-    },
-    {
-      "basename": "现代C++基础",
-      "path": "01-Computer_Science/CS00_Language/C++/现代C++基础.md"
-    },
-    {
-      "basename": "C++ 结构体",
-      "path": "01-Computer_Science/CS00_Language/C++/C++ 结构体.md"
-    },
-    {
-      "basename": "C++ 函数",
-      "path": "01-Computer_Science/CS00_Language/C++/C++ 函数.md"
-    },
-    {
-      "basename": "C 指针",
-      "path": "01-Computer_Science/CS00_Language/C语言/C 指针.md"
-    },
-    {
-      "basename": "C++ 左值与右值",
-      "path": "01-Computer_Science/CS00_Language/C++/C++ 左值与右值.md"
-    },
-    {
-      "basename": "C++ 语句",
-      "path": "01-Computer_Science/CS00_Language/C++/C++ 语句.md"
-    },
-    {
-      "basename": "Inheritance 继承",
-      "path": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Inheritance 继承.md"
-    },
-    {
-      "basename": "Class and Object 面向对象基本元素-类与对象",
-      "path": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Class and Object 面向对象基本元素-类与对象.md"
-    },
-    {
-      "basename": "Interface 接口",
-      "path": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Interface 接口.md"
-    },
-    {
-      "basename": "Polymorphism 多态",
-      "path": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Polymorphism 多态.md"
-    },
-    {
-      "basename": "Composition Vs. Inheritance 组成与继承",
-      "path": "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Composition Vs. Inheritance 组成与继承.md"
-    },
-    {
-      "basename": "Design Pattern 设计模式",
-      "path": "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Design Pattern 设计模式.md"
-    },
-    {
-      "basename": "Data Structure模板",
-      "path": "99-Template/Data Structure模板.md"
-    },
-    {
-      "basename": "Algorithm模板",
-      "path": "99-Template/Algorithm模板.md"
-    },
-    {
-      "basename": "Leetcode模板",
-      "path": "99-Template/Leetcode模板.md"
-    },
-    {
-      "basename": "OOD 模板",
-      "path": "99-Template/OOD 模板.md"
-    },
-    {
-      "basename": "Memory 内存",
-      "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Memory 内存.md"
-    },
-    {
-      "basename": "C 语言基础",
-      "path": "01-Computer_Science/CS00_Language/C语言/C 语言基础.md"
-    },
-    {
-      "basename": "Csharp 入门",
-      "path": "01-Computer_Science/CS00_Language/Csharp/Csharp 入门.md"
-    },
-    {
-      "basename": "C 字符串",
-      "path": "01-Computer_Science/CS00_Language/C语言/C 字符串.md"
-    },
-    {
-      "basename": "C 头文件",
-      "path": "01-Computer_Science/CS00_Language/C语言/C 头文件.md"
-    },
-    {
-      "basename": "C 数组",
-      "path": "01-Computer_Science/CS00_Language/C语言/C 数组.md"
-    },
-    {
-      "basename": "C 结构体",
-      "path": "01-Computer_Science/CS00_Language/C语言/C 结构体.md"
-    },
-    {
-      "basename": "C 函数",
-      "path": "01-Computer_Science/CS00_Language/C语言/C 函数.md"
-    },
-    {
-      "basename": "OpenGL渲染管线",
-      "path": "04-Computer_Graphic/CG102_Pipline_OpenGL/OpenGL渲染管线.md"
-    },
-    {
-      "basename": "Tool Learning模板",
-      "path": "99-Template/Tool Learning模板.md"
     },
     {
       "basename": "109. 有序链表转换二叉搜索树",
@@ -199,6 +91,110 @@
     {
       "basename": "Greedy Algorithm 贪心算法",
       "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/Greedy Algorithm 贪心算法.md"
+    },
+    {
+      "basename": "Leetcode模板",
+      "path": "99-Template/Leetcode模板.md"
+    },
+    {
+      "basename": "Algorithm Basic 算法基础",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md"
+    },
+    {
+      "basename": "Iteration and Recursion 迭代与递归",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md"
+    },
+    {
+      "basename": "Strategy模板",
+      "path": "99-Template/Strategy模板.md"
+    },
+    {
+      "basename": "Time Complexity 时间复杂度",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md"
+    },
+    {
+      "basename": "Array 数组",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Array 数组.md"
+    },
+    {
+      "basename": "Space Complexity 空间复杂度",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Space Complexity 空间复杂度.md"
+    },
+    {
+      "basename": "Data Structure模板",
+      "path": "99-Template/Data Structure模板.md"
+    },
+    {
+      "basename": "Space–Time Trade Off 时空权衡",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Space–Time Trade Off 时空权衡.md"
+    },
+    {
+      "basename": "Memory 内存",
+      "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Memory 内存.md"
+    },
+    {
+      "basename": "Algorithm模板",
+      "path": "99-Template/Algorithm模板.md"
+    },
+    {
+      "basename": "Binary Heap 堆结构",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Heap 堆结构.md"
+    },
+    {
+      "basename": "C 数组",
+      "path": "01-Computer_Science/CS00_Language/C语言/C 数组.md"
+    },
+    {
+      "basename": "Computer Composition 计算机组成",
+      "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Computer Composition 计算机组成.md"
+    },
+    {
+      "basename": "Abstract data type ADT 抽象类型",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Abstract data type ADT 抽象类型.md"
+    },
+    {
+      "basename": "Composite Data Type CDT 复合类型",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Composite Data Type CDT 复合类型.md"
+    },
+    {
+      "basename": "Change-making problem 零钱兑换",
+      "path": "01-Computer_Science/CS80_Algorithm/04_AlgorithmCase/Change-making problem 零钱兑换.md"
+    },
+    {
+      "basename": "Pasted image 20240419201036",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/attachment/Pasted image 20240419201036.png"
+    },
+    {
+      "basename": "C 指针",
+      "path": "01-Computer_Science/CS00_Language/C语言/C 指针.md"
+    },
+    {
+      "basename": "Pasted image 20240419183518",
+      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419183518.png"
+    },
+    {
+      "basename": "Pasted image 20240419184037",
+      "path": "01-Computer_Science/CS01_LeetCode/attachment/Pasted image 20240419184037.png"
+    },
+    {
+      "basename": "Pasted image 20240419140040",
+      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419140040.png"
+    },
+    {
+      "basename": "Pasted image 20240419134452",
+      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419134452.png"
+    },
+    {
+      "basename": "Pasted image 20240419133806",
+      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419133806.png"
+    },
+    {
+      "basename": "Pasted image 20240419133705",
+      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419133705.png"
+    },
+    {
+      "basename": "找零与贪心算法",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/attachment/找零与贪心算法.png"
     }
   ],
   "omittedPaths": [],
