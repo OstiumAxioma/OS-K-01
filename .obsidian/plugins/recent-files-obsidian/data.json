@@ -1,16 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Vector向量",
+      "path": "06-Mathematics/MATH401_3D_Geometry/Vector向量.md"
+    },
+    {
+      "basename": "3DGeometry_Map",
+      "path": "06-Mathematics/MATH401_3D_Geometry/3DGeometry_Map.md"
+    },
+    {
+      "basename": "Level 2.1 Math and Vector in Unity",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Level Template",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level Template.md"
+    },
+    {
+      "basename": "CS5540_System.excalidraw",
+      "path": "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md"
+    },
+    {
+      "basename": "Asymptotic Notations 渐进符号",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Asymptotic Notations 渐进符号.md"
+    },
+    {
+      "basename": "Algorithm Basic 算法基础",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md"
+    },
+    {
+      "basename": "Time Complexity 时间复杂度",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md"
+    },
+    {
+      "basename": "Iteration and Recursion 迭代与递归",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md"
+    },
+    {
+      "basename": "Space Complexity 空间复杂度",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Space Complexity 空间复杂度.md"
+    },
+    {
+      "basename": "Space–Time Trade Off 时空权衡",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Space–Time Trade Off 时空权衡.md"
+    },
+    {
       "basename": "Binary Tree 二叉树",
       "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
     },
     {
       "basename": "VaultBrain",
       "path": "VaultBrain.md"
-    },
-    {
-      "basename": "向量",
-      "path": "04-Computer_Graphic/CG101_IntroductionCG/向量.md"
     },
     {
       "basename": "Level 1.2 Csharp and Unity Graphic",
@@ -21,20 +65,8 @@
       "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.1 Introduction to Game.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "CS5540_System.excalidraw",
-      "path": "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md"
-    },
-    {
       "basename": "Cpp实现贪吃蛇",
       "path": "02-Game_Developing/GAME102_Cpp_UE_Development/Cpp实现贪吃蛇.md"
-    },
-    {
-      "basename": "Level Template",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level Template.md"
     },
     {
       "basename": "Level 0 Course Requirements",
@@ -105,36 +137,16 @@
       "path": "99-Template/Leetcode模板.md"
     },
     {
-      "basename": "Algorithm Basic 算法基础",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md"
-    },
-    {
-      "basename": "Iteration and Recursion 迭代与递归",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md"
-    },
-    {
       "basename": "Strategy模板",
       "path": "99-Template/Strategy模板.md"
-    },
-    {
-      "basename": "Time Complexity 时间复杂度",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md"
     },
     {
       "basename": "Array 数组",
       "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Array 数组.md"
     },
     {
-      "basename": "Space Complexity 空间复杂度",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Space Complexity 空间复杂度.md"
-    },
-    {
       "basename": "Data Structure模板",
       "path": "99-Template/Data Structure模板.md"
-    },
-    {
-      "basename": "Space–Time Trade Off 时空权衡",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Space–Time Trade Off 时空权衡.md"
     },
     {
       "basename": "Memory 内存",
@@ -187,18 +199,6 @@
     {
       "basename": "Pasted image 20240419140040",
       "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419140040.png"
-    },
-    {
-      "basename": "Pasted image 20240419134452",
-      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419134452.png"
-    },
-    {
-      "basename": "Pasted image 20240419133806",
-      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419133806.png"
-    },
-    {
-      "basename": "Pasted image 20240419133705",
-      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419133705.png"
     }
   ],
   "omittedPaths": [],

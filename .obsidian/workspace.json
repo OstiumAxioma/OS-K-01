@@ -4,23 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "43a195923bed3250",
+        "id": "47f32b4f1aa6dce5",
         "type": "tabs",
         "children": [
           {
-            "id": "a3704b8212ff4eeb",
+            "id": "c5e350ece9803aec",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "06-Mathematics/MATH401_3D_Geometry/3DGeometry_Map.md"
+              }
+            }
+          },
+          {
+            "id": "06cd79e885048540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md",
+                "file": "06-Mathematics/MATH401_3D_Geometry/Vector向量.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,11 +99,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
+                "file": "06-Mathematics/MATH401_3D_Geometry/Vector向量.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,7 +137,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
+                "file": "06-Mathematics/MATH401_3D_Geometry/Vector向量.md"
               }
             }
           },
@@ -175,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md",
+                "file": "06-Mathematics/MATH401_3D_Geometry/Vector向量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md",
+                "file": "06-Mathematics/MATH401_3D_Geometry/Vector向量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 482.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,18 +248,37 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "a3704b8212ff4eeb",
+  "active": "06cd79e885048540",
   "lastOpenFiles": [
-    "VaultBrain.md",
-    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md",
-    "04-Computer_Graphic/CG101_IntroductionCG/向量.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 1.2 Csharp and Unity Graphic.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 1.1 Introduction to Game.md",
+    "06-Mathematics/MATH401_3D_Geometry/3DGeometry_Map.md",
+    "06-Mathematics/MATH401_3D_Geometry/Vector向量.md",
+    "06-Mathematics/MATH401_3D_Geometry/attachment/Pasted Image 20240510144132_360.png",
+    "06-Mathematics/MATH401_3D_Geometry/attachment",
+    "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md",
     "Home.md",
+    "06-Mathematics/MATH103_Calculus",
+    "06-Mathematics/MATH102_DiscreteMath",
+    "06-Mathematics/MATH201_LinearAlgebra",
+    "06-Mathematics/MATH401_3D_Geometry",
+    "06-Mathematics",
+    "02-Game_Developing/CS5540_GameProgramming/Level Template.md",
     "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md",
     "02-Game_Developing/CS5540_GameProgramming/未命名.md",
+    "02-Game_Developing/CS5540_GameProgramming/Level 1.1 Introduction to Game.md",
+    "02-Game_Developing/CS5540_GameProgramming/attachment/GP_Level01_Day02_BasicScripting.pdf",
+    "02-Game_Developing/CS5540_GameProgramming/attachment/GP_Level01_Day01_Introduction.pdf",
+    "02-Game_Developing/CS5540_GameProgramming/attachment/GP_Level02_Day01_MathforGames.pdf",
+    "02-Game_Developing/CS5540_GameProgramming/attachment/GP_Level02_Day02_MathforGames.pdf",
+    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Asymptotic Notations 渐进符号.md",
+    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md",
+    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md",
+    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md",
+    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Space Complexity 空间复杂度.md",
+    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Space–Time Trade Off 时空权衡.md",
+    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md",
+    "VaultBrain.md",
+    "02-Game_Developing/CS5540_GameProgramming/Level 1.2 Csharp and Unity Graphic.md",
     "02-Game_Developing/GAME102_Cpp_UE_Development/Cpp实现贪吃蛇.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level Template.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 0 Course Requirements.md",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.svg",
     "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
@@ -255,35 +286,15 @@
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw",
     "99-Template/Tool Learning模板.md",
     "99-Template/OOD 模板.md",
     "04-Computer_Graphic/CG102_Pipline_OpenGL/OpenGL渲染管线.md",
-    "04-Computer_Graphic/CG102_Pipline_OpenGL",
-    "04-Computer_Graphic",
     "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240506005815.png",
-    "02-Game_Developing/CS5540_GameProgramming/attachment",
-    "02-Game_Developing/GAME102_Cpp_UE_Development",
-    "02-Game_Developing/CS5540_GameProgramming",
-    "02-Game_Developing",
     "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/attachment/Pasted image 20240506004239.png",
     "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/attachment/Pasted image 20240506003846.png",
     "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/attachment/Pasted image 20240506002728.png",
-    "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/attachment",
-    "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Polymorphism 多态.md",
-    "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Interface 接口.md",
-    "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Inheritance 继承.md",
-    "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Class and Object 面向对象基本元素-类与对象.md",
-    "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Composition Vs. Inheritance 组成与继承.md",
-    "01-Computer_Science/CS00_Language/Csharp/Csharp 入门.md",
     "01-Computer_Science/CS00_Language/C++/attachment/Pasted image 20240506000155.png",
     "01-Computer_Science/CS00_Language/C++/attachment/Pasted image 20240505235957.png",
-    "01-Computer_Science/CS00_Language/C++/attachment/Pasted image 20240505234247.png",
-    "01-Computer_Science/CS00_Language/C++/现代C++基础.md",
-    "01-Computer_Science/CS00_Language/C++/C++ 语句.md",
-    "01-Computer_Science/CS00_Language/C++/C++ 结构体.md",
     "未命名.canvas"
   ]
 }

@@ -3,10 +3,10 @@ Date: 2024-01-17
 tags:
   - 计算机/算法
   - 计算机/算法/策略
-Type:
-  - Website
-Year:
-  - 2024 Spring
+Component: 
+Stategy:
+  - "[[Algorithm Basic 算法基础]]"
+Status: true
 ---
 # 算法无处不在
 

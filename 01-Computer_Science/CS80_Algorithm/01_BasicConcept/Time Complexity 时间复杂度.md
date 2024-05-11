@@ -3,13 +3,11 @@ Date: 2024-01-20
 tags:
   - 计算机/编程语言/C
   - 计算机/数据结构
-  - 计算机
-  - 计算机/编程语言
-Type:
-  - Lecture
-Year:
-  - 2024 Spring
-Status:
+  - 计算机/算法
+Component: 
+Stategy:
+  - "[[Algorithm Basic 算法基础]]"
+Status: true
 ---
 # 时间复杂度基础
 

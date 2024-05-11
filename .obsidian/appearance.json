@@ -4,7 +4,8 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "metadata-icon-auto-gen",
-    "Image Align"
+    "Image Align",
+    "latex"
   ],
   "baseFontSize": 14,
   "monospaceFontFamily": "FiraCode Nerd Font"

@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./attachment",
   "newFileLocation": "current",
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "vimMode": false
 }
