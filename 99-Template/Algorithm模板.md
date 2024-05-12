@@ -1,20 +1,20 @@
 ---
-Date: 
+date: 
 tags:
   - 计算机/数据结构
   - 计算机/编程语言
   - 计算机/数据结构/抽象类型
   - "#计算机/复杂度/时间复杂度"
-Component:
+component:
   - "[[C 指针]]"
   - "[[Binary Heap 堆结构]]"
-Stategy:
+stategy:
   - "[[Dynamic Programming 动态规划]]"
-TimeComplexity:
+timeComplexity:
   - O(n)
-SpaceComplexity:
+spaceComplexity:
   - O(n)
-Status:
+status:
 ---
 ## 算法简介
 

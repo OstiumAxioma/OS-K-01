@@ -1,12 +1,12 @@
 ---
-Date: 2024-01-17
+date: 2024-01-17
 tags:
   - 计算机/算法
   - 计算机/算法/策略
-Component: 
-Stategy:
+component: 
+stategy:
   - "[[Algorithm Basic 算法基础]]"
-Status: true
+status: true
 ---
 
 > [!success]

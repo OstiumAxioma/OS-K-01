@@ -1,15 +1,15 @@
 ---
-Date: 2024-01-17
+date: 2024-01-17
 tags:
   - 计算机/数据结构
   - 计算机
   - 计算机/编程语言
   - 计算机/数据结构/抽象类型
-Type:
+type:
   - Lecture
-Year:
+academicYear:
   - 2024 Spring
-Status: true
+status: true
 ---
 # 抽象类型
 

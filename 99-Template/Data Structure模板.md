@@ -1,17 +1,17 @@
 ---
-Date: 2024-01-17
+date: 2024-01-17
 tags:
   - 计算机/数据结构
   - 计算机/编程语言
   - 计算机/数据结构/抽象类型
   - "#计算机/复杂度/时间复杂度"
-Component:
+component:
   - "[[C 指针]]"
-TimeComplexity:
+timeComplexity:
   - O(n)
-SpaceComplexity:
+spaceComplexity:
   - O(n)
-Status:
+status:
 ---
 ## 数据结构简介
 

@@ -18,6 +18,12 @@
   "sidebarState": {
     "typesCollapsed": false,
     "collectionsCollapsed": false,
-    "widgets": []
+    "widgets": [
+      {
+        "title": "New widget",
+        "collapsed": false,
+        "definition": {}
+      }
+    ]
   }
 }

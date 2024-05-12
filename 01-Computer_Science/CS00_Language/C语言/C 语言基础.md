@@ -1,11 +1,11 @@
 ---
-Date: 2024-01-17
+date: 2024-01-17
 tags:
   - 计算机/编程语言/C
   - 计算机
   - 计算机/编程语言
-ToolSet: 
-KnowledgeLink: []
+toolSet: 
+knowledgeLink: []
 ---
 ### **C 程序结构**
 

@@ -1,17 +1,17 @@
 ---
-Date: 2024-03-17
+date: 2024-03-17
 tags:
   - 计算机/数据结构
   - 计算机/编程语言
   - 计算机/数据结构/抽象类型
-Component:
+component:
   - "[[C 指针]]"
   - "[[Link List 链表]]"
-TimeComplexity:
+timeComplexity:
   - O(n)
-SpaceComplexity:
+spaceComplexity:
   - O(n)
-Status:
+status:
 ---
 ## 数据结构简介
 二叉树（binary tree）是一种非线性数据结构，代表“祖先”与“后代”之间的派生关系，体现了“一分为二”的分治逻辑。与链表类似，二叉树的基本单元是节点，每个节点包含值、左子节点引用和右子节点引用。

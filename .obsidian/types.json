@@ -31,6 +31,7 @@
     "Strategy": "multitext",
     "Status": "checkbox",
     "Difficulty": "multitext",
-    "excalidraw-export-embed-scene": "checkbox"
+    "excalidraw-export-embed-scene": "checkbox",
+    "ToolSet": "multitext"
   }
 }

@@ -1,16 +1,16 @@
 ---
-Date: 2024-01-17
+date: 2024-01-17
 tags:
   - 计算机/算法
   - 计算机/算法/策略
   - 计算机
-Component:
+component:
   - "[[C 指针]]"
-Stategy:
+stategy:
   - "[[Dynamic Programming 动态规划]]"
-TimeComplexity:
+timeComplexity:
   - O(n)
-SpaceComplexity:
+spaceComplexity:
   - O(n)
 ---
 > [!TODO]

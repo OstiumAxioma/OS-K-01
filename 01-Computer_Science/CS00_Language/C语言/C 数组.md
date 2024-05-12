@@ -1,11 +1,11 @@
 ---
-Date: 2024-01-17
+date: 2024-01-17
 tags:
   - 计算机/编程语言/C
   - 计算机/数据结构
   - 计算机/数据结构/复合类型
-ToolSet: 
-KnowledgeLink: []
+toolSet: 
+knowledgeLink: []
 ---
 ### **C 数组的组成**
 

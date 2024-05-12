@@ -1,18 +1,18 @@
 ---
-Date: 2024-01-17
+date: 2024-01-17
 tags:
   - 计算机/数据结构
   - 计算机/编程语言
   - 计算机/数据结构/抽象类型
   - "#计算机/复杂度/时间复杂度"
   - 计算机
-Component:
+component:
   - "[[C 指针]]"
-TimeComplexity:
+timeComplexity:
   - O(n)
-SpaceComplexity:
+spaceComplexity:
   - O(n)
-Status: true
+status: true
 ---
 ## 数据结构简介
 链表（linked list）是一种线性数据结构，其中的每个元素都是一个节点对象，各个节点通过“[[C 指针|引用]]”相连接。引用记录了下一个节点的内存地址，通过它可以从当前节点访问到下一个节点。

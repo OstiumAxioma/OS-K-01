@@ -1,28 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Vector向量",
-      "path": "06-Mathematics/MATH401_3D_Geometry/Vector向量.md"
-    },
-    {
-      "basename": "3DGeometry_Map",
-      "path": "06-Mathematics/MATH401_3D_Geometry/3DGeometry_Map.md"
-    },
-    {
       "basename": "Level 2.1 Math and Vector in Unity",
       "path": "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md"
+    },
+    {
+      "basename": "Level 2.2 Linear Interpolation and Lerp 线性插值与Lerp",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 2.2 Linear Interpolation and Lerp 线性插值与Lerp.md"
+    },
+    {
+      "basename": "11. 盛最多水的容器",
+      "path": "01-Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
     },
     {
       "basename": "Home",
       "path": "Home.md"
     },
     {
+      "basename": "CS5540_System.excalidraw",
+      "path": "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md"
+    },
+    {
+      "basename": "Level 1.2 Csharp and Unity Graphic",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.2 Csharp and Unity Graphic.md"
+    },
+    {
+      "basename": "Level 0 Course Requirements",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 0 Course Requirements.md"
+    },
+    {
       "basename": "Level Template",
       "path": "02-Game_Developing/CS5540_GameProgramming/Level Template.md"
     },
     {
-      "basename": "CS5540_System.excalidraw",
-      "path": "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md"
+      "basename": "3DGeometry_Map",
+      "path": "06-Mathematics/MATH401_3D_Geometry/3DGeometry_Map.md"
+    },
+    {
+      "basename": "Level 1.1 Introduction to Game",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.1 Introduction to Game.md"
+    },
+    {
+      "basename": "Vector向量",
+      "path": "06-Mathematics/MATH401_3D_Geometry/Vector向量.md"
+    },
+    {
+      "basename": "GP_Level02_Day02_MathforGames",
+      "path": "02-Game_Developing/CS5540_GameProgramming/attachment/GP_Level02_Day02_MathforGames.pdf"
     },
     {
       "basename": "Asymptotic Notations 渐进符号",
@@ -57,20 +81,8 @@
       "path": "VaultBrain.md"
     },
     {
-      "basename": "Level 1.2 Csharp and Unity Graphic",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.2 Csharp and Unity Graphic.md"
-    },
-    {
-      "basename": "Level 1.1 Introduction to Game",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.1 Introduction to Game.md"
-    },
-    {
       "basename": "Cpp实现贪吃蛇",
       "path": "02-Game_Developing/GAME102_Cpp_UE_Development/Cpp实现贪吃蛇.md"
-    },
-    {
-      "basename": "Level 0 Course Requirements",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 0 Course Requirements.md"
     },
     {
       "basename": "109. 有序链表转换二叉搜索树",
@@ -107,10 +119,6 @@
     {
       "basename": "Queue 队列",
       "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Queue 队列.md"
-    },
-    {
-      "basename": "11. 盛最多水的容器",
-      "path": "01-Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
     },
     {
       "basename": "Binary Search Tree 二叉搜索树",
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20240419183518",
       "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419183518.png"
-    },
-    {
-      "basename": "Pasted image 20240419184037",
-      "path": "01-Computer_Science/CS01_LeetCode/attachment/Pasted image 20240419184037.png"
-    },
-    {
-      "basename": "Pasted image 20240419140040",
-      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419140040.png"
     }
   ],
   "omittedPaths": [],

@@ -1,19 +1,19 @@
 ---
-Date: 2024-01-17
+date: 2024-01-17
 tags:
   - 计算机/数据结构
   - 计算机/算法
   - 计算机/算法/策略
-Component:
+component:
   - "[[Binary Tree 二叉树]]"
   - "[[Binary Heap 堆结构]]"
-Stategy:
+stategy:
   - "[[Breadth-First 广度优先]]"
-TimeComplexity:
+timeComplexity:
   - O(n)
-SpaceComplexity:
+spaceComplexity:
   - O(n)
-Status:
+status:
 ---
 # Breadth-First Traversal 广度优先遍历
 # Breadth-First Search 广度优先搜索

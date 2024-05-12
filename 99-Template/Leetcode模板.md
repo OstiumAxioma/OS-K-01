@@ -1,17 +1,17 @@
 ---
-Date: 2024-04-23
+date: 2024-04-23
 tags:
   - 计算机/算法
   - 计算机
   - 计算机/算法/Leetcode
-Type:
+type:
   - Practice
-Strategy:
+strategy:
   - "[[Divide and Conquer 分治]]"
   - "[[双指针]]"
-Time_Complexity: O(n)
-Space_Complexity: O(nlogn)
-Status:
+timeComplexity: O(n)
+spaceComplexity: O(nlogn)
+status:
 ---
 # 题目名
 

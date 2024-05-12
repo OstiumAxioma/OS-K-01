@@ -1,10 +1,10 @@
 ---
-Date: 2024-05-06
+date: 2024-05-06
 tags:
   - 游戏开发
   - 游戏开发/引擎
-ToolSet: "[[现代C++基础]]"
-KnowledgeLink:
+toolSet: "[[现代C++基础]]"
+knowledgeLink:
 ---
 # Graphics Rendering in Unity
 ## Basic Graphic Concepts
@@ -40,9 +40,9 @@ By default, each 3D scene in Unity contains a skybox system. You can find this i
 
 Find settings in the skybox material properties. They gradually changed the way skybox texture is rendered.
 
-## Scripting Basic: 
+# Scripting System: 
 
-### Unity Script Componet
+### Unity Script Component
 
 > [!Definition]
 > In Unity, C# scripts are also components.
@@ -116,12 +116,12 @@ public class CubeBehavior : MonoBehaviour
 > [!warning]
 > Notify that anything changed during the game play state will not be saved!
 
-## Basic Control System: Get Input from Users
+# Basic Control System: Get Input from Users
 
 Get method are used to get user inputs. However, the consists of different states. Take keyboard input as example, keyboard inputs varies includes:
-1. GetKey: Returns true while the user holds down the key identified by name.
-2. GetKeyUp: Return true until the user release the key.
-3. GetKeyDown: Return true as soon as the user press the key.
+1. `GetKey`: Returns true while the user holds down the key identified by name.
+2. `GetKeyUp`: Return true until the user release the key.
+3. `GetKeyDown`: Return true as soon as the user press the key.
 
 > [!tip]
 > Logical components in C# works the same as any other programing languages. So does the operation symbols like `||`, `&&` etc.
@@ -146,7 +146,7 @@ Most functions in Unity library supports [[Polymorphism 多态]]. This means wit
 > [!example]
 > For example, the destroy function of Unity can be called with the format of `Destroy(gameObject);` or `Destroy(gameObject, 3);`. The latter format allows you to add a 3 seconds delay before destroying the object.
 
-## Prefab System
+# Prefab System
 
 > [!tip]
 > Prefab is like a template or blueprint in Unity.

@@ -1,16 +1,16 @@
 ---
-Date: 2024-01-17
+date: 2024-01-17
 tags:
   - 计算机/算法
   - 计算机/算法/策略
   - 计算机
-Component: []
-Stategy:
+component: []
+stategy:
   - "[[Divide and Conquer 分治]]"
   - "[[Iteration and Recursion 迭代与递归]]"
-TimeComplexity:
+timeComplexity:
   - O(n)
-SpaceComplexity:
+spaceComplexity:
   - O(n)
 ---
 分治（divide and conquer），全称分而治之，是一种非常重要且常见的算法策略。分治通常基于递归实现，包括“分”和“治”两个步骤。

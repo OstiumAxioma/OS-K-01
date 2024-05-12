@@ -1,18 +1,18 @@
 ---
-Date: 2024-01-17
+date: 2024-01-17
 tags:
   - 计算机/数据结构
   - 计算机/编程语言
   - 计算机/数据结构/抽象类型
   - "#计算机/复杂度/时间复杂度"
   - 计算机
-Component:
+component:
   - "[[C 数组]]"
-TimeComplexity:
+timeComplexity:
   - O(n)
-SpaceComplexity:
+spaceComplexity:
   - O(n)
-Status: true
+status: true
 ---
 ## 数据结构简介
 数组（array）是一种线性数据结构，其将相同类型的元素存储在连续的内存空间中。我们将元素在数组中的位置称为该元素的索引（index）。下图展示了数组的主要概念和存储方式。

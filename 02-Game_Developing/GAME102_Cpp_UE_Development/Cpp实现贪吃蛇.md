@@ -1,12 +1,12 @@
 ---
-Date: 2024-05-05
+date: 2024-05-05
 tags:
   - 游戏开发
   - 游戏开发/引擎
-ToolSet:
+toolSet:
   - "[[现代C++基础]]"
   - "[[C++ 结构体]]"
-KnowledgeLink:
+knowledgeLink:
   - "[[Class and Object 面向对象基本元素-类与对象]]"
 ---
 ### 游戏开发的基本原则

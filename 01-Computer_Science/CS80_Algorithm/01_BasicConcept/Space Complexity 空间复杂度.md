@@ -1,13 +1,13 @@
 ---
-Date: 2024-01-20
+date: 2024-01-20
 tags:
   - 计算机/编程语言/C
   - 计算机/数据结构
   - 计算机/算法
-Component: 
-Stategy:
+component: 
+stategy:
   - "[[Algorithm Basic 算法基础]]"
-Status: true
+status: true
 ---
 空间复杂度（space complexity）用于衡量算法占用内存空间随着数据量变大时的增长趋势。这个概念与时间复杂度非常类似，只需将“运行时间”替换为“占用内存空间”。
 

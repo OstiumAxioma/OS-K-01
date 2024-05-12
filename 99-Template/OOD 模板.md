@@ -1,9 +1,9 @@
 ---
-Date: 2024-01-17
+date: 2024-01-17
 tags:
   - 计算机/面向对象
-Component: []
-Stategy:
+component: []
+stategy:
 ---
 ## 概念简介
 

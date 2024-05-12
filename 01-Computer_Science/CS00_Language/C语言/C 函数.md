@@ -1,13 +1,13 @@
 ---
-Date: 2024-01-20
+date: 2024-01-20
 tags:
   - 计算机/数据结构
   - 计算机
   - 计算机/编程语言
   - 计算机/编程语言/C
   - 计算机/函数
-ToolSet: 
-KnowledgeLink: []
+toolSet: 
+knowledgeLink: []
 ---
 函数是一组一起执行一个任务的语句。每个 C 程序都至少有一个函数，即主函数<mark class="hltr-cyan"> main()</mark> ，所有简单的程序都可以定义其他额外的函数。
 

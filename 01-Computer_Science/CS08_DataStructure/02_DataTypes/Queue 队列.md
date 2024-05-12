@@ -1,16 +1,16 @@
 ---
-Date: 2024-01-17
+date: 2024-01-17
 tags:
   - 计算机/数据结构
   - 计算机/数据结构/抽象类型
-Component:
+component:
   - "[[C 数组]]"
   - "[[Array 数组]]"
-TimeComplexity:
+timeComplexity:
   - O(n)
-SpaceComplexity:
+spaceComplexity:
   - O(n)
-Status:
+status:
 ---
 ## 数据结构简介
 队列（queue）是一种遵循先入先出（FIFO, First-In-First-Out）规则的线性数据结构/线性表。顾名思义，队列模拟了排队现象，即新来的人不断加入队列尾部，而位于队列头部的人逐个离开

@@ -98,8 +98,23 @@
       "important": [
         {
           "changes": {
-            "icon": "lucide-book-open-check",
-            "color": "254, 160, 98"
+            "icon": "lucide-book-open-check"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "255, 136, 26"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "255, 136, 56"
           }
         }
       ],
@@ -203,6 +218,22 @@
           "changes": {
             "icon": "lucide-flame-kindling"
           }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "4, 231, 163"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "4, 165, 229"
+          }
         }
       ],
       "bug": [
@@ -232,6 +263,27 @@
         {
           "changes": {
             "icon": "lucide-mouse-pointer-square-dashed"
+          }
+        }
+      ],
+      "note": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "42, 110, 245"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "42, 110, 245"
           }
         }
       ]

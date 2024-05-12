@@ -1,12 +1,12 @@
 ---
-Date: 2024-01-18
+date: 2024-01-18
 tags:
   - 计算机/编程语言/C
   - 计算机/数据结构
   - 计算机
   - 计算机/编程语言
-ToolSet: 
-KnowledgeLink: []
+toolSet: 
+knowledgeLink: []
 ---
 # C 结构体
 
