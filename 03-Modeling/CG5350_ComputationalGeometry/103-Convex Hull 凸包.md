@@ -5,10 +5,12 @@ tags:
   - 计算机/复杂度/时间复杂度
 toolSet:
   - "[[Graph 图]]"
+  - "[[Polar Angle Sorting极角排序]]"
 knowledgeLink:
   - "[[102-Computational Geometry in a Physics Engine#Bounding Volume]]"
 timeComplexity:
   - O(nlogn)
+  - O(nk)
 spaceComplexity: 
 status: false
 ---
@@ -28,8 +30,35 @@ In geometry, the convex hull, convex envelope or convex closure of a shape is th
 # Convex Hull Algorithm
 常用的求法有 Gift Wrapping 算法，Graham 扫描法和 Andrew 算法
 ## Gift Wrapping 算法
+### 算法复杂度
+该算法的时间复杂度为 $O(nk)$，其中 n 为待求凸包点集的大小，k为凸包点集的元素数量。复杂度的瓶颈凸包集合点的数量。该算法在n足够小的时候有不错的表现
+### 算法实现
+礼物包装算法求凸包是从凸包某一点为起始点，按**某一时针方向**依次寻找最外侧的点并链接。此时所有的点就像等待包装的“礼物”，围成凸包的线就是“包装纸”，像包礼物一样  以某个方向“缠绕过去”，最后所得出的就是凸包。
 
+> [!NOTE] 极角搜索
+> 这种按时针方向遍历的搜索又被称为极角搜索，在[[Polar Angle Sorting极角排序]]中有相似的思路
 
+在实现算法中，以顺时针方向，寻找与y轴正方向顺时针夹角最小的点来编写的，这要求了**起始点**必须是整个图最**左下角**的点，即`x`最小，`x`相同下`y`最小的点（或`y`最小，`y` 相同下`x`最小的点）。这保证了所选取的初始点一定在最终的凸包上。随后，将这一点加入凸包集合，注意为了最后能再找到这一点，仅这一点不进行标记。遍历图中尚未被标记的所有点并计算 起始点与这一点连线与`y`轴顺时针夹角，取夹角最小点加入凸包并标记，将新加入的这一点选为起始点，继续上述操作**直至最终找到最初的起始点，凸包完成**。
+
+```c
+algorithm jarvis(S) is
+    // S is the set of points
+    // P will be the set of points which form the convex hull. Final set size is i.
+    pointOnHull = leftmost point in S // which is guaranteed to be part of the CH(S)
+    i := 0
+    repeat
+        P[i] := pointOnHull
+        endpoint := S[0]      // initial endpoint for a candidate edge on the hull
+        for j from 0 to |S| do
+            // endpoint == pointOnHull is a rare case and can happen only when j == 1 and a better endpoint has not yet been set for the loop
+            if (endpoint == pointOnHull) or (S[j] is on left of line from P[i] to endpoint) then
+                endpoint := S[j]   // found greater left turn, update endpoint
+        i := i + 1
+        pointOnHull = endpoint
+    until endpoint = P[0]      // wrapped around to first hull point
+```
+
+当求得两夹角相等时，应该判断两点对初始点距离，取距离远者加入，其次最终返回类型为`set`，最后将最初的起始点加入操作相当于没有对集合进行任何操作，因为集合中已经有了这一元素。
 ## Andrew 算法
 ### 算法复杂度
 该算法的时间复杂度为 $O(n\log n)$，其中 n 为待求凸包点集的大小，复杂度的瓶颈在于对所有点坐标的双关键字排序。

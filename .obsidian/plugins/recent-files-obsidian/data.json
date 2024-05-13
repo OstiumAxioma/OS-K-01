@@ -1,8 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "SDL(Simple DirectMedia Layer)管线",
+      "path": "04-Computer_Graphic/CG102_Pipline/SDL(Simple DirectMedia Layer)管线.md"
+    },
+    {
+      "basename": "OpenGL渲染管线",
+      "path": "04-Computer_Graphic/CG102_Pipline/OpenGL渲染管线.md"
+    },
+    {
+      "basename": "Introduction to Dlang",
+      "path": "01-Computer_Science/CS00_Language/Dlang/Introduction to Dlang.md"
+    },
+    {
+      "basename": "VaultBrain",
+      "path": "VaultBrain.md"
+    },
+    {
+      "basename": "Csharp 入门",
+      "path": "01-Computer_Science/CS00_Language/Csharp/Csharp 入门.md"
+    },
+    {
+      "basename": "102-Computational Geometry in a Physics Engine",
+      "path": "03-Modeling/CG5350_ComputationalGeometry/102-Computational Geometry in a Physics Engine.md"
+    },
+    {
+      "basename": "103-Convex Hull 凸包",
+      "path": "03-Modeling/CG5350_ComputationalGeometry/103-Convex Hull 凸包.md"
+    },
+    {
+      "basename": "Polar Angle Sorting极角排序",
+      "path": "01-Computer_Science/CS80_Algorithm/03_Sorting/Polar Angle Sorting极角排序.md"
+    },
+    {
+      "basename": "Breadth-First 广度优先",
+      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/Breadth-First 广度优先.md"
+    },
+    {
+      "basename": "Divide and Conquer 分治",
+      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/Divide and Conquer 分治.md"
+    },
+    {
+      "basename": "Dynamic Programming 动态规划",
+      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/Dynamic Programming 动态规划.md"
+    },
+    {
+      "basename": "Greedy Algorithm 贪心算法",
+      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/Greedy Algorithm 贪心算法.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Queue 队列",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Queue 队列.md"
+    },
+    {
+      "basename": "Change-making problem 零钱兑换",
+      "path": "01-Computer_Science/CS80_Algorithm/04_AlgorithmCase/Change-making problem 零钱兑换.md"
+    },
+    {
+      "basename": "Graph 图",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Graph 图.md"
+    },
+    {
+      "basename": "101-Introduction to Computational Geometry",
+      "path": "03-Modeling/CG5350_ComputationalGeometry/101-Introduction to Computational Geometry.md"
+    },
+    {
       "basename": "Class and Object 面向对象基本元素-类与对象",
       "path": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Class and Object 面向对象基本元素-类与对象.md"
+    },
+    {
+      "basename": "Computer Composition 计算机组成",
+      "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Computer Composition 计算机组成.md"
+    },
+    {
+      "basename": "Memory 内存",
+      "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Memory 内存.md"
     },
     {
       "basename": "Inheritance 继承",
@@ -11,18 +87,6 @@
     {
       "basename": "Interface 接口",
       "path": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Interface 接口.md"
-    },
-    {
-      "basename": "103-Convex Hull 凸包",
-      "path": "03-Modeling/CG5350_ComputationalGeometry/103-Convex Hull 凸包.md"
-    },
-    {
-      "basename": "102-Computational Geometry in a Physics Engine",
-      "path": "03-Modeling/CG5350_ComputationalGeometry/102-Computational Geometry in a Physics Engine.md"
-    },
-    {
-      "basename": "Graph 图",
-      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Graph 图.md"
     },
     {
       "basename": "Binary Tree 二叉树",
@@ -37,14 +101,6 @@
       "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Array 数组.md"
     },
     {
-      "basename": "Memory 内存",
-      "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Memory 内存.md"
-    },
-    {
-      "basename": "Computer Composition 计算机组成",
-      "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Computer Composition 计算机组成.md"
-    },
-    {
       "basename": "Binary Heap 堆结构",
       "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Heap 堆结构.md"
     },
@@ -57,28 +113,12 @@
       "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md"
     },
     {
-      "basename": "Queue 队列",
-      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Queue 队列.md"
-    },
-    {
       "basename": "Level 1.1 Introduction to Game",
       "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.1 Introduction to Game.md"
     },
     {
-      "basename": "101-Introduction to Computational Geometry",
-      "path": "03-Modeling/CG5350_ComputationalGeometry/101-Introduction to Computational Geometry.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "Algorithm Basic 算法基础",
       "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md"
-    },
-    {
-      "basename": "Change-making problem 零钱兑换",
-      "path": "01-Computer_Science/CS80_Algorithm/04_AlgorithmCase/Change-making problem 零钱兑换.md"
     },
     {
       "basename": "Binary Search Tree 二叉搜索树",
@@ -103,10 +143,6 @@
     {
       "basename": "Level Template",
       "path": "02-Game_Developing/CS5540_GameProgramming/Level Template.md"
-    },
-    {
-      "basename": "OpenGL渲染管线",
-      "path": "04-Computer_Graphic/CG102_Pipline_OpenGL/OpenGL渲染管线.md"
     },
     {
       "basename": "3DGeometry_Map",
@@ -163,42 +199,6 @@
     {
       "basename": "Iteration and Recursion 迭代与递归",
       "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md"
-    },
-    {
-      "basename": "Space Complexity 空间复杂度",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Space Complexity 空间复杂度.md"
-    },
-    {
-      "basename": "Space–Time Trade Off 时空权衡",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Space–Time Trade Off 时空权衡.md"
-    },
-    {
-      "basename": "VaultBrain",
-      "path": "VaultBrain.md"
-    },
-    {
-      "basename": "Cpp实现贪吃蛇",
-      "path": "02-Game_Developing/GAME102_Cpp_UE_Development/Cpp实现贪吃蛇.md"
-    },
-    {
-      "basename": "109. 有序链表转换二叉搜索树",
-      "path": "01-Computer_Science/CS01_LeetCode/109. 有序链表转换二叉搜索树.md"
-    },
-    {
-      "basename": "98. 验证二叉搜索树",
-      "path": "01-Computer_Science/CS01_LeetCode/98. 验证二叉搜索树.md"
-    },
-    {
-      "basename": "82. 删除排序链表中的重复元素 II",
-      "path": "01-Computer_Science/CS01_LeetCode/82. 删除排序链表中的重复元素 II.md"
-    },
-    {
-      "basename": "53. 最大子数组和",
-      "path": "01-Computer_Science/CS01_LeetCode/53. 最大子数组和.md"
-    },
-    {
-      "basename": "23. 合并 K 个升序链表",
-      "path": "01-Computer_Science/CS01_LeetCode/23. 合并 K 个升序链表.md"
     }
   ],
   "omittedPaths": [],

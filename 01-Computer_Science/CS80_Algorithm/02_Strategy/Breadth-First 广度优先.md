@@ -13,7 +13,7 @@ timeComplexity:
   - O(n)
 spaceComplexity:
   - O(n)
-status:
+status: false
 ---
 # Breadth-First Traversal 广度优先遍历
 # Breadth-First Search 广度优先搜索

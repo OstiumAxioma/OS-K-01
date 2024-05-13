@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "SiRoundcube",
-      "SiGraphql",
-      "OcArrowUpRight16",
-      "SiUnrealengine",
-      "SiUnity"
+      "FabPython",
+      "FabJava",
+      "SiD",
+      "SiCsharp",
+      "SiCodio"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -51,10 +51,16 @@
   "03-Modeling": "SiAutodesk",
   "04-Computer_Graphic": "SiCmake",
   "Home.md": "OcHome24",
-  "04-Computer_Graphic/CG102_Pipline_OpenGL/OpenGL渲染管线.md": "SiOpengl",
   "02-Game_Developing/CS5540_GameProgramming": "SiUnity",
   "02-Game_Developing/GAME102_Cpp_UE_Development": "SiUnrealengine",
   "10-DataBase": "OcDatabase16",
   "06-Mathematics/MATH401_3D_Geometry/Vector向量.md": "OcArrowUpRight16",
-  "06-Mathematics/MATH401_3D_Geometry/3DGeometry_Map.md": "SiRoundcube"
+  "06-Mathematics/MATH401_3D_Geometry/3DGeometry_Map.md": "SiRoundcube",
+  "01-Computer_Science/CS00_Language/C++": "SiCplusplus",
+  "01-Computer_Science/CS00_Language/C语言": "SiCodio",
+  "01-Computer_Science/CS00_Language/Csharp": "SiCsharp",
+  "01-Computer_Science/CS00_Language/Dlang": "SiD",
+  "01-Computer_Science/CS00_Language/Java": "FabJava",
+  "01-Computer_Science/CS00_Language/Python": "FabPython",
+  "04-Computer_Graphic/CG102_Pipline/OpenGL渲染管线.md": "SiOpengl"
 }

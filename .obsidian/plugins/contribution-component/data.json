@@ -8,7 +8,7 @@
       "tabTitle": "",
       "maxWidthRatio": -1,
       "createAt": "2024-05-12T22:48:49.491Z",
-      "updateAt": "2024-05-12T22:53:36.964Z",
+      "updateAt": "2024-05-13T06:21:45.947Z",
       "backgroundStyle": "none",
       "viewType": "gallary",
       "datasource": {
@@ -99,7 +99,7 @@
       "tabTitle": "",
       "maxWidthRatio": -1,
       "createAt": "2024-05-04T02:07:31.832Z",
-      "updateAt": "2024-05-04T02:24:04.108Z",
+      "updateAt": "2024-05-13T06:22:55.252Z",
       "backgroundStyle": "none",
       "showDateIndicator": true,
       "showProgressIndicator": true,
@@ -109,7 +109,7 @@
       "title": "BCPNP",
       "startDateTime": "2024-03-19 00:00:00",
       "endDateTime": "2024-12-30 00:00:00",
-      "fontColor": "#69ff77ff"
+      "fontColor": "#6ed675ff"
     },
     {
       "id": "a1020170-de74-4a1e-bff6-22ea38ce9964",

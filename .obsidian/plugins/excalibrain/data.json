@@ -94,7 +94,7 @@
   "showURLNodes": true,
   "showVirtualNodes": true,
   "showFolderNodes": true,
-  "showTagNodes": true,
+  "showTagNodes": false,
   "showPageNodes": true,
   "showNeighborCount": true,
   "showFullTagName": false,
@@ -232,7 +232,8 @@
     "folder:01-Computer_Science/CS08_DataStructure/01_ComputerComposition",
     "folder:01-Computer_Science/CS08_DataStructure",
     "folder:01-Computer_Science/CS08_DataStructure/02_DataTypes",
-    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
+    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md",
+    "Home.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

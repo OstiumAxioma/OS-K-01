@@ -13,14 +13,6 @@ timeComplexity:
 spaceComplexity:
   - O(n)
 ---
-> [!TODO]
->By the end of this module, you should be able to:
->- 7-1: Define what dynamic programming is.
->- 7-2: Perform asymptotic analysis of Fibonacci iterative solution.
->- 7-3: Implement Fibonacci numbers with a dynamic approach.
->- 7-4: Perform asymptotic analysis of a Fibonacci dynamic programming solution.
->- 7-5: Analyze the longest common substring problem.
->- 7-6: Analyze the  longest common subsequence problem.
 
 ```embed
 title: "01. 动态规划基础知识"
