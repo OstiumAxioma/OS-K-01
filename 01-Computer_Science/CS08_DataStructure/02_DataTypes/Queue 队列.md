@@ -10,7 +10,7 @@ timeComplexity:
   - O(n)
 spaceComplexity:
   - O(n)
-status:
+status: false
 ---
 ## 数据结构简介
 队列（queue）是一种遵循先入先出（FIFO, First-In-First-Out）规则的线性数据结构/线性表。顾名思义，队列模拟了排队现象，即新来的人不断加入队列尾部，而位于队列头部的人逐个离开

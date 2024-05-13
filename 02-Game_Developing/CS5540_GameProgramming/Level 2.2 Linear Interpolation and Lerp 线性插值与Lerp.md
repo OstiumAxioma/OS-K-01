@@ -6,7 +6,8 @@ tags:
 toolSet:
   - "[[Level 1.2 Csharp and Unity Graphic]]"
   - "[[Level 2.1 Math and Vector in Unity]]"
-knowledgeLink:
+knowledgeLink: 
+status: true
 ---
 # Linear Interpolation线性插值
 ## 何为线性插值

@@ -2,6 +2,68 @@
   "widgets": [],
   "components": [
     {
+      "id": "4f9083f4-3e56-4a05-b6bf-63f2220fca3f",
+      "type": "dynamicDataView",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-05-12T22:48:49.491Z",
+      "updateAt": "2024-05-12T22:53:36.964Z",
+      "backgroundStyle": "none",
+      "viewType": "gallary",
+      "datasource": {
+        "filter": {
+          "conditions": [
+            {
+              "value": true,
+              "operator": "not_equals",
+              "property": "status",
+              "id": "f74558e6-fc23-489a-9e91-feec3679454c"
+            }
+          ]
+        },
+        "dataLimit": 50,
+        "storage": {
+          "location": ""
+        },
+        "sort": {
+          "orders": [
+            {
+              "id": "b7aaf291-9a6c-4984-9d29-139258ae4b7b",
+              "property": "${file.mtime}",
+              "direction": "asc"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "id": "9a41274d-e670-4edc-8658-1517256149c7",
+          "name": "${file.tags}",
+          "isShow": true,
+          "defaultValue": "",
+          "type": "multiSelect"
+        },
+        {
+          "id": "23d5aff0-87e1-4c9e-a961-3e22634f0404",
+          "name": "${file.mtime}",
+          "isShow": true,
+          "defaultValue": "",
+          "type": "datetime"
+        }
+      ],
+      "templates": [],
+      "viewOptions": {
+        "openPageIn": "tab",
+        "itemSize": "gallary-small",
+        "cover": {
+          "type": "pageFirstImage",
+          "value": "",
+          "fit": "fill"
+        }
+      }
+    },
+    {
       "id": "84860149-c586-4298-a1e8-ba32ebc62663",
       "type": "quote",
       "titleAlign": "center",
@@ -464,6 +526,23 @@
       "widgets": [],
       "components": [],
       "layoutType": "tab"
+    },
+    {
+      "id": "00f8fff2-ee37-41f4-8a94-53189980ef4b",
+      "type": "multi",
+      "titleAlign": "center",
+      "tabTitle": "",
+      "maxWidthRatio": -1,
+      "createAt": "2024-05-12T22:48:43.807Z",
+      "updateAt": "2024-05-12T22:48:49.491Z",
+      "backgroundStyle": "none",
+      "widgets": [],
+      "components": [
+        {
+          "componentId": "4f9083f4-3e56-4a05-b6bf-63f2220fca3f"
+        }
+      ],
+      "layoutType": "column"
     }
   ]
 }

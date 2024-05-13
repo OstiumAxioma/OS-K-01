@@ -3,9 +3,11 @@ date: 2024-05-06
 tags:
   - 游戏开发
   - 游戏开发/引擎
-toolSet: "[[现代C++基础]]"
+toolSet:
+  - "[[现代C++基础]]"
 knowledgeLink:
   - "[[Vector向量]]"
+status: true
 ---
 # Vector in Unity
 In any 3D game engine, vector is an important concept, as it helps manipulating the transformation and movement of GameObjects. In unity, such operation is done through the use of `Vector3` class.

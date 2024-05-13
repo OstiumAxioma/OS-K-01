@@ -11,7 +11,7 @@ timeComplexity:
   - O(n)
 spaceComplexity:
   - O(n)
-status:
+status: true
 ---
 ## 数据结构简介
 二叉树（binary tree）是一种非线性数据结构，代表“祖先”与“后代”之间的派生关系，体现了“一分为二”的分治逻辑。与链表类似，二叉树的基本单元是节点，每个节点包含值、左子节点引用和右子节点引用。

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "47f32b4f1aa6dce5",
+        "id": "0c57f056501ff272",
         "type": "tabs",
         "children": [
           {
-            "id": "c5e350ece9803aec",
+            "id": "77458a39f46a476a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "c933e7007df7fc7a",
+            "id": "e4d0e076e7907ff3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md",
+                "file": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Class and Object 面向对象基本元素-类与对象.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md"
+                "file": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Class and Object 面向对象基本元素-类与对象.md"
               }
             }
           }
@@ -140,11 +140,20 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md"
+                "file": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Class and Object 面向对象基本元素-类与对象.md"
               }
             }
+          },
+          {
+            "id": "51a2cdec1bcd8099",
+            "type": "leaf",
+            "state": {
+              "type": "Sets-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "409e42db9b8cdc35",
@@ -181,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md",
+                "file": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Class and Object 面向对象基本元素-类与对象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md",
+                "file": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Class and Object 面向对象基本元素-类与对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,32 +251,46 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "c933e7007df7fc7a",
+  "active": "e4d0e076e7907ff3",
   "lastOpenFiles": [
-    "02-Game_Developing/CS5540_GameProgramming/Level 2.2 Linear Interpolation and Lerp 线性插值与Lerp.md",
-    "01-Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md",
-    "Home.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240511203315.png",
-    "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 1.2 Csharp and Unity Graphic.md",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240511141306.png",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240511141853.png",
-    "02-Game_Developing/CS5540_GameProgramming/Level 0 Course Requirements.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level Template.md",
-    "02-Game_Developing/CS5540_GameProgramming/未命名.md",
-    "03-Modeling/CG5350_ComputationalGeometry",
-    "06-Mathematics/MATH401_3D_Geometry/3DGeometry_Map.md",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Inheritance 继承.md",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Interface 接口.md",
+    "03-Modeling/CG5350_ComputationalGeometry/103-Convex Hull 凸包.md",
+    "03-Modeling/CG5350_ComputationalGeometry/attachment/Pasted image 20240512223727.png",
+    "03-Modeling/CG5350_ComputationalGeometry/102-Computational Geometry in a Physics Engine.md",
+    "03-Modeling/CG5350_ComputationalGeometry/attachment/Pasted image 20240512214329.png",
+    "03-Modeling/CG5350_ComputationalGeometry/attachment/Pasted image 20240512214220.png",
+    "03-Modeling/CG5350_ComputationalGeometry/attachment/Pasted image 20240512214151.png",
+    "03-Modeling/CG5350_ComputationalGeometry/attachment/Pasted image 20240512182621.png",
+    "03-Modeling/CG5350_ComputationalGeometry/attachment/Pasted image 20240512204430.png",
+    "03-Modeling/CG5350_ComputationalGeometry/attachment/Pasted image 20240512203455.png",
+    "03-Modeling/CG5350_ComputationalGeometry/attachment/Pasted image 20240512202418.png",
+    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Graph 图.md",
+    "01-Computer_Science/CS08_DataStructure/02_DataTypes/attachment/Pasted image 20240512181916.png",
+    "01-Computer_Science/CS08_DataStructure/02_DataTypes/attachment/Pasted image 20240512181150.png",
+    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md",
+    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Abstract data type ADT 抽象类型.md",
+    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Array 数组.md",
+    "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Memory 内存.md",
+    "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Computer Composition 计算机组成.md",
+    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Heap 堆结构.md",
+    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Composite Data Type CDT 复合类型.md",
+    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md",
+    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Queue 队列.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 1.1 Introduction to Game.md",
-    "06-Mathematics/MATH401_3D_Geometry/Vector向量.md",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240511104846.png",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240511104833.png",
-    "06-Mathematics/MATH401_3D_Geometry/attachment/Pasted Image 20240511104206_628.png",
-    "06-Mathematics/MATH401_3D_Geometry/attachment/Pasted Image 20240511104206_600.png",
-    "06-Mathematics/MATH401_3D_Geometry/attachment/Pasted image 20240511093545.png",
-    "Excalidraw/Scripts/Downloaded/Reverse arrows.svg",
-    "Excalidraw/Scripts/Downloaded/Reverse arrows.md",
-    "06-Mathematics/MATH401_3D_Geometry/attachment/Pasted Image 20240511084341_922.png",
+    "03-Modeling/CG5350_ComputationalGeometry/101-Introduction to Computational Geometry.md",
+    "Home.md",
+    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md",
+    "01-Computer_Science/CS80_Algorithm/04_AlgorithmCase/Change-making problem 零钱兑换.md",
+    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Search Tree 二叉搜索树.md",
+    "02-Game_Developing/CS5540_GameProgramming/Level 0 Course Requirements.md",
+    "02-Game_Developing/CS5540_GameProgramming/Level 1.2 Csharp and Unity Graphic.md",
+    "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md",
+    "02-Game_Developing/CS5540_GameProgramming/Level 2.2 Linear Interpolation and Lerp 线性插值与Lerp.md",
+    "02-Game_Developing/CS5540_GameProgramming/Level Template.md",
+    "04-Computer_Graphic/CG102_Pipline_OpenGL/OpenGL渲染管线.md",
+    "03-Modeling/CG5350_ComputationalGeometry/attachment",
+    "03-Modeling/CG5350_ComputationalGeometry",
     "02-Game_Developing/CS5540_GameProgramming/attachment/GP_Level02_Day02_MathforGames.pdf",
     "06-Mathematics/MATH401_3D_Geometry/attachment",
     "06-Mathematics/MATH103_Calculus",
@@ -276,20 +299,6 @@
     "06-Mathematics/MATH401_3D_Geometry",
     "06-Mathematics",
     "02-Game_Developing/CS5540_GameProgramming/attachment/GP_Level01_Day02_BasicScripting.pdf",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/GP_Level01_Day01_Introduction.pdf",
-    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Asymptotic Notations 渐进符号.md",
-    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md",
-    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md",
-    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md",
-    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Space Complexity 空间复杂度.md",
-    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Space–Time Trade Off 时空权衡.md",
-    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md",
-    "VaultBrain.md",
-    "02-Game_Developing/GAME102_Cpp_UE_Development/Cpp实现贪吃蛇.md",
-    "Excalidraw/Scripts/Downloaded/Elbow connectors.md",
-    "Excalidraw/Scripts/Downloaded/Connect elements.md",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
-    "99-Template/Tool Learning模板.md",
     "未命名.canvas"
   ]
 }

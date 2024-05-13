@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiRoundcube",
       "SiGraphql",
       "OcArrowUpRight16",
       "SiUnrealengine",
-      "SiUnity",
-      "SiOpengl"
+      "SiUnity"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -56,5 +56,5 @@
   "02-Game_Developing/GAME102_Cpp_UE_Development": "SiUnrealengine",
   "10-DataBase": "OcDatabase16",
   "06-Mathematics/MATH401_3D_Geometry/Vector向量.md": "OcArrowUpRight16",
-  "06-Mathematics/MATH401_3D_Geometry/3DGeometry_Map.md": "SiGraphql"
+  "06-Mathematics/MATH401_3D_Geometry/3DGeometry_Map.md": "SiRoundcube"
 }

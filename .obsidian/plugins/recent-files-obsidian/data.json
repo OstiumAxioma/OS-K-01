@@ -1,6 +1,98 @@
 {
   "recentFiles": [
     {
+      "basename": "Class and Object 面向对象基本元素-类与对象",
+      "path": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Class and Object 面向对象基本元素-类与对象.md"
+    },
+    {
+      "basename": "Inheritance 继承",
+      "path": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Inheritance 继承.md"
+    },
+    {
+      "basename": "Interface 接口",
+      "path": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Interface 接口.md"
+    },
+    {
+      "basename": "103-Convex Hull 凸包",
+      "path": "03-Modeling/CG5350_ComputationalGeometry/103-Convex Hull 凸包.md"
+    },
+    {
+      "basename": "102-Computational Geometry in a Physics Engine",
+      "path": "03-Modeling/CG5350_ComputationalGeometry/102-Computational Geometry in a Physics Engine.md"
+    },
+    {
+      "basename": "Graph 图",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Graph 图.md"
+    },
+    {
+      "basename": "Binary Tree 二叉树",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
+    },
+    {
+      "basename": "Abstract data type ADT 抽象类型",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Abstract data type ADT 抽象类型.md"
+    },
+    {
+      "basename": "Array 数组",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Array 数组.md"
+    },
+    {
+      "basename": "Memory 内存",
+      "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Memory 内存.md"
+    },
+    {
+      "basename": "Computer Composition 计算机组成",
+      "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Computer Composition 计算机组成.md"
+    },
+    {
+      "basename": "Binary Heap 堆结构",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Heap 堆结构.md"
+    },
+    {
+      "basename": "Composite Data Type CDT 复合类型",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Composite Data Type CDT 复合类型.md"
+    },
+    {
+      "basename": "Link List 链表",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md"
+    },
+    {
+      "basename": "Queue 队列",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Queue 队列.md"
+    },
+    {
+      "basename": "Level 1.1 Introduction to Game",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.1 Introduction to Game.md"
+    },
+    {
+      "basename": "101-Introduction to Computational Geometry",
+      "path": "03-Modeling/CG5350_ComputationalGeometry/101-Introduction to Computational Geometry.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Algorithm Basic 算法基础",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md"
+    },
+    {
+      "basename": "Change-making problem 零钱兑换",
+      "path": "01-Computer_Science/CS80_Algorithm/04_AlgorithmCase/Change-making problem 零钱兑换.md"
+    },
+    {
+      "basename": "Binary Search Tree 二叉搜索树",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Search Tree 二叉搜索树.md"
+    },
+    {
+      "basename": "Level 0 Course Requirements",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 0 Course Requirements.md"
+    },
+    {
+      "basename": "Level 1.2 Csharp and Unity Graphic",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.2 Csharp and Unity Graphic.md"
+    },
+    {
       "basename": "Level 2.1 Math and Vector in Unity",
       "path": "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md"
     },
@@ -9,40 +101,52 @@
       "path": "02-Game_Developing/CS5540_GameProgramming/Level 2.2 Linear Interpolation and Lerp 线性插值与Lerp.md"
     },
     {
-      "basename": "11. 盛最多水的容器",
-      "path": "01-Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "CS5540_System.excalidraw",
-      "path": "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md"
-    },
-    {
-      "basename": "Level 1.2 Csharp and Unity Graphic",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.2 Csharp and Unity Graphic.md"
-    },
-    {
-      "basename": "Level 0 Course Requirements",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 0 Course Requirements.md"
-    },
-    {
       "basename": "Level Template",
       "path": "02-Game_Developing/CS5540_GameProgramming/Level Template.md"
+    },
+    {
+      "basename": "OpenGL渲染管线",
+      "path": "04-Computer_Graphic/CG102_Pipline_OpenGL/OpenGL渲染管线.md"
     },
     {
       "basename": "3DGeometry_Map",
       "path": "06-Mathematics/MATH401_3D_Geometry/3DGeometry_Map.md"
     },
     {
-      "basename": "Level 1.1 Introduction to Game",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.1 Introduction to Game.md"
-    },
-    {
       "basename": "Vector向量",
       "path": "06-Mathematics/MATH401_3D_Geometry/Vector向量.md"
+    },
+    {
+      "basename": "Algorithm模板",
+      "path": "99-Template/Algorithm模板.md"
+    },
+    {
+      "basename": "Data Structure模板",
+      "path": "99-Template/Data Structure模板.md"
+    },
+    {
+      "basename": "Leetcode模板",
+      "path": "99-Template/Leetcode模板.md"
+    },
+    {
+      "basename": "OOD 模板",
+      "path": "99-Template/OOD 模板.md"
+    },
+    {
+      "basename": "Strategy模板",
+      "path": "99-Template/Strategy模板.md"
+    },
+    {
+      "basename": "Tool Learning模板",
+      "path": "99-Template/Tool Learning模板.md"
+    },
+    {
+      "basename": "11. 盛最多水的容器",
+      "path": "01-Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
+    },
+    {
+      "basename": "CS5540_System.excalidraw",
+      "path": "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md"
     },
     {
       "basename": "GP_Level02_Day02_MathforGames",
@@ -51,10 +155,6 @@
     {
       "basename": "Asymptotic Notations 渐进符号",
       "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Asymptotic Notations 渐进符号.md"
-    },
-    {
-      "basename": "Algorithm Basic 算法基础",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md"
     },
     {
       "basename": "Time Complexity 时间复杂度",
@@ -71,10 +171,6 @@
     {
       "basename": "Space–Time Trade Off 时空权衡",
       "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Space–Time Trade Off 时空权衡.md"
-    },
-    {
-      "basename": "Binary Tree 二叉树",
-      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
     },
     {
       "basename": "VaultBrain",
@@ -103,102 +199,6 @@
     {
       "basename": "23. 合并 K 个升序链表",
       "path": "01-Computer_Science/CS01_LeetCode/23. 合并 K 个升序链表.md"
-    },
-    {
-      "basename": "147. 对链表进行插入排序",
-      "path": "01-Computer_Science/CS01_LeetCode/147. 对链表进行插入排序.md"
-    },
-    {
-      "basename": "Insertion Sort 插入排序",
-      "path": "01-Computer_Science/CS80_Algorithm/03_Sorting/Insertion Sort 插入排序.md"
-    },
-    {
-      "basename": "Link List 链表",
-      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md"
-    },
-    {
-      "basename": "Queue 队列",
-      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Queue 队列.md"
-    },
-    {
-      "basename": "Binary Search Tree 二叉搜索树",
-      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Search Tree 二叉搜索树.md"
-    },
-    {
-      "basename": "Breadth-First 广度优先",
-      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/Breadth-First 广度优先.md"
-    },
-    {
-      "basename": "Divide and Conquer 分治",
-      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/Divide and Conquer 分治.md"
-    },
-    {
-      "basename": "Dynamic Programming 动态规划",
-      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/Dynamic Programming 动态规划.md"
-    },
-    {
-      "basename": "Greedy Algorithm 贪心算法",
-      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/Greedy Algorithm 贪心算法.md"
-    },
-    {
-      "basename": "Leetcode模板",
-      "path": "99-Template/Leetcode模板.md"
-    },
-    {
-      "basename": "Strategy模板",
-      "path": "99-Template/Strategy模板.md"
-    },
-    {
-      "basename": "Array 数组",
-      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Array 数组.md"
-    },
-    {
-      "basename": "Data Structure模板",
-      "path": "99-Template/Data Structure模板.md"
-    },
-    {
-      "basename": "Memory 内存",
-      "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Memory 内存.md"
-    },
-    {
-      "basename": "Algorithm模板",
-      "path": "99-Template/Algorithm模板.md"
-    },
-    {
-      "basename": "Binary Heap 堆结构",
-      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Heap 堆结构.md"
-    },
-    {
-      "basename": "C 数组",
-      "path": "01-Computer_Science/CS00_Language/C语言/C 数组.md"
-    },
-    {
-      "basename": "Computer Composition 计算机组成",
-      "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Computer Composition 计算机组成.md"
-    },
-    {
-      "basename": "Abstract data type ADT 抽象类型",
-      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Abstract data type ADT 抽象类型.md"
-    },
-    {
-      "basename": "Composite Data Type CDT 复合类型",
-      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Composite Data Type CDT 复合类型.md"
-    },
-    {
-      "basename": "Change-making problem 零钱兑换",
-      "path": "01-Computer_Science/CS80_Algorithm/04_AlgorithmCase/Change-making problem 零钱兑换.md"
-    },
-    {
-      "basename": "Pasted image 20240419201036",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/attachment/Pasted image 20240419201036.png"
-    },
-    {
-      "basename": "C 指针",
-      "path": "01-Computer_Science/CS00_Language/C语言/C 指针.md"
-    },
-    {
-      "basename": "Pasted image 20240419183518",
-      "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/attachment/Pasted image 20240419183518.png"
     }
   ],
   "omittedPaths": [],
