@@ -40,23 +40,19 @@ In geometry, the convex hull, convex envelope or convex closure of a shape is th
 
 在实现算法中，以顺时针方向，寻找与y轴正方向顺时针夹角最小的点来编写的，这要求了**起始点**必须是整个图最**左下角**的点，即`x`最小，`x`相同下`y`最小的点（或`y`最小，`y` 相同下`x`最小的点）。这保证了所选取的初始点一定在最终的凸包上。随后，将这一点加入凸包集合，注意为了最后能再找到这一点，仅这一点不进行标记。遍历图中尚未被标记的所有点并计算 起始点与这一点连线与`y`轴顺时针夹角，取夹角最小点加入凸包并标记，将新加入的这一点选为起始点，继续上述操作**直至最终找到最初的起始点，凸包完成**。
 
-```c
-algorithm jarvis(S) is
-    // S is the set of points
-    // P will be the set of points which form the convex hull. Final set size is i.
-    pointOnHull = leftmost point in S // which is guaranteed to be part of the CH(S)
-    i := 0
-    repeat
-        P[i] := pointOnHull
-        endpoint := S[0]      // initial endpoint for a candidate edge on the hull
-        for j from 0 to |S| do
-            // endpoint == pointOnHull is a rare case and can happen only when j == 1 and a better endpoint has not yet been set for the loop
-            if (endpoint == pointOnHull) or (S[j] is on left of line from P[i] to endpoint) then
-                endpoint := S[j]   // found greater left turn, update endpoint
-        i := i + 1
-        pointOnHull = endpoint
-    until endpoint = P[0]      // wrapped around to first hull point
+```pseudo
+\begin{algorithm}
+    \caption{Example Pseudocode}
+    \begin{algorithmic}
+	    \Ensure A list S of bidimensional points
+	    \Require The convex hull of the set, sorted counterclockwise
+        \STATE $hull=[]$
+        \STATE $x_0 = \text{the leftmost point}$
+        \STATE $hull.push(x_0)$
+    \end{algorithmic}
+\end{algorithm}
 ```
+
 
 当求得两夹角相等时，应该判断两点对初始点距离，取距离远者加入，其次最终返回类型为`set`，最后将最初的起始点加入操作相当于没有对集合进行任何操作，因为集合中已经有了这一元素。
 ## Andrew 算法

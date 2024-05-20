@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaLevelFour",
+      "TiArrowIteration",
+      "SiGraphql",
       "FabPython",
-      "FabJava",
-      "SiD",
-      "SiCsharp",
-      "SiCodio"
+      "FabJava"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,5 +62,8 @@
   "01-Computer_Science/CS00_Language/Dlang": "SiD",
   "01-Computer_Science/CS00_Language/Java": "FabJava",
   "01-Computer_Science/CS00_Language/Python": "FabPython",
-  "04-Computer_Graphic/CG102_Pipline/OpenGL渲染管线.md": "SiOpengl"
+  "04-Computer_Graphic/CG102_Pipline/OpenGL渲染管线.md": "SiOpengl",
+  "04-Computer_Graphic/CG102_Pipline/SDL(Simple DirectMedia Layer)管线.md": "SiGraphql",
+  "06-Mathematics/MATH401_3D_Geometry/Descriptive Rotation 描述旋转.md": "TiArrowIteration",
+  "06-Mathematics/MATH201_LinearAlgebra/Quaternion 四元数.md": "RaLevelFour"
 }

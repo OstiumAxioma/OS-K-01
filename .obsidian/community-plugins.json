@@ -33,7 +33,8 @@
   "obsidian-banners",
   "minitabs",
   "homepage",
-  "excalibrain",
   "multi-column-markdown",
-  "quick-latex"
+  "obsidian-tikzjax",
+  "pseudocode-in-obs",
+  "latex-algorithms"
 ]

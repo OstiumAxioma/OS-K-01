@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "Descriptive Rotation 描述旋转",
+      "path": "06-Mathematics/MATH401_3D_Geometry/Descriptive Rotation 描述旋转.md"
+    },
+    {
+      "basename": "Quaternion 四元数",
+      "path": "06-Mathematics/MATH201_LinearAlgebra/Quaternion 四元数.md"
+    },
+    {
+      "basename": "Vector向量",
+      "path": "06-Mathematics/MATH401_3D_Geometry/Vector向量.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "CS5540_System.excalidraw",
+      "path": "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md"
+    },
+    {
+      "basename": "Level 3.3 UI and Event System",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 3.3 UI and Event System.md"
+    },
+    {
+      "basename": "Level 3.1 Unity Render Pipeline",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 3.1 Unity Render Pipeline.md"
+    },
+    {
+      "basename": "Level 3.2 Unity Physics System",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 3.2 Unity Physics System.md"
+    },
+    {
+      "basename": "Introduction to Dlang",
+      "path": "01-Computer_Science/CS00_Language/Dlang/Introduction to Dlang.md"
+    },
+    {
+      "basename": "Csharp 修饰符",
+      "path": "01-Computer_Science/CS00_Language/Csharp/Csharp 修饰符.md"
+    },
+    {
+      "basename": "Level 1.2 Csharp and Unity Graphic",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.2 Csharp and Unity Graphic.md"
+    },
+    {
+      "basename": "Level 0 Course Requirements",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 0 Course Requirements.md"
+    },
+    {
+      "basename": "Level 1.1 Introduction to Game",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.1 Introduction to Game.md"
+    },
+    {
+      "basename": "Level 2.1 Math and Vector in Unity",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md"
+    },
+    {
+      "basename": "Level 2.2 Linear Interpolation and Lerp 线性插值与Lerp",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 2.2 Linear Interpolation and Lerp 线性插值与Lerp.md"
+    },
+    {
+      "basename": "103-Convex Hull 凸包",
+      "path": "03-Modeling/CG5350_ComputationalGeometry/103-Convex Hull 凸包.md"
+    },
+    {
+      "basename": "Time Complexity 时间复杂度",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md"
+    },
+    {
+      "basename": "Algorithm Basic 算法基础",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md"
+    },
+    {
+      "basename": "Asymptotic Notations 渐进符号",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Asymptotic Notations 渐进符号.md"
+    },
+    {
+      "basename": "Iteration and Recursion 迭代与递归",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md"
+    },
+    {
       "basename": "SDL(Simple DirectMedia Layer)管线",
       "path": "04-Computer_Graphic/CG102_Pipline/SDL(Simple DirectMedia Layer)管线.md"
     },
@@ -9,24 +89,8 @@
       "path": "04-Computer_Graphic/CG102_Pipline/OpenGL渲染管线.md"
     },
     {
-      "basename": "Introduction to Dlang",
-      "path": "01-Computer_Science/CS00_Language/Dlang/Introduction to Dlang.md"
-    },
-    {
-      "basename": "VaultBrain",
-      "path": "VaultBrain.md"
-    },
-    {
-      "basename": "Csharp 入门",
-      "path": "01-Computer_Science/CS00_Language/Csharp/Csharp 入门.md"
-    },
-    {
       "basename": "102-Computational Geometry in a Physics Engine",
       "path": "03-Modeling/CG5350_ComputationalGeometry/102-Computational Geometry in a Physics Engine.md"
-    },
-    {
-      "basename": "103-Convex Hull 凸包",
-      "path": "03-Modeling/CG5350_ComputationalGeometry/103-Convex Hull 凸包.md"
     },
     {
       "basename": "Polar Angle Sorting极角排序",
@@ -47,10 +111,6 @@
     {
       "basename": "Greedy Algorithm 贪心算法",
       "path": "01-Computer_Science/CS80_Algorithm/02_Strategy/Greedy Algorithm 贪心算法.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Queue 队列",
@@ -113,32 +173,8 @@
       "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md"
     },
     {
-      "basename": "Level 1.1 Introduction to Game",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.1 Introduction to Game.md"
-    },
-    {
-      "basename": "Algorithm Basic 算法基础",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md"
-    },
-    {
       "basename": "Binary Search Tree 二叉搜索树",
       "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Search Tree 二叉搜索树.md"
-    },
-    {
-      "basename": "Level 0 Course Requirements",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 0 Course Requirements.md"
-    },
-    {
-      "basename": "Level 1.2 Csharp and Unity Graphic",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 1.2 Csharp and Unity Graphic.md"
-    },
-    {
-      "basename": "Level 2.1 Math and Vector in Unity",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md"
-    },
-    {
-      "basename": "Level 2.2 Linear Interpolation and Lerp 线性插值与Lerp",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 2.2 Linear Interpolation and Lerp 线性插值与Lerp.md"
     },
     {
       "basename": "Level Template",
@@ -147,10 +183,6 @@
     {
       "basename": "3DGeometry_Map",
       "path": "06-Mathematics/MATH401_3D_Geometry/3DGeometry_Map.md"
-    },
-    {
-      "basename": "Vector向量",
-      "path": "06-Mathematics/MATH401_3D_Geometry/Vector向量.md"
     },
     {
       "basename": "Algorithm模板",
@@ -167,38 +199,6 @@
     {
       "basename": "OOD 模板",
       "path": "99-Template/OOD 模板.md"
-    },
-    {
-      "basename": "Strategy模板",
-      "path": "99-Template/Strategy模板.md"
-    },
-    {
-      "basename": "Tool Learning模板",
-      "path": "99-Template/Tool Learning模板.md"
-    },
-    {
-      "basename": "11. 盛最多水的容器",
-      "path": "01-Computer_Science/CS01_LeetCode/11. 盛最多水的容器.md"
-    },
-    {
-      "basename": "CS5540_System.excalidraw",
-      "path": "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md"
-    },
-    {
-      "basename": "GP_Level02_Day02_MathforGames",
-      "path": "02-Game_Developing/CS5540_GameProgramming/attachment/GP_Level02_Day02_MathforGames.pdf"
-    },
-    {
-      "basename": "Asymptotic Notations 渐进符号",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Asymptotic Notations 渐进符号.md"
-    },
-    {
-      "basename": "Time Complexity 时间复杂度",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md"
-    },
-    {
-      "basename": "Iteration and Recursion 迭代与递归",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md"
     }
   ],
   "omittedPaths": [],

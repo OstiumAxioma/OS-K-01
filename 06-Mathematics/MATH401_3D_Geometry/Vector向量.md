@@ -192,7 +192,7 @@ Similar to dot product, we can also use cross product to determine angles, by us
 #### Righthand Rule
 The direction of resulting vector can be determined using right hand rule. This is so call the<font color="#c0504d"> Handedness</font> property of cross product.
 ![[Pasted image 20240511093545.png|center|200]]
-## Vector Normalization
+## Vector Normalization 归一化
 
 - Magnitude (length) of a vector written as $\left \| \overrightarrow{a} \right \|$
 - Unit vector

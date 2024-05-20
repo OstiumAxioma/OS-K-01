@@ -70,7 +70,7 @@
       "tabTitle": "",
       "maxWidthRatio": -1,
       "createAt": "2024-05-04T02:08:49.830Z",
-      "updateAt": "2024-05-04T02:21:44.822Z",
+      "updateAt": "2024-05-13T10:42:09.411Z",
       "backgroundStyle": "none",
       "contentType": "page",
       "coverType": "pageFirstImage",
@@ -87,6 +87,12 @@
             "operator": "not_contains",
             "property": "${file.path}",
             "id": "2b792249-1c41-4eea-9b21-e52ec611bb35"
+          },
+          {
+            "value": "Home",
+            "operator": "not_equals",
+            "property": "${file.basename}",
+            "id": "18637a81-b661-42b5-88bc-014af753f569"
           }
         ]
       },
