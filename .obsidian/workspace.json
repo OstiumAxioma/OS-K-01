@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8710b50bec556296",
+        "id": "a9f62b52102b0ff7",
         "type": "tabs",
         "children": [
           {
-            "id": "8a305c1c4ff906d0",
+            "id": "f480009ec05f14e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Mathematics/MATH401_3D_Geometry/Descriptive Rotation 描述旋转.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b448fae190bc781",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-Mathematics/MATH201_LinearAlgebra/Quaternion 四元数.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-Mathematics/MATH401_3D_Geometry/Descriptive Rotation 描述旋转.md"
+                "file": "Home.md"
               }
             }
           }
@@ -139,7 +126,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "06-Mathematics/MATH401_3D_Geometry/Descriptive Rotation 描述旋转.md"
+                "file": "Home.md"
               }
             }
           },
@@ -189,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-Mathematics/MATH401_3D_Geometry/Descriptive Rotation 描述旋转.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06-Mathematics/MATH401_3D_Geometry/Descriptive Rotation 描述旋转.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,28 +237,35 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "8a305c1c4ff906d0",
+  "active": "f480009ec05f14e6",
   "lastOpenFiles": [
-    "06-Mathematics/MATH201_LinearAlgebra/Quaternion 四元数.md",
+    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md",
+    "Home.md",
+    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md",
+    "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md",
+    "02-Game_Developing/CS5540_GameProgramming/Level 6.1 FPS Game Development 1 - Projectile and Health System.md",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Factory Mode 工厂模式.md",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Design Pattern 设计模式.md",
+    "02-Game_Developing/CS5540_GameProgramming/Level 5.1 Describe Rotation.md",
+    "02-Game_Developing/CS5540_GameProgramming/Level 5.2 FPS Game Development 1 - Controller.md",
+    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240521035409.png",
+    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240520234917.png",
+    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240520210313.png",
     "06-Mathematics/MATH401_3D_Geometry/Descriptive Rotation 描述旋转.md",
+    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240520181059.png",
+    "02-Game_Developing/CS5540_GameProgramming/Level 4.1 UI and Event System.md",
+    "06-Mathematics/MATH201_LinearAlgebra/Quaternion 四元数.md",
     "06-Mathematics/MATH401_3D_Geometry/attachment/Pasted image 20240520011857.png",
     "06-Mathematics/MATH401_3D_Geometry/Vector向量.md",
     "06-Mathematics/MATH201_LinearAlgebra/attachment/Pasted image 20240519231723.png",
     "06-Mathematics/MATH201_LinearAlgebra/attachment",
-    "Home.md",
-    "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 3.3 UI and Event System.md",
     "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240517204145.png",
     "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240517204024.png",
     "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240517194510.png",
     "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240517194440.png",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240517191412.png",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240517191145.png",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240517191103.png",
     "02-Game_Developing/CS5540_GameProgramming/Level 3.1 Unity Render Pipeline.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 3.2 Unity Physics System.md",
     "02-Game_Developing/CS5540_GameProgramming/未命名.md",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240517184419.png",
     "01-Computer_Science/CS00_Language/Dlang/Introduction to Dlang.md",
     "01-Computer_Science/CS00_Language/Csharp/Csharp 修饰符.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 1.2 Csharp and Unity Graphic.md",
@@ -280,16 +274,10 @@
     "02-Game_Developing/CS5540_GameProgramming/Level 1.1 Introduction to Game.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 2.2 Linear Interpolation and Lerp 线性插值与Lerp.md",
-    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md",
-    "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md",
     "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Asymptotic Notations 渐进符号.md",
     "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md",
-    "04-Computer_Graphic/CG102_Pipline/SDL(Simple DirectMedia Layer)管线.md",
     "04-Computer_Graphic/CG102_Pipline/attachment",
-    "04-Computer_Graphic/CG102_Pipline/OpenGL渲染管线.md",
-    "VaultBrain.md",
     "01-Computer_Science/CS00_Language/Dlang",
-    "03-Modeling/CG5350_ComputationalGeometry/102-Computational Geometry in a Physics Engine.md",
     "01-Computer_Science/CS80_Algorithm/03_Sorting/attachment",
     "03-Modeling/CG5350_ComputationalGeometry/attachment",
     "03-Modeling/CG5350_ComputationalGeometry",

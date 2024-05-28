@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Asymptotic Notations 渐进符号",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Asymptotic Notations 渐进符号.md"
+    },
+    {
+      "basename": "Time Complexity 时间复杂度",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md"
+    },
+    {
+      "basename": "Algorithm Basic 算法基础",
+      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md"
+    },
+    {
+      "basename": "Level 6.1 FPS Game Development 1 - Projectile and Health System",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 6.1 FPS Game Development 1 - Projectile and Health System.md"
+    },
+    {
+      "basename": "CS5540_System.excalidraw",
+      "path": "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md"
+    },
+    {
+      "basename": "Factory Mode 工厂模式",
+      "path": "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Factory Mode 工厂模式.md"
+    },
+    {
+      "basename": "Design Pattern 设计模式",
+      "path": "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Design Pattern 设计模式.md"
+    },
+    {
+      "basename": "Level 5.1 Describe Rotation",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 5.1 Describe Rotation.md"
+    },
+    {
+      "basename": "Level 5.2 FPS Game Development 1 - Controller",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 5.2 FPS Game Development 1 - Controller.md"
+    },
+    {
       "basename": "Descriptive Rotation 描述旋转",
       "path": "06-Mathematics/MATH401_3D_Geometry/Descriptive Rotation 描述旋转.md"
+    },
+    {
+      "basename": "Level 4.1 UI and Event System",
+      "path": "02-Game_Developing/CS5540_GameProgramming/Level 4.1 UI and Event System.md"
     },
     {
       "basename": "Quaternion 四元数",
@@ -11,18 +55,6 @@
     {
       "basename": "Vector向量",
       "path": "06-Mathematics/MATH401_3D_Geometry/Vector向量.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "CS5540_System.excalidraw",
-      "path": "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md"
-    },
-    {
-      "basename": "Level 3.3 UI and Event System",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level 3.3 UI and Event System.md"
     },
     {
       "basename": "Level 3.1 Unity Render Pipeline",
@@ -63,18 +95,6 @@
     {
       "basename": "103-Convex Hull 凸包",
       "path": "03-Modeling/CG5350_ComputationalGeometry/103-Convex Hull 凸包.md"
-    },
-    {
-      "basename": "Time Complexity 时间复杂度",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md"
-    },
-    {
-      "basename": "Algorithm Basic 算法基础",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md"
-    },
-    {
-      "basename": "Asymptotic Notations 渐进符号",
-      "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Asymptotic Notations 渐进符号.md"
     },
     {
       "basename": "Iteration and Recursion 迭代与递归",
@@ -179,26 +199,6 @@
     {
       "basename": "Level Template",
       "path": "02-Game_Developing/CS5540_GameProgramming/Level Template.md"
-    },
-    {
-      "basename": "3DGeometry_Map",
-      "path": "06-Mathematics/MATH401_3D_Geometry/3DGeometry_Map.md"
-    },
-    {
-      "basename": "Algorithm模板",
-      "path": "99-Template/Algorithm模板.md"
-    },
-    {
-      "basename": "Data Structure模板",
-      "path": "99-Template/Data Structure模板.md"
-    },
-    {
-      "basename": "Leetcode模板",
-      "path": "99-Template/Leetcode模板.md"
-    },
-    {
-      "basename": "OOD 模板",
-      "path": "99-Template/OOD 模板.md"
     }
   ],
   "omittedPaths": [],

@@ -24,7 +24,7 @@ status: true
 
 > [!Definition] 𝑂-Notation (Big-O)
 > - We say (define):
-> 	- A function 𝑓 𝑛 is in big-Oh of 𝑔(𝑛) (denoted 𝑂(𝑔 (𝑛)) **iff** (if and only if) there exist positive constants 𝑐 and 𝑛! such that 0 ≤ 𝑓 𝑛 ≤ 𝑐𝑔(𝑛) for all 𝑛 that’s greater than or equal to 𝑛! .
+> 	- A function 𝑓 𝑛 is in big-Oh of 𝑔(𝑛) (denoted 𝑂(𝑔 (𝑛)) **iff** (if and only if) there exist positive constants 𝑐 and $n_0$  such that 0 ≤ 𝑓 𝑛 ≤ 𝑐𝑔($n_0$ ) for all 𝑛 that’s greater than or equal to $n_0$ .
 
  - In other words,
 	- 𝑂 (𝑔 (𝑛)) is a set of all functions (call any such function 𝑥 (𝑛) , to avoid confusion with 𝑓(𝑛) ) where there exist positive constants 𝑐 and $𝑛_0$ such that 0 ≤ 𝑥 (𝑛) ≤ 𝑐𝑔(𝑛) for all 𝑛 that’s greater than or equal to $𝑛_0$ .
