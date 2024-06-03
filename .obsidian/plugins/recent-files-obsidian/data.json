@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "4.1 Finite State Machin and Game AI",
+      "path": "02-Game_Developing/CS5540_GameProgramming/4.1 Finite State Machin and Game AI.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "Polygon Triangulation三角化",
+      "path": "06-Mathematics/MATH401_3D_Geometry/Polygon Triangulation三角化.md"
+    },
+    {
+      "basename": "Vector向量",
+      "path": "06-Mathematics/MATH401_3D_Geometry/Vector向量.md"
     },
     {
       "basename": "Asymptotic Notations 渐进符号",
@@ -51,10 +63,6 @@
     {
       "basename": "Quaternion 四元数",
       "path": "06-Mathematics/MATH201_LinearAlgebra/Quaternion 四元数.md"
-    },
-    {
-      "basename": "Vector向量",
-      "path": "06-Mathematics/MATH401_3D_Geometry/Vector向量.md"
     },
     {
       "basename": "Level 3.1 Unity Render Pipeline",
@@ -191,14 +199,6 @@
     {
       "basename": "Link List 链表",
       "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md"
-    },
-    {
-      "basename": "Binary Search Tree 二叉搜索树",
-      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Search Tree 二叉搜索树.md"
-    },
-    {
-      "basename": "Level Template",
-      "path": "02-Game_Developing/CS5540_GameProgramming/Level Template.md"
     }
   ],
   "omittedPaths": [],
