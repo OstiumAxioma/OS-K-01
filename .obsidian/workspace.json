@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dcf39828618d9e5c",
+        "id": "01a55a5379dfeb6c",
         "type": "tabs",
         "children": [
           {
-            "id": "f18eb341a72a73f0",
+            "id": "c490853010298a4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/4.1 Finite State Machin and Game AI.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/4.1 Finite State Machin and Game AI.md"
+                "file": "Home.md"
               }
             }
           }
@@ -106,7 +106,7 @@
       {
         "id": "ff91887cd55e33b2",
         "type": "tabs",
-        "dimension": 32.55813953488372,
+        "dimension": 54.748062015503876,
         "children": [
           {
             "id": "3022d8617f88a7f4",
@@ -126,7 +126,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/4.1 Finite State Machin and Game AI.md"
+                "file": "Home.md"
               }
             }
           },
@@ -137,38 +137,22 @@
               "type": "Sets-view",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "409e42db9b8cdc35",
-        "type": "tabs",
-        "dimension": 29.26356589147287,
-        "children": [
-          {
-            "id": "5e9f3c9fcc5161b3",
-            "type": "leaf",
-            "state": {
-              "type": "keyboard-shortcuts-visualization",
-              "state": {}
-            }
           },
           {
-            "id": "5e027f33da264d7e",
+            "id": "0834ed381dd01a56",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "timeline",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "698b462fcb67854c",
         "type": "tabs",
-        "dimension": 38.17829457364341,
+        "dimension": 45.251937984496124,
         "children": [
           {
             "id": "953272869da72e21",
@@ -176,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/4.1 Finite State Machin and Game AI.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/4.1 Finite State Machin and Game AI.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,14 +218,17 @@
       "zk-prefixer:创建时间戳笔记": false,
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f18eb341a72a73f0",
+  "active": "0834ed381dd01a56",
   "lastOpenFiles": [
+    "2024-06-03.md",
+    "Home.md",
+    "2024-06-04.md",
     "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240603072709.png",
     "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240603072216.png",
-    "Home.md",
     "02-Game_Developing/CS5540_GameProgramming/4.1 Finite State Machin and Game AI.md",
     "06-Mathematics/MATH401_3D_Geometry/Vector向量.md",
     "06-Mathematics/MATH401_3D_Geometry/Polygon Triangulation三角化.md",
@@ -265,7 +252,6 @@
     "06-Mathematics/MATH201_LinearAlgebra/attachment",
     "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240517204145.png",
     "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240517204024.png",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240517194510.png",
     "02-Game_Developing/CS5540_GameProgramming/Level 3.1 Unity Render Pipeline.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 3.2 Unity Physics System.md",
     "01-Computer_Science/CS00_Language/Dlang/Introduction to Dlang.md",
@@ -275,7 +261,6 @@
     "02-Game_Developing/CS5540_GameProgramming/Level 0 Course Requirements.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 1.1 Introduction to Game.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 2.2 Linear Interpolation and Lerp 线性插值与Lerp.md",
     "04-Computer_Graphic/CG102_Pipline/attachment",
     "01-Computer_Science/CS00_Language/Dlang",
     "01-Computer_Science/CS80_Algorithm/03_Sorting/attachment",

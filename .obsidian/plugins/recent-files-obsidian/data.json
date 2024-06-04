@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "4.1 Finite State Machin and Game AI",
-      "path": "02-Game_Developing/CS5540_GameProgramming/4.1 Finite State Machin and Game AI.md"
-    },
-    {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "4.1 Finite State Machin and Game AI",
+      "path": "02-Game_Developing/CS5540_GameProgramming/4.1 Finite State Machin and Game AI.md"
     },
     {
       "basename": "Polygon Triangulation三角化",
@@ -195,10 +195,6 @@
     {
       "basename": "Composite Data Type CDT 复合类型",
       "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Composite Data Type CDT 复合类型.md"
-    },
-    {
-      "basename": "Link List 链表",
-      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Link List 链表.md"
     }
   ],
   "omittedPaths": [],

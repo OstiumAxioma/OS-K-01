@@ -1,0 +1,65 @@
+{
+  "snapStepMinutes": 10,
+  "progressIndicator": "bar",
+  "showTaskNotification": false,
+  "zoomLevel": 1,
+  "timelineIcon": "calendar-with-checkmark",
+  "endLabel": "All done",
+  "startHour": 5,
+  "timelineDateFormat": "YYYY-MM-DD",
+  "centerNeedle": true,
+  "plannerHeading": "Day planner",
+  "plannerHeadingLevel": 1,
+  "timelineColored": false,
+  "timelineStartColor": "#50fb6d",
+  "timelineEndColor": "#ff7b24",
+  "timestampFormat": "HH:mm",
+  "hourFormat": "H",
+  "dataviewSource": "",
+  "extendDurationUntilNext": true,
+  "defaultDurationMinutes": 30,
+  "showTimestampInTaskBlock": true,
+  "showUncheduledTasks": true,
+  "showUnscheduledNestedTasks": true,
+  "showNow": true,
+  "showNext": true,
+  "pluginVersion": "0.20.4",
+  "showCompletedTasks": true,
+  "showSubtasksInTaskBlocks": true,
+  "icals": [
+    {
+      "name": "Daily",
+      "url": "https://outlook.office365.com/owa/calendar/ac67267bcd414f578afc98cfb9632472@northeastern.edu/2fac6c85990645c4a7de2e45bc2de1fa8576556187021406882/calendar.ics",
+      "color": "#daee44"
+    },
+    {
+      "name": "Academic",
+      "url": "https://outlook.office365.com/owa/calendar/ac67267bcd414f578afc98cfb9632472@northeastern.edu/f04fd5c7f9a6434ba824a4a55a29b08116447147427762566109/calendar.ics",
+      "color": "#32c89b"
+    },
+    {
+      "name": "Email/Invitation",
+      "url": "https://outlook.office365.com/owa/calendar/ac67267bcd414f578afc98cfb9632472@northeastern.edu/7e08f29532a840b7b9af40bf3d1f7d5b2592030803348493186/calendar.ics",
+      "color": "#ff70b5"
+    },
+    {
+      "name": "Work",
+      "url": "https://outlook.office365.com/owa/calendar/ac67267bcd414f578afc98cfb9632472@northeastern.edu/1e340d8801314068abb2729c3b2d41ea6337905682631862438/calendar.ics",
+      "color": "#b48a6e"
+    },
+    {
+      "name": "Study",
+      "url": "https://outlook.office365.com/owa/calendar/ac67267bcd414f578afc98cfb9632472@northeastern.edu/af74b397258b4f4ba744f28f5ab4ca7e6710310314660640009/calendar.ics",
+      "color": "#8c99f8"
+    },
+    {
+      "name": "Canvas",
+      "url": "https://northeastern.instructure.com/feeds/calendars/user_HSdp0p9kULFh597g3Npi0eergD71wVKSnCeOdIUc.ics",
+      "color": "#fe4d4d"
+    }
+  ],
+  "colorOverrides": [],
+  "editMode": "simple",
+  "copyOnDrag": false,
+  "releaseNotes": true
+}
