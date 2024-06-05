@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "01a55a5379dfeb6c",
+        "id": "94a994ec6f01ab8a",
         "type": "tabs",
         "children": [
           {
-            "id": "c490853010298a4b",
+            "id": "f56df6e207682f1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "02-Game_Developing/CS5540_GameProgramming/9.1 Finite State Machin and Game AI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "02-Game_Developing/CS5540_GameProgramming/9.1 Finite State Machin and Game AI.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "02-Game_Developing/CS5540_GameProgramming/9.1 Finite State Machin and Game AI.md"
               }
             }
           },
@@ -145,9 +145,17 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "b4f615523ba17892",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "698b462fcb67854c",
@@ -160,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "02-Game_Developing/CS5540_GameProgramming/9.1 Finite State Machin and Game AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "02-Game_Developing/CS5540_GameProgramming/9.1 Finite State Machin and Game AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,22 +230,31 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0834ed381dd01a56",
+  "active": "f56df6e207682f1e",
   "lastOpenFiles": [
-    "2024-06-03.md",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/State Pattern 状态模式.md",
     "Home.md",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/attachment/Pasted image 20240605001844.png",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/attachment/Pasted image 20240605001646.png",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/attachment/Pasted image 20240605001617.png",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/attachment",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Design Pattern 设计模式.md",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Factory Mode 工厂模式.md",
+    "01-Computer_Science/CS00_Language/Java/Java switch case 语句.md",
+    "01-Computer_Science/CS00_Language/Java/attachment/Pasted image 20240605000750.png",
+    "01-Computer_Science/CS00_Language/Java/attachment",
+    "01-Computer_Science/CS00_Language/Java/Java 枚举 Enum.md",
     "2024-06-04.md",
+    "2024-06-03.md",
     "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240603072709.png",
     "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240603072216.png",
-    "02-Game_Developing/CS5540_GameProgramming/4.1 Finite State Machin and Game AI.md",
+    "02-Game_Developing/CS5540_GameProgramming/9.1 Finite State Machin and Game AI.md",
     "06-Mathematics/MATH401_3D_Geometry/Vector向量.md",
     "06-Mathematics/MATH401_3D_Geometry/Polygon Triangulation三角化.md",
     "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md",
     "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md",
     "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 6.1 FPS Game Development 1 - Projectile and Health System.md",
-    "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Factory Mode 工厂模式.md",
-    "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/Design Pattern 设计模式.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 5.1 Describe Rotation.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 5.2 FPS Game Development 1 - Controller.md",
     "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240521035409.png",
@@ -247,20 +264,12 @@
     "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240520181059.png",
     "02-Game_Developing/CS5540_GameProgramming/Level 4.1 UI and Event System.md",
     "06-Mathematics/MATH201_LinearAlgebra/Quaternion 四元数.md",
-    "06-Mathematics/MATH401_3D_Geometry/attachment/Pasted image 20240520011857.png",
-    "06-Mathematics/MATH201_LinearAlgebra/attachment/Pasted image 20240519231723.png",
     "06-Mathematics/MATH201_LinearAlgebra/attachment",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240517204145.png",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240517204024.png",
     "02-Game_Developing/CS5540_GameProgramming/Level 3.1 Unity Render Pipeline.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 3.2 Unity Physics System.md",
     "01-Computer_Science/CS00_Language/Dlang/Introduction to Dlang.md",
     "01-Computer_Science/CS00_Language/Csharp/Csharp 修饰符.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 1.2 Csharp and Unity Graphic.md",
-    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 0 Course Requirements.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 1.1 Introduction to Game.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 2.1 Math and Vector in Unity.md",
     "04-Computer_Graphic/CG102_Pipline/attachment",
     "01-Computer_Science/CS00_Language/Dlang",
     "01-Computer_Science/CS80_Algorithm/03_Sorting/attachment",
@@ -268,8 +277,6 @@
     "03-Modeling/CG5350_ComputationalGeometry",
     "02-Game_Developing/CS5540_GameProgramming/attachment/GP_Level02_Day02_MathforGames.pdf",
     "06-Mathematics/MATH401_3D_Geometry/attachment",
-    "06-Mathematics/MATH103_Calculus",
-    "06-Mathematics/MATH102_DiscreteMath",
     "未命名.canvas"
   ]
 }

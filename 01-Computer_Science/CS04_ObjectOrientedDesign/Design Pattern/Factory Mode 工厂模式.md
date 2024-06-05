@@ -7,10 +7,6 @@ component:
   - "[[Binary Heap 堆结构]]"
 stategy:
   - "[[Dynamic Programming 动态规划]]"
-timeComplexity:
-  - O(n)
-spaceComplexity:
-  - O(n)
 status:
 ---
 ## 算法简介
