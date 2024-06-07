@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "94a994ec6f01ab8a",
+        "id": "0bc48a082ca5ecfe",
         "type": "tabs",
         "children": [
           {
-            "id": "f56df6e207682f1e",
+            "id": "0897b56194adbbd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/9.1 Finite State Machin and Game AI.md",
+                "file": "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#数据结构",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/9.1 Finite State Machin and Game AI.md"
+                "file": "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/9.1 Finite State Machin and Game AI.md"
+                "file": "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/9.1 Finite State Machin and Game AI.md",
+                "file": "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-Game_Developing/CS5540_GameProgramming/9.1 Finite State Machin and Game AI.md",
+                "file": "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,10 +230,22 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f56df6e207682f1e",
+  "active": "0897b56194adbbd0",
   "lastOpenFiles": [
-    "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/State Pattern 状态模式.md",
+    "01-Computer_Science/CS00_Language/C++/C++ 变量与常量.md",
+    "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md",
+    "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md",
+    "04-Computer_Graphic/CG201_OpenGL/attachment/MultiTarget.png",
+    "04-Computer_Graphic/CG201_OpenGL/attachment/SourceCopy.png",
+    "04-Computer_Graphic/CG201_OpenGL/attachment/FileStructure.png",
+    "04-Computer_Graphic/CG201_OpenGL/attachment/dll.png",
+    "04-Computer_Graphic/CG201_OpenGL/attachment/lib.png",
+    "04-Computer_Graphic/CG201_OpenGL/attachment",
+    "04-Computer_Graphic/CG102_Pipline/OpenGL渲染管线.md",
+    "04-Computer_Graphic/CG201_OpenGL",
+    "04-Computer_Graphic/CG102_Pipline/SDL(Simple DirectMedia Layer)管线.md",
     "Home.md",
+    "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/State Pattern 状态模式.md",
     "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/attachment/Pasted image 20240605001844.png",
     "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/attachment/Pasted image 20240605001646.png",
     "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/attachment/Pasted image 20240605001617.png",
@@ -247,7 +259,6 @@
     "2024-06-04.md",
     "2024-06-03.md",
     "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240603072709.png",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240603072216.png",
     "02-Game_Developing/CS5540_GameProgramming/9.1 Finite State Machin and Game AI.md",
     "06-Mathematics/MATH401_3D_Geometry/Vector向量.md",
     "06-Mathematics/MATH401_3D_Geometry/Polygon Triangulation三角化.md",
@@ -257,26 +268,16 @@
     "02-Game_Developing/CS5540_GameProgramming/Level 6.1 FPS Game Development 1 - Projectile and Health System.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 5.1 Describe Rotation.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 5.2 FPS Game Development 1 - Controller.md",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240521035409.png",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240520234917.png",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240520210313.png",
     "06-Mathematics/MATH401_3D_Geometry/Descriptive Rotation 描述旋转.md",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240520181059.png",
     "02-Game_Developing/CS5540_GameProgramming/Level 4.1 UI and Event System.md",
     "06-Mathematics/MATH201_LinearAlgebra/Quaternion 四元数.md",
     "06-Mathematics/MATH201_LinearAlgebra/attachment",
     "02-Game_Developing/CS5540_GameProgramming/Level 3.1 Unity Render Pipeline.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 3.2 Unity Physics System.md",
-    "01-Computer_Science/CS00_Language/Dlang/Introduction to Dlang.md",
-    "01-Computer_Science/CS00_Language/Csharp/Csharp 修饰符.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 1.2 Csharp and Unity Graphic.md",
     "04-Computer_Graphic/CG102_Pipline/attachment",
     "01-Computer_Science/CS00_Language/Dlang",
     "01-Computer_Science/CS80_Algorithm/03_Sorting/attachment",
     "03-Modeling/CG5350_ComputationalGeometry/attachment",
     "03-Modeling/CG5350_ComputationalGeometry",
-    "02-Game_Developing/CS5540_GameProgramming/attachment/GP_Level02_Day02_MathforGames.pdf",
-    "06-Mathematics/MATH401_3D_Geometry/attachment",
     "未命名.canvas"
   ]
 }

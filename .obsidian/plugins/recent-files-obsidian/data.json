@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "GLFW+Glad编译流程",
+      "path": "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md"
+    },
+    {
+      "basename": "C++ 变量与常量",
+      "path": "01-Computer_Science/CS00_Language/C++/C++ 变量与常量.md"
+    },
+    {
+      "basename": "CMake工程管理",
+      "path": "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md"
+    },
+    {
+      "basename": "OpenGL渲染管线",
+      "path": "04-Computer_Graphic/CG102_Pipline/OpenGL渲染管线.md"
+    },
+    {
+      "basename": "SDL(Simple DirectMedia Layer)管线",
+      "path": "04-Computer_Graphic/CG102_Pipline/SDL(Simple DirectMedia Layer)管线.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "9.1 Finite State Machin and Game AI",
       "path": "02-Game_Developing/CS5540_GameProgramming/9.1 Finite State Machin and Game AI.md"
     },
     {
       "basename": "State Pattern 状态模式",
       "path": "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/State Pattern 状态模式.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Design Pattern 设计模式",
@@ -125,14 +145,6 @@
       "path": "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Iteration and Recursion 迭代与递归.md"
     },
     {
-      "basename": "SDL(Simple DirectMedia Layer)管线",
-      "path": "04-Computer_Graphic/CG102_Pipline/SDL(Simple DirectMedia Layer)管线.md"
-    },
-    {
-      "basename": "OpenGL渲染管线",
-      "path": "04-Computer_Graphic/CG102_Pipline/OpenGL渲染管线.md"
-    },
-    {
       "basename": "102-Computational Geometry in a Physics Engine",
       "path": "03-Modeling/CG5350_ComputationalGeometry/102-Computational Geometry in a Physics Engine.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Inheritance 继承",
       "path": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Inheritance 继承.md"
-    },
-    {
-      "basename": "Interface 接口",
-      "path": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Interface 接口.md"
-    },
-    {
-      "basename": "Binary Tree 二叉树",
-      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Binary Tree 二叉树.md"
-    },
-    {
-      "basename": "Abstract data type ADT 抽象类型",
-      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Abstract data type ADT 抽象类型.md"
     }
   ],
   "omittedPaths": [],
