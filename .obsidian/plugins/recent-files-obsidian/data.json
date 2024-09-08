@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "GLFW+Glad编译流程",
-      "path": "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md"
-    },
-    {
-      "basename": "C++ 变量与常量",
-      "path": "01-Computer_Science/CS00_Language/C++/C++ 变量与常量.md"
-    },
-    {
       "basename": "CMake工程管理",
       "path": "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md"
-    },
-    {
-      "basename": "OpenGL渲染管线",
-      "path": "04-Computer_Graphic/CG102_Pipline/OpenGL渲染管线.md"
     },
     {
       "basename": "SDL(Simple DirectMedia Layer)管线",
       "path": "04-Computer_Graphic/CG102_Pipline/SDL(Simple DirectMedia Layer)管线.md"
     },
     {
+      "basename": "OpenGL渲染管线",
+      "path": "04-Computer_Graphic/CG102_Pipline/OpenGL渲染管线.md"
+    },
+    {
+      "basename": "Abstract data type ADT 抽象类型",
+      "path": "01-Computer_Science/CS08_DataStructure/02_DataTypes/Abstract data type ADT 抽象类型.md"
+    },
+    {
+      "basename": "Memory 内存",
+      "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Memory 内存.md"
+    },
+    {
+      "basename": "Computer Composition 计算机组成",
+      "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Computer Composition 计算机组成.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
+    },
+    {
+      "basename": "GLFW+Glad编译流程",
+      "path": "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md"
+    },
+    {
+      "basename": "C++ 变量与常量",
+      "path": "01-Computer_Science/CS00_Language/C++/C++ 变量与常量.md"
     },
     {
       "basename": "9.1 Finite State Machin and Game AI",
@@ -187,18 +199,6 @@
     {
       "basename": "Class and Object 面向对象基本元素-类与对象",
       "path": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Class and Object 面向对象基本元素-类与对象.md"
-    },
-    {
-      "basename": "Computer Composition 计算机组成",
-      "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Computer Composition 计算机组成.md"
-    },
-    {
-      "basename": "Memory 内存",
-      "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Memory 内存.md"
-    },
-    {
-      "basename": "Inheritance 继承",
-      "path": "01-Computer_Science/CS04_ObjectOrientedDesign/OOD Concept/Inheritance 继承.md"
     }
   ],
   "omittedPaths": [],

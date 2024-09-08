@@ -123,7 +123,7 @@ file(COPY ${ASSETS} DESTINATION ${CMAKE_BINARY_DIR})
 ```
 <sup>写入主CMakeLists</sup>
 
-此过程在文件执行过程中[[CMake工程管理#静态链接vs动态链接|动态链接库]]链接库]].dll
+此过程在文件执行过程中[[CMake工程管理#静态链接vs动态链接|动态链接库]]链接库.dll
 
 ![[SourceCopy.png|center|300]]
 <center><sup>动态链接库的存放位置</sup></center>

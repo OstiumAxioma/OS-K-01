@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0bc48a082ca5ecfe",
+        "id": "4e938c5d8b0c840f",
         "type": "tabs",
         "children": [
           {
-            "id": "0897b56194adbbd0",
+            "id": "300a6cb2c8bc1c7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md",
+                "file": "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md"
+                "file": "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md"
               }
             }
           }
@@ -126,7 +126,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md"
+                "file": "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md",
+                "file": "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md",
+                "file": "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,8 +230,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0897b56194adbbd0",
+  "active": "300a6cb2c8bc1c7e",
   "lastOpenFiles": [
+    "04-Computer_Graphic/CG102_Pipline/SDL(Simple DirectMedia Layer)管线.md",
+    "04-Computer_Graphic/CG102_Pipline/OpenGL渲染管线.md",
+    "01-Computer_Science/CS08_DataStructure/02_DataTypes/Abstract data type ADT 抽象类型.md",
+    "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Memory 内存.md",
+    "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Computer Composition 计算机组成.md",
+    "Home.md",
     "01-Computer_Science/CS00_Language/C++/C++ 变量与常量.md",
     "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md",
     "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md",
@@ -241,10 +247,7 @@
     "04-Computer_Graphic/CG201_OpenGL/attachment/dll.png",
     "04-Computer_Graphic/CG201_OpenGL/attachment/lib.png",
     "04-Computer_Graphic/CG201_OpenGL/attachment",
-    "04-Computer_Graphic/CG102_Pipline/OpenGL渲染管线.md",
     "04-Computer_Graphic/CG201_OpenGL",
-    "04-Computer_Graphic/CG102_Pipline/SDL(Simple DirectMedia Layer)管线.md",
-    "Home.md",
     "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/State Pattern 状态模式.md",
     "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/attachment/Pasted image 20240605001844.png",
     "01-Computer_Science/CS04_ObjectOrientedDesign/Design Pattern/attachment/Pasted image 20240605001646.png",
@@ -269,10 +272,7 @@
     "02-Game_Developing/CS5540_GameProgramming/Level 5.1 Describe Rotation.md",
     "02-Game_Developing/CS5540_GameProgramming/Level 5.2 FPS Game Development 1 - Controller.md",
     "06-Mathematics/MATH401_3D_Geometry/Descriptive Rotation 描述旋转.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 4.1 UI and Event System.md",
-    "06-Mathematics/MATH201_LinearAlgebra/Quaternion 四元数.md",
     "06-Mathematics/MATH201_LinearAlgebra/attachment",
-    "02-Game_Developing/CS5540_GameProgramming/Level 3.1 Unity Render Pipeline.md",
     "04-Computer_Graphic/CG102_Pipline/attachment",
     "01-Computer_Science/CS00_Language/Dlang",
     "01-Computer_Science/CS80_Algorithm/03_Sorting/attachment",
