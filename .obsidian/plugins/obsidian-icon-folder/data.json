@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiOpenaiLine",
+      "TiMath",
       "CoTriangle",
       "RaLevelFour",
-      "TiArrowIteration",
-      "SiGraphql",
-      "FabPython"
+      "TiArrowIteration"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,7 +46,6 @@
   "01-Computer_Science/CS08_DataStructure": "SiGraphql",
   "01-Computer_Science/CS80_Algorithm": "RiFormula",
   "99-Template": "OcProjectTemplate24",
-  "98-Excalidraw": "OcNote16",
   "02-Game_Developing": "RaPerspectiveDiceThree",
   "03-Modeling": "SiAutodesk",
   "04-Computer_Graphic": "SiCmake",
@@ -66,5 +65,8 @@
   "04-Computer_Graphic/CG102_Pipline/SDL(Simple DirectMedia Layer)管线.md": "SiGraphql",
   "06-Mathematics/MATH401_3D_Geometry/Descriptive Rotation 描述旋转.md": "TiArrowIteration",
   "06-Mathematics/MATH201_LinearAlgebra/Quaternion 四元数.md": "RaLevelFour",
-  "06-Mathematics/MATH401_3D_Geometry/Polygon Triangulation三角化.md": "CoTriangle"
+  "06-Mathematics/MATH401_3D_Geometry/Polygon Triangulation三角化.md": "CoTriangle",
+  "06-Mathematics": "TiMath",
+  "98-KnowledgeBoard": "OcNote16",
+  "07-Artificial Intelligence": "RiOpenaiLine"
 }

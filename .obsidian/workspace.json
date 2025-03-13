@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4e938c5d8b0c840f",
+        "id": "7b3e0a1860d0125d",
         "type": "tabs",
         "children": [
           {
-            "id": "300a6cb2c8bc1c7e",
+            "id": "3be72f3824a99aa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md"
+                "file": "Home.md"
               }
             }
           }
@@ -106,7 +106,7 @@
       {
         "id": "ff91887cd55e33b2",
         "type": "tabs",
-        "dimension": 54.748062015503876,
+        "dimension": 35.85271317829457,
         "children": [
           {
             "id": "3022d8617f88a7f4",
@@ -126,7 +126,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md"
+                "file": "Home.md"
               }
             }
           },
@@ -160,7 +160,7 @@
       {
         "id": "698b462fcb67854c",
         "type": "tabs",
-        "dimension": 45.251937984496124,
+        "dimension": 64.14728682170544,
         "children": [
           {
             "id": "953272869da72e21",
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,17 +230,25 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "300a6cb2c8bc1c7e",
+  "active": "3be72f3824a99aa9",
   "lastOpenFiles": [
-    "04-Computer_Graphic/CG102_Pipline/SDL(Simple DirectMedia Layer)管线.md",
+    "07-Artificial Intelligence",
     "04-Computer_Graphic/CG102_Pipline/OpenGL渲染管线.md",
+    "Home.md",
+    "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md",
+    "04-Computer_Graphic/CG102_Pipline/SDL(Simple DirectMedia Layer)管线.md",
+    "01-Computer_Science/CS00_Language/Dlang/Introduction to Dlang.md",
+    "01-Computer_Science/CS00_Language/Java/Java 枚举 Enum.md",
+    "99-Template/Tool Learning模板.md",
+    "06-Mathematics/MATH401_3D_Geometry/Descriptive Rotation 描述旋转.md",
+    "2024-06-04.md",
+    "06-Mathematics/MATH401_3D_Geometry/Polygon Triangulation三角化.md",
+    "06-Mathematics/MATH201_LinearAlgebra/Quaternion 四元数.md",
+    "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md",
     "01-Computer_Science/CS08_DataStructure/02_DataTypes/Abstract data type ADT 抽象类型.md",
     "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Memory 内存.md",
     "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Computer Composition 计算机组成.md",
-    "Home.md",
     "01-Computer_Science/CS00_Language/C++/C++ 变量与常量.md",
-    "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md",
-    "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md",
     "04-Computer_Graphic/CG201_OpenGL/attachment/MultiTarget.png",
     "04-Computer_Graphic/CG201_OpenGL/attachment/SourceCopy.png",
     "04-Computer_Graphic/CG201_OpenGL/attachment/FileStructure.png",
@@ -258,20 +266,12 @@
     "01-Computer_Science/CS00_Language/Java/Java switch case 语句.md",
     "01-Computer_Science/CS00_Language/Java/attachment/Pasted image 20240605000750.png",
     "01-Computer_Science/CS00_Language/Java/attachment",
-    "01-Computer_Science/CS00_Language/Java/Java 枚举 Enum.md",
-    "2024-06-04.md",
     "2024-06-03.md",
     "02-Game_Developing/CS5540_GameProgramming/attachment/Pasted image 20240603072709.png",
     "02-Game_Developing/CS5540_GameProgramming/9.1 Finite State Machin and Game AI.md",
     "06-Mathematics/MATH401_3D_Geometry/Vector向量.md",
-    "06-Mathematics/MATH401_3D_Geometry/Polygon Triangulation三角化.md",
     "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Time Complexity 时间复杂度.md",
     "01-Computer_Science/CS80_Algorithm/01_BasicConcept/Algorithm Basic 算法基础.md",
-    "02-Game_Developing/CS5540_GameProgramming/CS5540_System.excalidraw.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 6.1 FPS Game Development 1 - Projectile and Health System.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 5.1 Describe Rotation.md",
-    "02-Game_Developing/CS5540_GameProgramming/Level 5.2 FPS Game Development 1 - Controller.md",
-    "06-Mathematics/MATH401_3D_Geometry/Descriptive Rotation 描述旋转.md",
     "06-Mathematics/MATH201_LinearAlgebra/attachment",
     "04-Computer_Graphic/CG102_Pipline/attachment",
     "01-Computer_Science/CS00_Language/Dlang",

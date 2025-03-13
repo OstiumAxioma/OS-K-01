@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "CMake工程管理",
-      "path": "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md"
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "SDL(Simple DirectMedia Layer)管线",
@@ -11,6 +11,38 @@
     {
       "basename": "OpenGL渲染管线",
       "path": "04-Computer_Graphic/CG102_Pipline/OpenGL渲染管线.md"
+    },
+    {
+      "basename": "CMake工程管理",
+      "path": "04-Computer_Graphic/CG201_OpenGL/CMake工程管理.md"
+    },
+    {
+      "basename": "GLFW+Glad编译流程",
+      "path": "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md"
+    },
+    {
+      "basename": "Introduction to Dlang",
+      "path": "01-Computer_Science/CS00_Language/Dlang/Introduction to Dlang.md"
+    },
+    {
+      "basename": "Java 枚举 Enum",
+      "path": "01-Computer_Science/CS00_Language/Java/Java 枚举 Enum.md"
+    },
+    {
+      "basename": "Tool Learning模板",
+      "path": "99-Template/Tool Learning模板.md"
+    },
+    {
+      "basename": "Descriptive Rotation 描述旋转",
+      "path": "06-Mathematics/MATH401_3D_Geometry/Descriptive Rotation 描述旋转.md"
+    },
+    {
+      "basename": "Polygon Triangulation三角化",
+      "path": "06-Mathematics/MATH401_3D_Geometry/Polygon Triangulation三角化.md"
+    },
+    {
+      "basename": "Quaternion 四元数",
+      "path": "06-Mathematics/MATH201_LinearAlgebra/Quaternion 四元数.md"
     },
     {
       "basename": "Abstract data type ADT 抽象类型",
@@ -23,14 +55,6 @@
     {
       "basename": "Computer Composition 计算机组成",
       "path": "01-Computer_Science/CS08_DataStructure/01_ComputerComposition/Computer Composition 计算机组成.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "GLFW+Glad编译流程",
-      "path": "04-Computer_Graphic/CG201_OpenGL/GLFW+Glad编译流程.md"
     },
     {
       "basename": "C++ 变量与常量",
@@ -55,18 +79,6 @@
     {
       "basename": "Java switch case 语句",
       "path": "01-Computer_Science/CS00_Language/Java/Java switch case 语句.md"
-    },
-    {
-      "basename": "Java 枚举 Enum",
-      "path": "01-Computer_Science/CS00_Language/Java/Java 枚举 Enum.md"
-    },
-    {
-      "basename": "2024-06-04",
-      "path": "2024-06-04.md"
-    },
-    {
-      "basename": "Polygon Triangulation三角化",
-      "path": "06-Mathematics/MATH401_3D_Geometry/Polygon Triangulation三角化.md"
     },
     {
       "basename": "Vector向量",
@@ -101,16 +113,8 @@
       "path": "02-Game_Developing/CS5540_GameProgramming/Level 5.2 FPS Game Development 1 - Controller.md"
     },
     {
-      "basename": "Descriptive Rotation 描述旋转",
-      "path": "06-Mathematics/MATH401_3D_Geometry/Descriptive Rotation 描述旋转.md"
-    },
-    {
       "basename": "Level 4.1 UI and Event System",
       "path": "02-Game_Developing/CS5540_GameProgramming/Level 4.1 UI and Event System.md"
-    },
-    {
-      "basename": "Quaternion 四元数",
-      "path": "06-Mathematics/MATH201_LinearAlgebra/Quaternion 四元数.md"
     },
     {
       "basename": "Level 3.1 Unity Render Pipeline",
@@ -119,10 +123,6 @@
     {
       "basename": "Level 3.2 Unity Physics System",
       "path": "02-Game_Developing/CS5540_GameProgramming/Level 3.2 Unity Physics System.md"
-    },
-    {
-      "basename": "Introduction to Dlang",
-      "path": "01-Computer_Science/CS00_Language/Dlang/Introduction to Dlang.md"
     },
     {
       "basename": "Csharp 修饰符",
